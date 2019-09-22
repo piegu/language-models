@@ -16,7 +16,7 @@ For each Language Model, the link to the corresponding notebook is done. It allo
 I trained a Portuguese Bidirectional Language Model with the MultiFit configuration (see accuracy and perplexity on the [Language Models page](https://github.com/piegu/language-models)).
 
 ### Configuration MultiFiT (architecture 4 QRNN with 1550 hidden parameters by layer / tokenizer SentencePiece (15 000 tokens))
-- [pt_lm_sp15_multifit.tgz](https://drive.google.com/open?id=1QNU1AOiGAxyzrogf_dHM4BU3wC5nWHll) (184 Mo) | notebook [lm3-portuguese.ipynb](https://github.com/piegu/language-models/blob/master/lm3-portuguese.ipynb) | Training corpus: 100 millions tokens from French Wikipedia
+- [pt_lm_sp15_multifit.tgz](https://drive.google.com/open?id=1QNU1AOiGAxyzrogf_dHM4BU3wC5nWHll) (184 Mo) | notebook [lm3-portuguese.ipynb](https://github.com/piegu/language-models/blob/master/lm3-portuguese.ipynb) | Training corpus: 100 millions tokens from Portuguese Wikipedia
 
 ## French Bidirectional LM
 
