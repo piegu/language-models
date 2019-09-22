@@ -1,9 +1,9 @@
 # Language Models
 Repository of pre-trained Language Models.
 
-**WARNING**: a Bidirectional LM model using the MultiFiT configuration is a good model to perform text classification but with only 46 millions of parameters, it is far from being a LM that can gan compete with [GPT-2](https://openai.com/blog/better-language-models/) or [BERT](https://arxiv.org/abs/1810.04805) in NLP tasks like text generation. This my next step ;-) 
+**WARNING**: a Bidirectional LM model using the MultiFiT configuration is a good model to perform text classification but with only 46 millions of parameters, it is far from being a LM that can compete with [GPT-2](https://openai.com/blog/better-language-models/) or [BERT](https://arxiv.org/abs/1810.04805) in NLP tasks like text generation. This my next step ;-) 
 
-**Note**: the traning times given below are the sum of fastai Databunch creation + model training on 10 epochs.
+**Note**: the training times given below are the sum of fastai Databunch creation time + model training time on 10 epochs.
 
 ## Portuguese
 
