@@ -11,6 +11,13 @@ In a terminal, type `tar -xvzf filename.tgz` to extract the folder with 4 files 
 
 For each Language Model, the link to the corresponding notebook is done. It allows to understand how the LM was trained and on which training corpus.
 
+## Portuguese Bidirectional LM
+
+I trained a Portuguese Bidirectional Language Model with the MultiFit configuration (see accuracy and perplexity on the [Language Models page](https://github.com/piegu/language-models)).
+
+### Configuration MultiFiT (architecture 4 QRNN with 1550 hidden parameters by layer / tokenizer SentencePiece (15 000 tokens))
+- [pt_lm_sp15_multifit.tgz](https://drive.google.com/open?id=1QNU1AOiGAxyzrogf_dHM4BU3wC5nWHll) (184 Mo) | notebook [lm3-portuguese.ipynb](https://github.com/piegu/language-models/blob/master/lm3-portuguese.ipynb) | Training corpus: 100 millions tokens from French Wikipedia
+
 ## French Bidirectional LM
 
 I trained 3 French Bidirectional Language Models but the best is the one trained with the MultiFit configuration (see accuracy and perplexity on the [Language Models page](https://github.com/piegu/language-models)).
