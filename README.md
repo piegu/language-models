@@ -9,6 +9,10 @@ I trained 1 Portuguese Bidirectional Language Model with the [MultiFit](https://
 - notebook [lm3-portuguese.ipynb](https://github.com/piegu/language-models/blob/master/lm3-portuguese.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/lm3-portuguese.ipynb)): code used to train a Portuguese Bidirectional LM on a 100 millions corpus extrated from Wikipedia by using the [MultiFiT](https://arxiv.org/pdf/1909.04761.pdf) configuration.
 - link to download pre-trained parameters and vocabulary in [models](https://github.com/piegu/language-models/tree/master/models)
 
+**forward Portuguese LM**: (accuracy) 39.68% | (perplexity) 21.76
+
+**backward Portuguese LM**:(accuracy) 43.67% | (perplexity) 22.16
+
 ## French
 
 I trained 3 French Bidirectional Language Models but the best is the one trained with the [MultiFit](https://arxiv.org/pdf/1909.04761.pdf) configuration.
