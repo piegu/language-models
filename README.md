@@ -30,7 +30,7 @@ I trained 3 French Bidirectional Language Models but **the best is the one train
 | | backward  | 49.29%  | 16.58  | 8h10 | 
 | [ULMFiT with 3 QRNN + SentencePiece (15 000 tokens)](https://github.com/piegu/language-models/blob/master/lm2-french.ipynb) | forward   | 40.99%  | 19.96  | 5h30 |
 | | backward  | 47.19%  | 19.47  | 5h30 | 
-| [ULMFiT with 3 AWD-LSTM + spaCy (60 000 tokens)](https://github.com/piegu/language-models/blob/master/lm-french) | forward   | 36.44%  | 25.62  | 11h |
+| [ULMFiT with 3 AWD-LSTM + spaCy (60 000 tokens)](https://github.com/piegu/language-models/blob/master/lm-french.ipynb) | forward   | 36.44%  | 25.62  | 11h |
 | | backward  | 42.65%  | 27.09  | 11h | 
 
 ### 1. MultiFiT configuration (architecture 4 QRNN with 1550 hidden parameters by layer / tokenizer SentencePiece (15 000 tokens))
