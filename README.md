@@ -24,6 +24,15 @@ I trained 1 Portuguese Bidirectional Language Model with the [MultiFit](https://
 
 I trained 3 French Bidirectional Language Models but the best is the one trained with the [MultiFit](https://arxiv.org/pdf/1909.04761.pdf) configuration.
 
+| | | accuracy | perplexity | training time |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [MultiFiT with 4 QRNN + SentencePiece (15 000 tokens)](https://github.com/piegu/language-models/blob/master/lm3-french.ipynb) | forward   | 43.77%  | 16.09  | 8h40 |
+| | backward  | 49.29%  | 16.58  | 8h10 | 
+| [ULMFiT with 3 QRNN + SentencePiece (15 000 tokens)](https://github.com/piegu/language-models/blob/master/lm2-french.ipynb) | forward   | 40.99%  | 19.96  | 5h30 |
+| | backward  | 47.19%  | 19.47  | 5h30 | 
+| [ULMFiT with 3 AWD-LSTM + spaCy (60 000 tokens)](https://github.com/piegu/language-models/blob/master/lm-french) | forward   | 36.44%  | 25.62  | 11h |
+| | backward  | 42.65%  | 27.09  | 11h | 
+
 ### 1. MultiFiT configuration (architecture 4 QRNN with 1550 hidden parameters by layer / tokenizer SentencePiece (15 000 tokens))
 - notebook [lm3-french.ipynb](https://github.com/piegu/language-models/blob/master/lm3-french.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/lm3-french.ipynb)): code used to train a French Bidirectional LM on a 100 millions corpus extrated from Wikipedia by using the [MultiFiT](https://arxiv.org/pdf/1909.04761.pdf) configuration.
 - link to download pre-trained parameters and vocabulary in [models](https://github.com/piegu/language-models/tree/master/models)
