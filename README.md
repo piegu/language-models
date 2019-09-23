@@ -3,7 +3,7 @@ Repository of pre-trained Language Models.
 
 **WARNING**: a Bidirectional LM model using the MultiFiT configuration is a good model to perform text classification but with only 46 millions of parameters, it is far from being a LM that can compete with [GPT-2](https://openai.com/blog/better-language-models/) or [BERT](https://arxiv.org/abs/1810.04805) in NLP tasks like text generation. This my next step ;-) 
 
-**Note**: the training times given below are the sum of fastai Databunch creation time + model training time on 10 epochs.
+**Note**: The training times shown in the tables on this page are the sum of the creation time of Fastai Databunch (forward and backward) and the training duration of the bidirectional model over 10 periods. The download time of the Wikipedia corpus and its preparation time are not counted.
 
 ## Portuguese
 
@@ -22,7 +22,7 @@ I trained 1 Portuguese Bidirectional Language Model with the [MultiFit](https://
 
 ## French
 
-I trained 3 French Bidirectional Language Models but the best is the one trained with the [MultiFit](https://arxiv.org/pdf/1909.04761.pdf) configuration.
+I trained 3 French Bidirectional Language Models but **the best is the one trained with the [MultiFit](https://arxiv.org/pdf/1909.04761.pdf) configuration**.
 
 | | | accuracy | perplexity | training time |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
