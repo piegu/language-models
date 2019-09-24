@@ -13,6 +13,7 @@ I trained 1 Portuguese Bidirectional Language Model with the [MultiFit](https://
 - notebook [lm3-portuguese.ipynb](https://github.com/piegu/language-models/blob/master/lm3-portuguese.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/lm3-portuguese.ipynb)): code used to train a Portuguese Bidirectional LM on a 100 millions corpus extrated from Wikipedia by using the [MultiFiT](https://arxiv.org/pdf/1909.04761.pdf) configuration.
 - link to download pre-trained parameters and vocabulary in [models](https://github.com/piegu/language-models/tree/master/models)
 - notebook [lm3-portuguese-classifier-olist.ipynb](https://github.com/piegu/language-models/blob/master/lm3-portuguese-classifier-olist.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/lm3-portuguese-classifier-olist.ipynb)): code used to fine-tune a Portuguese Bidirectional LM and a Sentiment Classifier on "Brazilian E-Commerce Public Dataset by Olist" dataset.
+- notebook [lm3-portuguese-classifier-TCU-jurisprudencia.ipynb](https://github.com/piegu/language-models/blob/master/lm3-portuguese-classifier-TCU-jurisprudencia.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/lm3-portuguese-classifier-TCU-jurisprudencia.ipynb)): code used to fine-tune a Portuguese Bidirectional LM and a Text Classifier on "(reduzido) TCU jurisprudência" dataset.
 - Training with 1 NVIDIA GPU v100 on [GCP](https://cloud.google.com)
 
 | | accuracy | perplexity | training time |
