@@ -20,9 +20,11 @@ I trained 1 Portuguese Bidirectional Language Model (PBLM) with the [MultiFit](h
 
 - Applications:
   - notebook [lm3-portuguese-classifier-TCU-jurisprudencia.ipynb](https://github.com/piegu/language-models/blob/master/lm3-portuguese-classifier-TCU-jurisprudencia.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/lm3-portuguese-classifier-TCU-jurisprudencia.ipynb)): code used to fine-tune a Portuguese Bidirectional LM and a Text Classifier on "(reduzido) TCU jurisprudência" dataset.
-  - notebook [lm3-portuguese-classifier-olist.ipynb](https://github.com/piegu/language-models/blob/master/lm3-portuguese-classifier-olist.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/lm3-portuguese-classifier-olist.ipynb)): code used to fine-tune a Portuguese Bidirectional LM and a Sentiment Classifier on "Brazilian E-Commerce Public Dataset by Olist" dataset.
+  - notebook [lm3-portuguese-classifier-olist.ipynb](https://github.com/piegu/language-models/blob/master/lm3-portuguese-classifier-olist.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/lm3-portuguese-classifier-olist.ipynb)): code used to fine-tune a Portuguese Bidirectional LM and a Sentiment Classifier on "Brazilian E-Commerce Public Dataset by Olist" dataset. 
+  
+Here's an example of using the classifier to predict the category of a TCU legal text:
 
-![Usando o classificador para prever a categoria dos textos jurídicos do TCU](https://miro.medium.com/max/6275/1*nKPnG0hJnTrW0xV-T1DQ9A.jpeg "Usando o classificador para prever a categoria dos textos jurídicos do TCU")
+![Using the classifier to predict the category of TCU legal texts](https://miro.medium.com/max/6275/1*nKPnG0hJnTrW0xV-T1DQ9A.jpeg "Using the classifier to predict the category of TCU legal texts")
 
 ## French
 
@@ -48,7 +50,9 @@ I trained 3 French Bidirectional Language Models (FBLM) with 1 NVIDIA GPU v100 o
 
 - Application: notebook [lm3-french-classifier-amazon.ipynb](https://github.com/piegu/language-models/blob/master/lm3-french-classifier-amazon.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/lm3-french-classifier-amazon.ipynb)): code used to fine-tune a French Bidirectional LM and a Sentiment Classifier on "French Amazon Customer Reviews" dataset.
 
-![Utilisation du classifieur pour prédire le sentiment des commentaires sur un produit amazon](https://miro.medium.com/max/2630/1*HswVRzYjkFfom8BZLUWqjg.png "Utilisation du classifieur pour prédire le sentiment des commentaires sur un produit amazon")
+Here's an example of using the classifier to predict the feeling of comments on an amazon product:
+
+![Using the classifier to predict the feeling of comments on an amazon product](https://miro.medium.com/max/2630/1*HswVRzYjkFfom8BZLUWqjg.png "Using the classifier to predict the feeling of comments on an amazon product")
 
 ### 2. Architecture QRNN / tokenizer SentencePiece 
 - notebook [lm2-french.ipynb](https://github.com/piegu/language-models/blob/master/lm2-french.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/lm2-french.ipynb)): code used to train a French Bidirectional LM on a 100 millions corpus extrated from Wikipedia
