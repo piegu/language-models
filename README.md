@@ -26,7 +26,7 @@ I trained 1 Portuguese Bidirectional Language Model (PBLM) with the [MultiFit](h
 
 ## French
 
-I trained 3 French Bidirectional Language Models (FBLM) but **the best is the one trained with the [MultiFit](https://arxiv.org/pdf/1909.04761.pdf) configuration** with 1 NVIDIA GPU v100 on [GCP](https://cloud.google.com).
+I trained 3 French Bidirectional Language Models (FBLM) with 1 NVIDIA GPU v100 on [GCP](https://cloud.google.com) but **the best is the one trained with the [MultiFit](https://arxiv.org/pdf/1909.04761.pdf) configuration**.
 
 | French Bidirectional Language Models (FBLM) | | accuracy | perplexity | training time |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
