@@ -1,13 +1,16 @@
 # Models and vocabularies
 Repository of links to download pre-trained parameters and vocabularies of **pre-trained Bidirectional Language Models**.
 
-In a terminal, type `tar -xvzf filename.tgz` to extract the folder with 4 files of the pre-trained Bidirectional Language Model ({lang} is the language symbol like fr for French). The file tgz was created by the command `tar -cvzf <name of tarball>.tgz /path/to/source/folder`.
+In a terminal, type `tar -xvzf filename.tgz` to extract the folder with at least 4 files of the pre-trained Bidirectional Language Model ({lang} is the language symbol like fr for French). When the SentencePiece tokenizer has been used, there are 2 more files (SentencePiece model and vocab from the General language Model). The file tgz was created by the command `tar -cvzf filename.tgz /path/to/source/folder`.
 - Forward LM:
   - pre-trained parameters: {lang}_wt.pth
   - vocabulary: {lang}_wt_vocab.pkl
 - Backward LM:
   - pre-trained parameters: {lang}_wt_bwd.pth
   - vocabulary: {lang}_wt_vocab_bwd.pkl
+- SentencePiece:
+  -  model: spm.model
+  -  vocab: spm.vocab
 
 For each Language Model, the link to the corresponding notebook is done. It allows to understand how the LM was trained and on which training corpus.
 
@@ -16,7 +19,7 @@ For each Language Model, the link to the corresponding notebook is done. It allo
 I trained a Portuguese Bidirectional Language Model with the MultiFit configuration (see accuracy and perplexity on the [Language Models page](https://github.com/piegu/language-models)).
 
 ### Configuration MultiFiT (architecture 4 QRNN with 1550 hidden parameters by layer / tokenizer SentencePiece (15 000 tokens))
-- [pt_lm_sp15_multifit.tgz](https://drive.google.com/open?id=1QNU1AOiGAxyzrogf_dHM4BU3wC5nWHll) (184 Mo) | notebook [lm3-portuguese.ipynb](https://github.com/piegu/language-models/blob/master/lm3-portuguese.ipynb) | Training corpus: 100 millions tokens from Portuguese Wikipedia
+- [pt_lm_sp15_multifit.tgz](https://drive.google.com/open?id=1NmH1Ug1YeontgAlgbvZxNZ115WNoZNjq) (185 Mo, 6 files) | notebook [lm3-portuguese.ipynb](https://github.com/piegu/language-models/blob/master/lm3-portuguese.ipynb) | Training corpus: 100 millions tokens from Portuguese Wikipedia
 
 ## French Bidirectional LM
 
