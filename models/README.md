@@ -26,12 +26,12 @@ I trained a Portuguese Bidirectional Language Model with the MultiFit configurat
 I trained 3 French Bidirectional Language Models but the best is the one trained with the MultiFit configuration (see accuracy and perplexity on the [Language Models page](https://github.com/piegu/language-models)).
 
 ### 1. Configuration MultiFiT (architecture 4 QRNN with 1550 hidden parameters by layer / tokenizer SentencePiece (15 000 tokens))
-- [fr_lm_sp15_multifit.tgz](https://drive.google.com/open?id=1YWICXuhgf3zvffMsWAsrgvIAcv7STTr_) (184 Mo) | notebook [lm3-french.ipynb](https://github.com/piegu/language-models/blob/master/lm3-french.ipynb) | Training corpus: 100 millions tokens from French Wikipedia
+- [fr_lm_sp15_multifit.tgz](https://drive.google.com/open?id=1AZuCn4BkuXiFRebo0krk6svx09Bgrxvt) (185 Mo, 6 files) | notebook [lm3-french.ipynb](https://github.com/piegu/language-models/blob/master/lm3-french.ipynb) | Training corpus: 100 millions tokens from French Wikipedia
 
 ### 2. Architecture QRNN / tokenizer SentencePiece
-- [fr_lm_qrnn_sp15.tgz](https://drive.google.com/open?id=1cAVj40tI9Q4RVrmn-AzF6dER8xTv1_zM) (200 Mo) | notebook [lm2-french.ipynb](https://github.com/piegu/language-models/blob/master/lm2-french.ipynb) | Training corpus: 100 millions tokens from French Wikipedia
+- [fr_lm_qrnn_sp15.tgz](https://drive.google.com/open?id=1cAVj40tI9Q4RVrmn-AzF6dER8xTv1_zM) (200 Mo, 4 files, the 2 SP files are missing) | notebook [lm2-french.ipynb](https://github.com/piegu/language-models/blob/master/lm2-french.ipynb) | Training corpus: 100 millions tokens from French Wikipedia
 
 ### 3. Architecture AWD-LSTM / tokenizer spaCy
-- [fr_lm_awdlstm_spacy.tgz](https://drive.google.com/open?id=1CN6QqTxnTy_UHVTaIqc53mwSVpJJZtbN) (315 Mo) | notebook [lm-french.ipynb](https://github.com/piegu/language-models/blob/master/lm-french.ipynb) | Training corpus: 100 millions tokens from French Wikipedia
+- [fr_lm_awdlstm_spacy.tgz](https://drive.google.com/open?id=1CN6QqTxnTy_UHVTaIqc53mwSVpJJZtbN) (315 Mo, 4 files) | notebook [lm-french.ipynb](https://github.com/piegu/language-models/blob/master/lm-french.ipynb) | Training corpus: 100 millions tokens from French Wikipedia
 
 
