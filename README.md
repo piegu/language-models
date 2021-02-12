@@ -1,13 +1,19 @@
 # Language Models
-Repository of pre-trained Language Models.
+Repository of pre-trained Language Models and NLp models.
 
-**WARNING**: a Bidirectional LM model using the MultiFiT configuration is a good model to perform text classification but with only 46 millions of parameters, it is far from being a LM that can compete with [GPT-2](https://openai.com/blog/better-language-models/) or [BERT](https://arxiv.org/abs/1810.04805) in NLP tasks like text generation. This my next step ;-) 
+## NLP | Modelo de Question Answering em qualquer idioma baseado no BERT base (estudo de caso em português)
 
-**Note**: The training times shown in the tables on this page are the sum of the creation time of Fastai Databunch (forward and backward) and the training duration of the bidirectional model over 10 periods. The download time of the Wikipedia corpus and its preparation time are not counted.
+- notebook [colab_question_answering_BERT_base_cased_squad_v11_pt.ipynb](https://github.com/piegu/language-models/blob/master/colab_question_answering_BERT_base_cased_squad_v11_pt.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/colab_question_answering_BERT_base_cased_squad_v11_pt.ipynb)): training code of a Portuguese BERT base cased QA (Question Answering), finetuned on SQUAD v1.1
+- Blog post: [NLP | Modelo de Question Answering em qualquer idioma baseado no BERT base (estudo de caso em português)](https://medium.com/@pierre_guillou/nlp-modelo-de-question-answering-em-qualquer-idioma-baseado-no-bert-base-estudo-de-caso-em-12093d385e78)
+- Model in the Model Hub of Hugging Face: [Portuguese BERT base cased QA (Question Answering), finetuned on SQUAD v1.1](https://huggingface.co/pierreguillou/bert-base-cased-squad-v1.1-portuguese)
 
 ## Portuguese
 
 I trained 1 Portuguese Bidirectional Language Model (PBLM) with the [MultiFit](https://arxiv.org/pdf/1909.04761.pdf) configuration with 1 NVIDIA GPU v100 on [GCP](https://cloud.google.com).
+
+**WARNING**: a Bidirectional LM model using the MultiFiT configuration is a good model to perform text classification but with only 46 millions of parameters, it is far from being a LM that can compete with [GPT-2](https://openai.com/blog/better-language-models/) or [BERT](https://arxiv.org/abs/1810.04805) in NLP tasks like text generation. This my next step ;-) 
+
+**Note**: The training times shown in the tables on this page are the sum of the creation time of Fastai Databunch (forward and backward) and the training duration of the bidirectional model over 10 periods. The download time of the Wikipedia corpus and its preparation time are not counted.
 
 ### MultiFiT configuration (architecture 4 QRNN with 1550 hidden parameters by layer / tokenizer SentencePiece (15 000 tokens))
 - notebook [lm3-portuguese.ipynb](https://github.com/piegu/language-models/blob/master/lm3-portuguese.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/lm3-portuguese.ipynb)): code used to train a Portuguese Bidirectional LM on a 100 millions corpus extrated from Wikipedia by using the [MultiFiT](https://arxiv.org/pdf/1909.04761.pdf) configuration.
