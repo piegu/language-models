@@ -1,6 +1,11 @@
 # Language Models
 Repository of pre-trained Language Models and NLp models.
 
+## NLP | How to add a domain-specific vocabulary (new tokens) to a subword tokenizer already trained like BERT WordPiece
+**Summary**: In some cases, it may be crucial to enrich the vocabulary of an already trained natural language model with vocabulary from a specialized domain (medicine, law, etc.) in order to perform new tasks (classification, NER, summary, translation, etc.). While the Hugging Face library allows you to easily add new tokens to the vocabulary of an existing tokenizer like BERT WordPiece, those tokens must be whole words, not subwords. This article explains why and how to obtain these new tokens from a specialized corpus.
+- notebook [nlp_how_to_add_a_domain_specific_vocabulary_new_tokens_to_a_subword_tokenizer_already_trained_like_BERT_WordPiece.ipynb](https://github.com/piegu/language-models/blob/master/nlp_how_to_add_a_domain_specific_vocabulary_new_tokens_to_a_subword_tokenizer_already_trained_like_BERT_WordPiece.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/nlp_how_to_add_a_domain_specific_vocabulary_new_tokens_to_a_subword_tokenizer_already_trained_like_BERT_WordPiece.ipynb)) ([notebook in colab](https://colab.research.google.com/drive/1Hlfv5wHbYW863c9MraDy9EBknIQf3uAr?usp=sharing))
+- **Blog post**: [NLP | How to add a domain-specific vocabulary (new tokens) to a subword tokenizer already trained like BERT WordPiece](https://medium.com/@pierre_guillou/nlp-how-to-add-a-domain-specific-vocabulary-new-tokens-to-a-subword-tokenizer-already-trained-33ab15613a41)
+
 ## NLP | Modelo de Question Answering em qualquer idioma baseado no BERT base (estudo de caso em português)
 
 - notebook [colab_question_answering_BERT_base_cased_squad_v11_pt.ipynb](https://github.com/piegu/language-models/blob/master/colab_question_answering_BERT_base_cased_squad_v11_pt.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/colab_question_answering_BERT_base_cased_squad_v11_pt.ipynb)): training code of a Portuguese BERT base cased QA (Question Answering), finetuned on SQUAD v1.1
