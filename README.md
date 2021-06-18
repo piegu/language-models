@@ -3,7 +3,7 @@ Repository of pre-trained Language Models and NLp models.
 
 ## NLP | Modelo de Question Answering em qualquer idioma baseado no BERT large (estudo de caso em português)
 
-- notebook [question_answering_BERT_large_cased_squad_v11_pt.ipynb](https://github.com/piegu/language-models/blob/master/question_answering_BERT_large_cased_squad_v11_pt.ipynb) ([nbviewer of the notebook]()): training code of a Portuguese BERT large cased QA (Question Answering), finetuned on SQUAD v1.1
+- notebook [question_answering_BERT_large_cased_squad_v11_pt.ipynb](https://github.com/piegu/language-models/blob/master/question_answering_BERT_large_cased_squad_v11_pt.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/question_answering_BERT_large_cased_squad_v11_pt.ipynb)): training code of a Portuguese BERT large cased QA (Question Answering), finetuned on SQUAD v1.1
 - Blog post: [NLP | Como treinar um modelo de Question Answering em qualquer linguagem baseado no BERT large, melhorando o desempenho do modelo utilizando o BERT base? (estudo de caso em português)](https://medium.com/@pierre_guillou/nlp-como-treinar-um-modelo-de-question-answering-em-qualquer-linguagem-baseado-no-bert-large-1c899262dd96)
 - Model in the Model Hub of Hugging Face: [Portuguese BERT large cased QA (Question Answering), finetuned on SQUAD v1.1](https://huggingface.co/pierreguillou/bert-large-cased-squad-v1.1-portuguese)
 
