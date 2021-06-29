@@ -24,7 +24,7 @@ into the script https://github.com/Adapter-Hub/adapter-transformers/blob/master/
 
 All code changes are preceded by #new.
 
-Link to this file in github: https://github.com/piegu/language-models/upload/master/adapters/question-answering/run_qa_adapter.py
+Link to this file in github: https://github.com/piegu/language-models/blob/master/adapters/question-answering/run_qa_adapter.py
 """
 # You can also adapt this script on your own question answering task. Pointers for this are left as comments.
 
