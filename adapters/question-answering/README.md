@@ -1,0 +1,1 @@
+Notebooks and scripts for fine-tuning a Masked Language Model (MLM) like BERT (base or large) for a QA task by training adapters (library [adapter-transformers](https://github.com/Adapter-Hub/adapter-transformers)), not the embeddings and transformers layers of the MLM model.
