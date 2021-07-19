@@ -6,7 +6,7 @@ The [requirements.txt](https://github.com/Adapter-Hub/adapter-transformers/blob/
 
 - python: 3.8.10 (default, Jun  4 2021, 15:09:15) 
 - Pytorch: 1.9.0
-- adapter-transformers: 2.0.1
-- HF transformers: 4.5.1
+- adapter-transformers: 2.1.1
+- HF transformers: 4.8.2
 - tokenizers: 0.10.3
-- datasets: 1.8.0
+- datasets: 1.9.0
