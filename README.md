@@ -1,6 +1,11 @@
 # Language Models
 Repository of pre-trained Language Models and NLp models.
 
+## NLP nas empresas | Como ajustar um modelo de linguagem natural como BERT para a tarefa de classificação de tokens (NER) com um Adapter?
+
+- notebook [token_classification_adapter.ipynb](https://github.com/piegu/language-models/blob/master/adapters/token-classification/token_classification_adapter.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/adapters/token-classification/token_classification_adapter.ipynb)): finetuning a MLM (Masked Language Model) like BERT (base or large) with the library adapter-transformers on the Token Classification task (NER)
+- Blog post: [NLP nas empresas | Como ajustar um modelo de linguagem natural como BERT para a tarefa de classificação de tokens (NER) com um Adapter?](https://medium.com/@pierre_guillou/nlp-nas-empresas-como-ajustar-um-modelo-de-linguagem-natural-como-bert-para-a-tarefa-de-9c6a704bf536)
+
 ## NLP nas empresas | Como ajustar um modelo de linguagem natural como BERT a um novo domínio linguístico com um Adapter?
 
 - notebook [language_modeling_adapter.ipynb](https://github.com/piegu/language-models/blob/master/adapters/language-modeling/language_modeling_adapter.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/adapters/language-modeling/language_modeling_adapter.ipynb)): finetuning a MLM (Masked Language Model) like BERT (base or large) with the library adapter-transformers
