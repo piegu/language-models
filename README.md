@@ -1,5 +1,5 @@
 # Language Models
-Repository of pre-trained Language Models and NLp models.
+Repository of pre-trained Language Models and NLP models.
 
 ## NLP nas empresas | Como ajustar um modelo de linguagem natural como BERT para a tarefa de classificação de tokens (NER) com um Adapter?
 
