@@ -16,11 +16,12 @@
 """
 Fine-tuning the library models for question answering with adapter-transformers library.
 
-[06/28/2021] Added functions by Pierre GUILLOU
+[07/26/2021] Added functions by Pierre GUILLOU
 into the script https://github.com/Adapter-Hub/adapter-transformers/blob/master/examples/question-answering/run_qa.py:
 - EarlyStopping with early_stopping_patience (default: 1) when load_best_model_at_end (default: False) is True
 - MAD-X 2.0: there is no adapter in the last transformer layer if madx2 (default: False) is True 
 - Stack method for the lang and task adapters if load_lang_adapter not None
+- Houlsby MHA last layer that allows no to train adapter after the Feed Fordward but only after the MHA (Multi-Head Attention) in the last layer for the Houlsby configuration
 
 All code changes are preceded by #new.
 
@@ -212,6 +213,14 @@ class DataTrainingArguments:
             "help": "Stack method in the case of language adapter (load_lang_adapter not None)."
         },
     )
+    # new 
+    houlsby_MHA_lastlayer: bool = field(
+        default=False,
+        metadata={
+            "help": "Put only an adapter after the MHA but not after the FF in the last layer if True."
+        },
+    )        
+        
         
     def __post_init__(self):
         if (
@@ -445,6 +454,14 @@ def main():
                 "Adapters can only be loaded in adapters training mode."
                 "Use --train_adapter to enable adapter_training"
             )
+            
+    # new
+    # Put only the adapter after the MHA but not after the FF in the last layer
+    if data_args.houlsby_MHA_lastlayer and adapter_args.train_adapter and not data_args.madx2 and task_name in model.config.adapters and (adapter_args.adapter_config == "houlsby" or adapter_args.adapter_config == "houlsby+inv"):
+        import torch
+        from torch.nn import ModuleDict
+        model.bert.encoder.layer[len(model.bert.encoder.layer)-1].output.adapters = ModuleDict()
+       
     # Preprocessing the datasets.
     # Preprocessing is slighlty different for training and evaluation.
     if training_args.do_train:
