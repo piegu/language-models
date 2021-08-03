@@ -1,6 +1,11 @@
 # Language Models
 Repository of pre-trained Language Models and NLP models.
 
+## NLP nas empresas | Como ajustar um modelo de linguagem natural como BERT para a tarefa de Question-Answering (QA) com um Adapter?
+
+- notebooks [question_answering_adapter.ipynb](https://github.com/piegu/language-models/blob/master/adapters/question-answering/question_answering_adapter.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/adapters/question-answering/question_answering_adapter.ipynb?flush_cache=true)) and [question_answering_adapter_script.ipynb](https://github.com/piegu/language-models/blob/master/adapters/question-answering/question_answering_adapter_script.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/adapters/question-answering/question_answering_adapter_script.ipynb?flush_cache=true)): finetuning a MLM (Masked Language Model) like BERT (base or large) with the library adapter-transformers on the Question Answering task (QA)
+- Blog post: [NLP nas empresas | Como ajustar um modelo de linguagem natural como BERT para a tarefa de Question-Answering (QA) com um Adapter?](https://medium.com/@pierre_guillou/nlp-nas-empresas-como-ajustar-um-modelo-de-linguagem-natural-como-bert-para-a-tarefa-de-b7d2e7553a01)
+
 ## NLP nas empresas | Como ajustar um modelo de linguagem natural como BERT para a tarefa de classificação de tokens (NER) com um Adapter?
 
 - notebook [token_classification_adapter.ipynb](https://github.com/piegu/language-models/blob/master/adapters/token-classification/token_classification_adapter.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/adapters/token-classification/token_classification_adapter.ipynb)): finetuning a MLM (Masked Language Model) like BERT (base or large) with the library adapter-transformers on the Token Classification task (NER)
