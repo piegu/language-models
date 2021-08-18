@@ -1,6 +1,11 @@
 # Language Models
 Repository of pre-trained Language Models and NLP models.
 
+## NLP nas empresas | Como criar um modelo BERT de Question-Answering (QA) de desempenho aprimorado com AdapterFusion?
+
+- notebook [question_answering_adapter_fusion.ipynb](https://github.com/piegu/language-models/blob/master/adapters/question-answering/question_answering_adapter_fusion.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/adapters/question-answering/question_answering_adapter_fusion.ipynb?flush_cache=true)): finetuning a MLM (Masked Language Model) like BERT (base or large) with the library adapter-transformers on the Question Answering task (QA) with AdapterFusion
+- Blog post: [NLP nas empresas | Como criar um modelo BERT de Question-Answering (QA) de desempenho aprimorado com AdapterFusion?](https://medium.com/@pierre_guillou/nlp-nas-empresas-como-criar-um-modelo-bert-de-question-answering-qa-de-desempenho-aprimorado-21b699326c82)
+
 ## NLP nas empresas | Como ajustar um modelo de linguagem natural como BERT para a tarefa de Question-Answering (QA) com um Adapter?
 
 - notebooks [question_answering_adapter.ipynb](https://github.com/piegu/language-models/blob/master/adapters/question-answering/question_answering_adapter.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/adapters/question-answering/question_answering_adapter.ipynb?flush_cache=true)) and [question_answering_adapter_script.ipynb](https://github.com/piegu/language-models/blob/master/adapters/question-answering/question_answering_adapter_script.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/adapters/question-answering/question_answering_adapter_script.ipynb?flush_cache=true)): finetuning a MLM (Masked Language Model) like BERT (base or large) with the library adapter-transformers on the Question Answering task (QA)
