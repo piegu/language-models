@@ -1,6 +1,11 @@
 # Language Models
 Repository of pre-trained Language Models and NLP models.
 
+## NLP nas empresas | Reconhecimento de textos com Deep Learning em PDFs e imagens
+
+- notebook [OCR_DeepLearning_Tesseract_DocTR_colab.ipynb](https://github.com/piegu/language-models/blob/master/OCR_DeepLearning_Tesseract_DocTR_colab.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/OCR_DeepLearning_Tesseract_DocTR_colab.ipynb))
+- Blog post: [NLP nas empresas | Reconhecimento de textos com Deep Learning em PDFs e imagens](https://medium.com/@pierre_guillou/nlp-nas-empresas-reconhecimento-de-textos-com-deep-learning-em-pdfs-e-imagens-14d8b9e8d513)
+
 ## NLP nas empresas | Como criar um modelo BERT de Question-Answering (QA) de desempenho aprimorado com AdapterFusion?
 
 - notebook [question_answering_adapter_fusion.ipynb](https://github.com/piegu/language-models/blob/master/adapters/question-answering/question_answering_adapter_fusion.ipynb) ([nbviewer of the notebook](https://nbviewer.jupyter.org/github/piegu/language-models/blob/master/adapters/question-answering/question_answering_adapter_fusion.ipynb?flush_cache=true)): finetuning a MLM (Masked Language Model) like BERT (base or large) with the library adapter-transformers on the Question Answering task (QA) with AdapterFusion
