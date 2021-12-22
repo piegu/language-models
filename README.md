@@ -1,6 +1,9 @@
 # Language Models
 Repository of pre-trained Language Models and NLP models.
 
+## Finetuning of the language model BERTimbau on LeNER-Br text files
+- notebook: [Finetuning_language_model_BERtimbau_LeNER_Br.ipynb](https://github.com/piegu/language-models/blob/master/Finetuning_language_model_BERtimbau_LeNER_Br.ipynb)
+
 ## NLP nas empresas | Técnicas para acelerar modelos de Deep Learning para inferência em produção
 
 - Blog post: [NLP nas empresas | Técnicas para acelerar modelos de Deep Learning para inferência em produção](https://medium.com/@pierre_guillou/nlp-nas-empresas-t%C3%A9cnicas-para-acelerar-modelos-de-deep-learning-para-infer%C3%AAncia-em-produ%C3%A7%C3%A3o-884acbf49f20)
