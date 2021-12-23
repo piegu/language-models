@@ -1,6 +1,9 @@
 # Language Models
 Repository of pre-trained Language Models and NLP models.
 
+## Finetuning of the specialized version of the language model BERTimbau on a token classification task (NER) with the dataset LeNER-Br
+- notebook: [HuggingFace_Notebook_token_classification_NER_LeNER_Br.ipynb](https://github.com/piegu/language-models/blob/master/HuggingFace_Notebook_token_classification_NER_LeNER_Br.ipynb)
+
 ## Finetuning of the language model BERTimbau on LeNER-Br text files
 - notebook: [Finetuning_language_model_BERtimbau_LeNER_Br.ipynb](https://github.com/piegu/language-models/blob/master/Finetuning_language_model_BERtimbau_LeNER_Br.ipynb)
 
