@@ -4,10 +4,10 @@ Repository of pre-trained Language Models and NLP models.
 ## NLP | Modelos e Web App para Reconhecimento de Entidade Nomeada (NER) no domínio jurídico brasileiro
 - Blog post: [NLP | Modelos e Web App para Reconhecimento de Entidade Nomeada (NER) no domínio jurídico brasileiro](https://medium.com/@pierre_guillou/nlp-modelos-e-web-app-para-reconhecimento-de-entidade-nomeada-ner-no-dom%C3%ADnio-jur%C3%ADdico-b658db55edfb)
 
-## Finetuning of the specialized version of the language model BERTimbau on a token classification task (NER) with the dataset LeNER-Br
+### Finetuning of the specialized version of the language model BERTimbau on a token classification task (NER) with the dataset LeNER-Br
 - notebook: [HuggingFace_Notebook_token_classification_NER_LeNER_Br.ipynb](https://github.com/piegu/language-models/blob/master/HuggingFace_Notebook_token_classification_NER_LeNER_Br.ipynb) ([nbviewer of the notebook](https://nbviewer.org/github/piegu/language-models/blob/master/HuggingFace_Notebook_token_classification_NER_LeNER_Br.ipynb))
 
-## Finetuning of the language model BERTimbau on LeNER-Br text files
+### Finetuning of the language model BERTimbau on LeNER-Br text files
 - notebook: [Finetuning_language_model_BERtimbau_LeNER_Br.ipynb](https://github.com/piegu/language-models/blob/master/Finetuning_language_model_BERtimbau_LeNER_Br.ipynb) ([nbviewer of the notebook](https://nbviewer.org/github/piegu/language-models/blob/master/Finetuning_language_model_BERtimbau_LeNER_Br.ipynb))
 
 ## NLP nas empresas | Técnicas para acelerar modelos de Deep Learning para inferência em produção
