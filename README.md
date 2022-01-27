@@ -17,6 +17,7 @@ Repository of pre-trained Language Models and NLP models.
 
 ### Finetuning of the language model BERTimbau on LeNER-Br text files
 - notebook: [Finetuning_language_model_BERtimbau_LeNER_Br.ipynb](https://github.com/piegu/language-models/blob/master/Finetuning_language_model_BERtimbau_LeNER_Br.ipynb) ([nbviewer of the notebook](https://nbviewer.org/github/piegu/language-models/blob/master/Finetuning_language_model_BERtimbau_LeNER_Br.ipynb))
+- dataset: [pierreguillou/lener_br_finetuning_language_model](https://huggingface.co/datasets/pierreguillou/lener_br_finetuning_language_model)
 - [BERT base Language modeling in the legal domain in Portuguese (LeNER-Br)](https://huggingface.co/pierreguillou/bert-base-cased-pt-lenerbr) in the Hugging Face model hub
 - [BERT large Language modeling in the legal domain in Portuguese (LeNER-Br)](https://huggingface.co/pierreguillou/bert-large-cased-pt-lenerbr) in the Hugging Face model hub
 
