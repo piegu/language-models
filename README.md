@@ -1,8 +1,8 @@
 # Language Models
 Repository of pre-trained Language Models and NLP models.
 
-## NLP nas empresas | Como eu treinei um modelo T5 na tarefa QA em português no Google Colab
-- Blog post: [NLP nas empresas | Como eu treinei um modelo T5 na tarefa QA em português no Google Colab]()
+## NLP nas empresas | Como eu treinei em português um modelo T5 na tarefa QA no Google Colab
+- Blog post: [NLP nas empresas | Como eu treinei em português um modelo T5 na tarefa QA no Google Colab]()
 - Notebook: [Finetuning of the language model T5 base on a Question-Answering task (QA) with the dataset SQuAD 1.1 Portuguese](https://github.com/piegu/language-models/blob/master/HuggingFace_Notebook_t5_base_portuguese_vocab_question_answering_QA_squad_v11_pt.ipynb)
 - [QA App](https://huggingface.co/spaces/pierreguillou/question-answering-portuguese-t5-base) in the Hugging Face Spaces
 
