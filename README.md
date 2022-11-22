@@ -1,6 +1,10 @@
 # Language Models
 Repository of pre-trained Language Models and NLP models.
 
+## IA & empresas | Diminua o tempo de inferência de modelos Transformer com BetterTransformer
+- Blog post: [IA & empresas | Diminua o tempo de inferência de modelos Transformer com BetterTransformer](https://medium.com/@pierre_guillou/ia-empresas-diminua-o-tempo-de-infer%C3%AAncia-de-modelos-transformer-com-bettertransformer-584a5a7702c8)
+- Notebook [QA in Portuguese with BetterTransformer](https://github.com/piegu/language-models/blob/master/question_answering_portuguese_with_BetterTransformer.ipynb)
+
 ## NLP & Código para todos | Função de perda ponderada para classificação de texto (multiclasse)
 - Blog post: [NLP & Código para todos | Função de perda ponderada para classificação de texto (multiclasse)](https://medium.com/@pierre_guillou/nlp-c%C3%B3digo-para-todos-fun%C3%A7%C3%A3o-de-perda-ponderada-para-classifica%C3%A7%C3%A3o-de-texto-multiclasse-6786ad64397c)
 - Notebook [Text Classification on GLUE with weighted Loss function](https://github.com/piegu/language-models/blob/master/Text_Classification_on_GLUE_with_weighted_Loss.ipynb)
