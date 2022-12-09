@@ -5,6 +5,7 @@ Repository of pre-trained Language Models and NLP models.
 - Blog post: [Speech-to-Text & IA | Transcrição de qualquer áudio em português com Whisper]()
 - Notebook [Whisper em português](Whisper_Medium_Portuguese_GPU.ipynb)
 - Notebook [Whisper en français](Whisper_Medium_French_GPU.ipynb)
+- Notebook [Inference code for Whisper (example with Whisper Medium in Portuguese)](inference_code_whisper_example_with_Portuguese.ipynb)
 
 ## IA & empresas | Diminua o tempo de inferência de modelos Transformer com BetterTransformer
 - Blog post: [IA & empresas | Diminua o tempo de inferência de modelos Transformer com BetterTransformer](https://medium.com/@pierre_guillou/ia-empresas-diminua-o-tempo-de-infer%C3%AAncia-de-modelos-transformer-com-bettertransformer-584a5a7702c8)
