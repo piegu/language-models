@@ -2,7 +2,7 @@
 Repository of pre-trained Language Models and NLP models.
 
 ## Speech-to-Text & IA | Transcrição de qualquer áudio em português com Whisper
-- Blog post: [Speech-to-Text & IA | Transcrição de qualquer áudio em português com Whisper]()
+- Blog post: [Speech-to-Text & IA | Transcreva qualquer áudio para o português com o Whisper (OpenAI)... sem nenhum custo!](https://medium.com/@pierre_guillou/speech-to-text-ia-transcreva-qualquer-%C3%A1udio-para-o-portugu%C3%AAs-com-o-whisper-openai-sem-ad0c17384681)
 - Notebook [Whisper em português](Whisper_Medium_Portuguese_GPU.ipynb)
 - Notebook [Whisper en français](Whisper_Medium_French_GPU.ipynb)
 - Notebook [Inference code for Whisper (example with Whisper Medium in Portuguese)](inference_code_whisper_example_with_Portuguese.ipynb)
