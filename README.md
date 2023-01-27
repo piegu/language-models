@@ -1,6 +1,10 @@
 # Language Models
 Repository of pre-trained Language Models and NLP models.
 
+## Document AI | Processing of DocLayNet dataset to be used by layout models of the Hugging Face hub (finetuning, inference)
+- Blog post: [Document AI | Processing of DocLayNet dataset to be used by layout models of the Hugging Face hub (finetuning, inference)]()
+- Notebook [Processing of DocLayNet dataset to be used by layout models of the Hugging Face hub (finetuning, inference)](processing_DocLayNet_dataset_to_be_used_by_layout_models_of_HF_hub.ipynb)
+
 ## Speech-to-Text & IA | Transcrição de qualquer áudio em português com Whisper
 - Blog post: [Speech-to-Text & IA | Transcreva qualquer áudio para o português com o Whisper (OpenAI)... sem nenhum custo!](https://medium.com/@pierre_guillou/speech-to-text-ia-transcreva-qualquer-%C3%A1udio-para-o-portugu%C3%AAs-com-o-whisper-openai-sem-ad0c17384681)
 - Notebook [Whisper em português](Whisper_Medium_Portuguese_GPU.ipynb)
