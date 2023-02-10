@@ -1,6 +1,11 @@
 # Language Models
 Repository of pre-trained Language Models and NLP models.
 
+## Document AI | Document Understanding model at line level with LiLT, Tesseract and DocLayNet dataset
+- Blog Post: [Document AI | Document Understanding model at line level with LiLT, Tesseract and DocLayNet dataset]()
+- Notebook: [Document AI | Fine-tune LiLT on DocLayNet base in any language at line level (chunk of 384 tokens with overlap)](https://github.com/piegu/language-models/blob/master/Fine_tune_LiLT_on_DocLayNet_base_in_any_language_at_linelevel_ml_384.ipynb)
+- Notebook: [Document AI | Inference at line level with a Document Understanding model (LiLT fine-tuned on DocLayNet dataset)](https://github.com/piegu/language-models/blob/master/inference_on_LiLT_model_finetuned_on_DocLayNet_base_in_any_language_at_levellines_ml384.ipynb)
+
 ## DocLayNet image viewer APP
 - Blog post: [Document AI | DocLayNet image viewer APP]()
 - Notebook [DocLayNet image viewer APP](https://github.com/piegu/language-models/blob/master/DocLayNet_image_viewer_APP.ipynb)
