@@ -2,7 +2,7 @@
 Repository of pre-trained Language Models and NLP models.
 
 ## Document AI | Inference APP for Document Understanding at line level
-- (02/14/2023) [Document AI | Inference APP for Document Understanding at line level](https://medium.com/@pierre_guillou/document-ai-inference-app-for-document-understanding-at-line-level-a35bbfa98893)
+- Blog Post: [Document AI | Inference APP for Document Understanding at line level](https://medium.com/@pierre_guillou/document-ai-inference-app-for-document-understanding-at-line-level-a35bbfa98893)
 - Notebook: [Document AI | Inference APP at line level with a Document Understanding model (LiLT fine-tuned on DocLayNet dataset)](https://github.com/piegu/language-models/blob/master/Gradio_inference_on_LiLT_model_finetuned_on_DocLayNet_base_in_any_language_at_levellines_ml384.ipynb)
 
 ## Document AI | Document Understanding model at line level with LiLT, Tesseract and DocLayNet dataset
