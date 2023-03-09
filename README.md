@@ -1,6 +1,10 @@
 # Language Models
 Repository of pre-trained Language Models and NLP models.
 
+## Document AI | Inference APP notebook for Document Understanding at line level with LiLT base and LayoutXLM base
+- Blog Post: [Document AI | Inference APP notebook for Document Understanding at line level with LiLT base and LayoutXLM base]()
+- Notebook: [Document AI | Inference APP at line level with 2 Document Understanding models (LiLT base and LayoutXLM base fine-tuned on DocLayNet base dataset)](https://github.com/piegu/language-models/blob/master/Gradio_inference_on_LiLT_&_LayoutXLM_base_model_finetuned_on_DocLayNet_base_in_any_language_at_levellines_ml384.ipynb)
+
 ## Document AI | Inference APP and fine-tuning notebook for Document Understanding at line level with LayoutXLM base
 - Blog Post: [Document AI | Inference APP and fine-tuning notebook for Document Understanding at line level with LayoutXLM base](https://medium.com/@pierre_guillou/document-ai-inference-app-and-fine-tuning-notebook-for-document-understanding-at-line-level-with-b08fdca5f4dc)
 - Notebooks: 
