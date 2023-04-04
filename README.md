@@ -1,6 +1,10 @@
 # Language Models
 Repository of pre-trained Language Models and NLP models.
 
+## Document AI | Inference at paragraph level by using the association of 2 Document Understanding models (LiLT and LayoutXLM base fine-tuned on DocLayNet base dataset)
+- Notebook: [Document AI | Inference at paragraph level by using the association of 2 Document Understanding models (LiLT and LayoutXLM base fine-tuned on DocLayNet base dataset)](https://github.com/piegu/language-models/blob/master/inference_on_Ensemble_LiLT_%26_LayoutXLM_base_model_finetuned_on_DocLayNet_base_in_any_language_at_levelparagraphs_ml512.ipynb)
+- Notebook: [Document AI | Inference APP at paragraph level by using the association of 2 Document Understanding models (LiLT and LayoutXLM base fine-tuned on DocLayNet base dataset)](https://github.com/piegu/language-models/blob/master/Gradio_inference_on_Ensemble_LiLT_%26_LayoutXLM_base_model_finetuned_on_DocLayNet_base_in_any_language_at_levelparagraphs_ml512.ipynb)
+
 ## Document AI | APP to compare the Document Understanding LiLT and LayoutXLM (base) models at paragraph level
 - Blog Post: [Document AI | APP to compare the Document Understanding LiLT and LayoutXLM (base) models at paragraph level](https://medium.com/@pierre_guillou/document-ai-app-to-compare-the-document-understanding-lilt-and-layoutxlm-base-models-at-c22bee832c3a)
 - Notebook: [Document AI | Inference APP at paragraph level with 2 Document Understanding models (LiLT base and LayoutXLM base fine-tuned on DocLayNet base dataset)](https://github.com/piegu/language-models/blob/master/Gradio_inference_on_LiLT_&_LayoutXLM_base_model_finetuned_on_DocLayNet_base_in_any_language_at_levelparagraphs_ml512.ipynb)
