@@ -7,4 +7,4 @@
 - [l3-iterative-prompt-development.ipynb](l3-iterative-prompt-development.ipynb)
 
 ## Video 4 - Summarizing
-- []()
+- [l4-summarizing.ipynb](l4-summarizing.ipynb)
