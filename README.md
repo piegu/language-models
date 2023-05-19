@@ -1,7 +1,7 @@
 # Language Models
 Repository of pre-trained Language Models and NLP models.
 
-## Document AI | Accuracy (notebooks)
+## Document AI | Accuracy of layout finetuned models (LiLT and LayoutXLM base) on the dataset DoclayNet base (notebooks)
 - Line level
   -  [Document AI | ACCURACY at line level with a Document Understanding layout model (LiLT base) fine-tuned on DocLayNet dataset](https://github.com/piegu/language-models/blob/master/ACCURACY_of_LiLT_base_model_finetuned_on_DocLayNet_base_in_any_language_at_levelline_ml384.ipynb)
 
