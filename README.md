@@ -1,6 +1,14 @@
 # Language Models
 Repository of pre-trained Language Models and NLP models.
 
+## Document AI | Accuracy (notebooks)
+- Line level
+  -  [Document AI | ACCURACY at line level with a Document Understanding layout model (LiLT base) fine-tuned on DocLayNet dataset](https://github.com/piegu/language-models/blob/master/ACCURACY_of_LiLT_base_model_finetuned_on_DocLayNet_base_in_any_language_at_levelline_ml384.ipynb)
+
+- Paragraph level
+  - [Document AI | ACCURACY at paragraph level with a Document Understanding layout model (LiLT base) fine-tuned on DocLayNet dataset](https://github.com/piegu/language-models/blob/master/ACCURACY_of_LiLT_base_model_finetuned_on_DocLayNet_base_in_any_language_at_levelparagraphs_ml512.ipynb)
+  - [Document AI | ACCURACY at paragraph level with a Document Understanding layout model (Layout XLM base) fine-tuned on DocLayNet dataset](https://github.com/piegu/language-models/blob/master/ACCURACY_of_LayoutXLM_base_model_finetuned_on_DocLayNet_base_in_any_language_at_levelparagraphs_ml512.ipynb)
+
 ## Document AI | Inference at paragraph level by using the association of 2 Document Understanding models (LiLT and LayoutXLM base fine-tuned on DocLayNet base dataset)
 - Notebook: [Document AI | Inference at paragraph level by using the association of 2 Document Understanding models (LiLT and LayoutXLM base fine-tuned on DocLayNet base dataset)](https://github.com/piegu/language-models/blob/master/inference_on_Ensemble_LiLT_%26_LayoutXLM_base_model_finetuned_on_DocLayNet_base_in_any_language_at_levelparagraphs_ml512.ipynb)
 - Notebook: [Document AI | Inference APP at paragraph level by using the association of 2 Document Understanding models (LiLT and LayoutXLM base fine-tuned on DocLayNet base dataset)](https://github.com/piegu/language-models/blob/master/Gradio_inference_on_Ensemble_LiLT_%26_LayoutXLM_base_model_finetuned_on_DocLayNet_base_in_any_language_at_levelparagraphs_ml512.ipynb)
