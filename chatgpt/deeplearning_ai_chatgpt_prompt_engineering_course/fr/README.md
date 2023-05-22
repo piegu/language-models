@@ -1,4 +1,4 @@
-# Cours : [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+# Cours : [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 De DeepLearning.AI et OpenAI
 
 **Note**: page écrite par ChatGPT4.
