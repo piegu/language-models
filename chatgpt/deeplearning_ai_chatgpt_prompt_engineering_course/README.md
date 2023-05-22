@@ -1,4 +1,5 @@
-# Course of DeepLearning.AI and OpenAI | [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+# Course: [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+From DeepLearning.AI and OpenAI 
 
 ## Lesson 1 - Introduction
 - [transcript 1](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video1.txt)
