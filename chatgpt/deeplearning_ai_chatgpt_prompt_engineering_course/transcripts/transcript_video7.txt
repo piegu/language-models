@@ -1,0 +1,122 @@
+Transcript
+Expanding is the task of taking a short piece of text, 
+such as a set of instructions or a list of topics, 
+and having the large language model generate a 
+longer piece of text, such as an email or 
+an essay about some topic. There are some great uses of this, 
+such as if you use a large language model as a brainstorming partner. 
+But I just also want to acknowledge that 
+there are some problematic use cases of this, 
+such as if someone were to use it, they generate a large amount of spam. 
+So when you use these capabilities of a large language model, 
+please use it only in a responsible way and in 
+a way that helps people. 
+In this video we'll go through an example of how you can 
+use a language model to generate a personalized 
+email based on some information. The 
+email is kind of self-proclaimed to be from an AI 
+bot which as Andrew mentioned is very important. 
+We're also going to use another one of the models input 
+parameters called temperature and this kind of allows 
+you to vary the kind of degree of exploration and variety in 
+the kind of models responses. So let's get into it. 
+So before we get started we're going to kind of 
+do the usual setup. So set up the OpenAI Python package and then also define 
+our helper function getCompletion 
+and now we're going to write a custom email response to 
+a customer review and so given a customer review and the sentiment 
+we're going to generate a custom response. Now we're 
+going to use the language model to generate a custom 
+email to a customer based on a customer 
+review and the sentiment of the review. So we've already 
+extracted the sentiment 
+using the kind of prompts that we saw 
+in the inferring video 
+and then this is the customer review for a blender 
+and now we're going to customize the reply 
+based on the sentiment. 
+And so here the instruction is you are a customer service AI 
+assistant your task is to send an email reply to about your 
+customer given the customer email delimited 
+by three backticks generate a reply to thank the customer for their 
+review. If the sentiment is positive or neutral thank 
+them for their review. If the sentiment is 
+negative apologize and suggest that they can reach 
+out to customer service. Make sure to use 
+specific details from the review write in a 
+concise and professional tone and sign the email 
+as AI customer agent. And when you're using a language model to 
+generate text that you're going to show to a user it's very important 
+to have this kind of transparency and let 
+the user know that the text they're seeing was generated 
+by AI. 
+And then we'll just input the customer review 
+and the review sentiment. And also note that this part isn't necessarily 
+important because we could actually use this prompt to 
+also extract the review sentiment and then in a follow-up step write 
+the email. But just for the sake of the example, well, we've already 
+extracted the sentiment from the review. And so, here we have a 
+response to the customer. It kind of addresses 
+details that the customer mentioned in their review. 
+And kind of as we instructed, suggests that they reach 
+out to customer service because this is just 
+an AI customer service agent. 
+Next, we're going to use a parameter of the language 
+model called temperature that will allow us to 
+change the kind of variety of the model's responses. So you can kind of 
+think of temperature as the degree of exploration 
+or kind of randomness of the model. And so, for 
+this particular phrase, my favourite food is the 
+kind of most likely next word that the 
+model predicts is pizza and the kind of next to most likely 
+it suggests are sushi and tacos. And so, at 
+a temperature of zero, the model will always choose the 
+most likely next word, which in this case is pizza, and 
+at a higher temperature, 
+it will kind of also choose one of the less likely words 
+and at an even higher temperature, it might even choose tacos, 
+which only kind of has a five percent 
+chance of being chosen. 
+And you can imagine that kind of, 
+as the model continues this final response, so my favourite food is 
+pizza and it kind of continues to generate more words, 
+this response will kind of diverge from the response, 
+the first response, which is my favourite food is tacos. 
+And so, as the kind of model continues, 
+these two responses will become more and more different. 
+In general, when building applications 
+where you want a kind of predictable response, 
+I would recommend using temperature zero. 
+Throughout all of these videos, we've been using temperature zero and 
+I think that if you're trying to build a system that is 
+reliable and predictable, you should go with this. If you're trying to 
+kind of use the model in a more creative way where you 
+might kind of want 
+a kind of wider variety of different outputs, 
+you might want to use a higher temperature. So, 
+now let's take this same prompt that we just used and let's try 
+generating an email, but let's use a higher temperature. So, in our getCompletion 
+function that we've been using throughout the videos, we have kind of 
+specified a model and then also a temperature, 
+but we've kind of set them to default. So, now let's try varying the 
+temperature. 
+So, we'll use the prompt and then 
+let's try temperature 0.7. 
+And so, with temperature 0, every time you execute the same prompt, 
+you should expect the same completion. Whereas with temperature 0.7, you'll get 
+a different output every time. So, here we have 
+our email, and as you can see, it's different to the email that we 
+kind of received previously. And let's just execute it again, to show 
+that we'll get a different email again. 
+And here we have another different email. And so, I recommend that 
+you kind of play around with temperature yourself. 
+Maybe you could pause the video now and 
+try this prompt with a variety of different temperatures, 
+just to see how the outputs vary. 
+So, to summarise, at higher temperatures, 
+the outputs from the model are kind of more random. 
+You can almost think of it as that at higher temperatures, 
+the assistant is more distractible, but maybe more creative. 
+In the next video, we're going to talk more about the 
+Chat Completions Endpoint format, and 
+how you can create a custom chatbot using this format. 

@@ -1,0 +1,199 @@
+Transcript
+Large language models are very good at transforming its input to a 
+different format, such as inputting a 
+piece of text in one language and transforming 
+it or translating it to a different language, 
+or helping with spelling and grammar corrections, 
+so taking as input a piece of text that may not be 
+fully grammatical and helping you to fix that up a bit, 
+or even transforming formats such as inputting HTML and 
+outputting JSON. So there's a bunch of applications that I used to write 
+somewhat painfully with a bunch of regular expressions that 
+would definitely be much more simply implemented now with a large language 
+model and a few prompts. 
+Yeah, I use Chad GPT to proofread pretty much 
+everything I write these days, so I'm excited to show you 
+some more examples in the notebook now. So first we'll import 
+OpenAI and also 
+use the same getCompletion helper function that we've 
+been using throughout the videos. And the first thing we'll do 
+is a translation task. So large language models are trained 
+on a lot of text from kind of many sources, a lot 
+of which is the internet, and this is kind of, of course, in many 
+different languages. So this kind of imbues the 
+model with the ability to do translation. 
+And these models know kind of hundreds of languages 
+to varying degrees of proficiency. And so we'll 
+go through some examples of how to use this capability. 
+So let's start off with something simple. 
+So in this first example, the prompt is 
+translate the following English text to Spanish. Hi, 
+I would like to order a blender. And the response is Hola, 
+me gustaría ordenar una licuadora. And I'm very sorry to all 
+of you Spanish speakers. I never learned Spanish, unfortunately, 
+as you can definitely tell. 
+OK, let's try another example. So 
+in this example, the prompt is, tell me what language this is. 
+And then this is in French, Combien coûte la lampe d'air. And 
+so let's run this. 
+And the model has identified that this is French. 
+The model can also do multiple translations at once. 
+So in this example, let's say, translate the following text to 
+French and Spanish. 
+And you know what, let's add another an English 
+pirate. 
+And the text is, I want to order a basketball. 
+So here we have French, Spanish, and English pirates. 
+So in some languages, the translation can change 
+depending on the speaker's relationship to the listener. And 
+you can also explain this to the language model. And 
+so it will be able to kind of translate accordingly. 
+So in this example, we say, translate 
+the following text to Spanish in both the 
+formal and informal forms. Would you like to order a pillow? And 
+also notice here, we're using a different delimiter than 
+these backticks. It doesn't really matter 
+as long as it's kind of a clear separation. 
+So, here we have the formal and informal. 
+So, formal is when you're speaking to someone who's kind 
+of maybe senior to you or you're in a professional situation. That's when you 
+use a formal tone and then informal is when you're speaking to maybe a 
+group of friends. I don't actually speak Spanish but my dad does and he says 
+that this is correct. So, for the next example, we're going 
+to pretend that we're in charge of a 
+ 
+multinational e-commerce company and so the 
+user messages are going to be in all 
+different languages and so users are going to be telling us about 
+their IT issues in a wide variety of languages. So, we 
+need a universal translator. So, first we'll just paste in a list of 
+user messages in a variety of different languages 
+and now we will loop through 
+each of these user messages. So, for issue in user messages 
+and then I'm going to copy over this slightly longer code block. 
+And so, the first thing we'll do is ask the model 
+to tell us what language the issue is in. So, here's the 
+prompt. Then we'll print out the 
+original message's language and the issue and then we'll ask 
+the model to translate it into English and Korean. 
+ 
+So, let's run this. 
+So, the original message in French. 
+So, we have a variety of languages and then 
+the model translates them into English and then 
+Korean and you can kind of see here, so the model says this is French. 
+So, that's because the response from this prompt is going 
+to be this is French. You could try editing this 
+prompt to say something like tell me what 
+language this is, respond with only one 
+word or don't use a sentence, that kind of thing, if 
+you wanted this to just be kind of one word. Or 
+you could kind of ask for it in a JSON 
+format or something like that, which would probably encourage it to 
+not use a whole sentence. 
+And so, amazing, you've just built a universal translator. And 
+also feel free to pause the video and add kind 
+of any other languages you want to try here, maybe 
+languages you speak yourself and see how the model 
+does. 
+So the next thing we're going to dive into 
+is tone transformation. Writing can vary based on kind 
+of an intended audience, you know, the way that I would 
+write an email to a colleague or a 
+professor is obviously going to be quite different 
+to the way I text my younger brother. And 
+so ChatGBT can actually also help produce different tones. 
+So let's look at some examples. So in this first example, the 
+prompt is, translate the following from slang 
+to a business letter. Dude, this is Joe, check out this spec on 
+the standing lamp. 
+So, let's execute this. 
+And as you can see, we have a much more formal business letter 
+with a proposal for a standing lamp specification. 
+The next thing that we're going to do is to 
+convert between different formats. ChatGBT is very good at translating between 
+different formats such as JSON to HTML, you know, XML, all 
+kinds of things. Markdown. 
+And so in the prompt, we'll describe both the input 
+and the output formats. So here is an example. So 
+we have this JSON that contains a list 
+of restaurant employees with their names and email. 
+And then in the prompt, we're going to ask the 
+model to translate this from JSON to HTML. So 
+the prompt is, translate the following Python 
+dictionary from JSON to an HTML table with column headers and titles. 
+ 
+And then we'll get the response from the 
+model and print it. 
+So here we have some HTML displaying all 
+of the employee names and emails. 
+And so now let's see if we can actually view this HTML. So 
+we're going to use this display function from this Python library. Display HTML 
+response. 
+And here you can see that this is a properly formatted HTML table. 
+The next transformation task we're going to do is spell 
+check and grammar checking. And this is a really kind of 
+popular use for chat GBT. I highly recommend doing this. I 
+do this all the time. And it's especially useful when you're working in 
+a non-native language. And so here are some examples of some 
+kind of common grammar and spelling problems and 
+how the language model can help address these. 
+So I'm going to paste in a list of sentences that have some kind 
+of grammatical or spelling errors. 
+ 
+And then we're going to loop through each of these sentences. 
+And 
+ask the model to proofread these. 
+Proofread and correct. And then we'll use some delimiters. 
+And then we will get the response and print it as usual. 
+And so the model is able to correct all of these grammatical errors. 
+We could use some of the techniques that we've 
+discussed before. So 
+to improve the prompt, we could say proofread 
+and correct the following text. 
+And rewrite the whole... 
+And rewrite it. 
+Corrected 
+version. If you don't find 
+any errors, 
+just say 
+no errors found. 
+Let's try this. 
+So this way we were able to... Oh, they're still using quotes here. But 
+you can imagine you'd be able to find a way with a little 
+bit of iterative prompt development to kind of 
+find a prompt that works more reliably every 
+single time. And so now we'll do another 
+example. It's always useful to check your text before you 
+post it in a public forum. And so we'll go through an example 
+of checking a review. 
+And so here is a review about a stuffed panda. 
+And so we're going to ask the model to proofread and 
+correct the review. 
+Great. So we have this corrected version. 
+And one cool thing we can do is find the kind of 
+differences between our original review and the model's output. So 
+we're going to use this 
+RedLines Python package to do this. And we're going to get the 
+diff between the original 
+text of our review and the model output 
+and then display this. 
+And so here you can see the diff between the original review 
+and the model output and the kind of 
+things that have been corrected. So the prompt that we used was, uhm, 
+proofread and correct this review, but you can also make 
+kind of more dramatic changes, uhm, kind of changes to tone 
+and that kind of thing. So, let's try 
+one more thing. So in this prompt, we're going to ask the 
+model to proofread and correct this same review, but 
+also make it more compelling and ensure that it follows APA style 
+and targets an advanced reader. And we're also 
+going to ask for the output in markdown format. And so 
+we're using the same text from the original review up here. So let's execute 
+this. 
+And here we have a expanded APA style 
+review of the SoftPanda. 
+So this is it for the transforming video. 
+Next up we have expanding where we'll take a shorter prompt and 
+kind of generate a longer, more freeform response from 
+a language model. 
