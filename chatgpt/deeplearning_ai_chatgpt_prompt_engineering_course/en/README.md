@@ -14,6 +14,22 @@ From DeepLearning.AI and OpenAI
 - [transcript 1](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video1.txt)
 
 ## Lesson 2 - Guidelines
+
+Principle 1 - Write clear and specific instructions.
+Principle 2 - Give the model time to think.
+ 
+Tactics for Principle 1:
+- Use delimiters to clearly indicate distinct parts of the input.
+- Ask for a structured output like HTML or JSON.
+- Instruct the model to check whether conditions are satisfied.
+- Use few-shot prompting and provide examples of successful executions of the task.
+
+Tactics for Principle 2:
+- Specify the steps required to complete a task.
+- Instruct the model to work out its own solution before rushing to a conclusion.
+- Ask the model to first find any relevant quotes from the text before generating answers to reduce hallucinations.
+
+
 - **Summary**: The course provides detailed tactics to increase AI models' performance. It demonstrates defining explicit steps for tasks like text summarization and translation, which increases predictability and facilitates easier code parsing. Furthermore, it encourages the model to independently solve problems before evaluating other solutions, as exemplified in a mathematical problem. To mitigate 'hallucinations', the course proposes referencing specific quotations from a source text. Finally, the course explores output structure standardization, hinting at the next topic of iterative prompt development.
   - **Summary (first part)**: In this course, Isa discusses guidelines for effective prompting with language models, with an emphasis on clarity and specificity of instructions and allowing the model time to process complex tasks. Additionally, she introduces practical tactics such as the use of delimiters, structured output requests, instruction checking, and few-shot prompting. The latter part of the course illustrates setup with the OpenAI Python library and API key, along with the use of the GPT 3.5 Turbo model for chat completions.
   - **Summary (second part)**: The second part of the course focuses on refining AI models' response accuracy. It discusses tactics such as specifying steps for a task, instructing the model to figure out its own solutions before deciding if another's solution is correct, and being mindful of limitations like 'hallucinations' or fabrications. The lessons are illustrated through examples of prompts involving tasks like summarizing and translating texts, as well as solving mathematical problems. The section ends by hinting at the next part, dealing with the iterative prompt development process.
