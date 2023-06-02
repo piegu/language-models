@@ -103,8 +103,20 @@ Tactics for Principle 2:
   - Large language models can rapidly build multiple systems for text inferences which would have previously taken a considerable amount of time even for skilled machine learning developers.
 
 ## Lesson 6 - Transforming
-- [transcript 6](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video6.txt)
-- [l6-transforming.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l6-transforming.ipynb)
+- **Ressources**:
+  - [transcript 6](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video6.txt)
+  - [l6-transforming.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l6-transforming.ipynb)
+
+- **Summary**: Isa presents several capabilities of large language models, specifically GPT-4, including text translation, tone transformation, spelling and grammar corrections, and format conversions. He demonstrates how to use GPT-4 in translation tasks across various languages and levels of formality, introduces the concept of tone transformation in writing, and demonstrates proofreading capabilities. Additionally, he demonstrates converting data from one format (JSON) to another (HTML).
+
+- **Key points**:
+  - Large language models can translate text across multiple languages, including informal and formal versions.
+  - They can detect the language of a given text, useful in a multi-lingual environment like a multinational e-commerce company.
+  - Models can alter the tone of the written text, such as transforming slang into business language.
+  - They can convert data between different formats (example: JSON to HTML).
+  - GPT-4 can help with proofreading and correcting grammar and spelling errors in the text.
+  - GPT-4 can also help in transforming the text to fit certain styles and formats, such as APA style and markdown format.
+  - Lastly, the speaker teases the next topic which is expanding shorter prompts to generate a longer, more freeform response from a language model.
 
 ## Lesson 7 - Expanding
 - [transcript 7](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video7.txt)
