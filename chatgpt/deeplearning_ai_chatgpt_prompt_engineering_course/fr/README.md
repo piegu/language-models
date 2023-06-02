@@ -19,7 +19,7 @@ De DeepLearning.AI et OpenAI
   - Le cours souligne l'importance d'instructions claires et spécifiques pour de meilleurs résultats d'un LLM accordé aux instructions.
   - Un certain nombre de contributeurs d'OpenAI et de DeepLearning.AI ont joué un rôle significatif dans la création des matériaux du cours.
 
-## Leçon 2 - Directives
+## Leçon 2 - Principes et tactiques
 
 <img src="../images/lesson2/DeepLearning_course_ChatGPT_principles12.png" width="400">
 
@@ -65,9 +65,22 @@ Le cours met en garde contre une limite où le modèle peut générer des répon
   - À mesure que les applications deviennent plus matures, il peut être bénéfique d'évaluer et d'affiner les instructions par rapport à de plus grands ensembles d'exemples pour assurer une performance constante dans divers cas d'utilisation.
   - Le processus de développement d'instruction est important, sinon plus, que de connaître l'instruction parfaite. Il s'agit d'avoir un bon processus pour développer des instructions efficaces pour des applications spécifiques.
 
-## Leçon 4 - Résumer
-- [transcription 4](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video4.txt)
-- [l4-summarizing.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l4-summarizing.ipynb)
+## Leçon 4 - Résumé et extraire des informations
+
+<img src="../images/lesson3/DeepLearning_course_ChatGPT_video4.png" width="400">
+
+- **Ressources**:
+  - [transcription 4](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video4.txt)
+  - [l4-summarizing.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l4-summarizing.ipynb)
+
+- **Résumé**: Andrew discute de l'utilité des grands modèles de langage dans la résumé de textes, en particulier les avis sur un site de commerce électronique. Il démontre comment ces modèles peuvent générer des résumés ou extraire des informations spécifiques pertinentes pour différents départements (comme l'expédition ou la tarification), facilitant ainsi un processus de révision plus efficace et ciblé. Un code est également introduit pour résumer efficacement plusieurs avis, permettant un accès rapide à leur contenu.
+
+- **Points clés**:
+  - Les grands modèles de langage peuvent être utilisés pour résumer de grands volumes de texte, permettant une compréhension efficace du contenu.
+  - Un résumé spécifique peut être généré en fonction des exigences de différents départements, par exemple l'expédition ou la tarification, grâce à des instructions adaptées.
+  - Andrew a introduit le concept d'extraction d'informations spécifiques plutôt que de fournir un résumé général, ce qui pourrait être plus approprié pour certains départements.
+  - Une mise en œuvre pratique d'un code de résumé de plusieursavis a été montré, permettant un accès rapide à l'essence de plusieurs avis.
+  - Les grands modèles de langage aident non seulement à résumer, mais pourraient également aider à faire des inférences à partir de textes, comme déterminer le sentiment positif ou négatif dans les avis sur les produits, qui sera discuté dans la prochaine session.
 
 ## Leçon 5 - Inférence
 - [transcription 5](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video5.txt)
