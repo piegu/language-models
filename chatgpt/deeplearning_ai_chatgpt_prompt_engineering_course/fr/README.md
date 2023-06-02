@@ -4,6 +4,9 @@ De DeepLearning.AI et OpenAI
 **Note**: page écrite par ChatGPT 4.
 
 - [Leçon 1 - Introduction](#leçon-1---introduction)
+- [Leçon 2 - Principes et tactiques](#leçon-2---principes-et-tactiques)
+- [Leçon 3 - Instruction interactive](leçon-3---instruction-interactive)
+- [Leçon 4 - Résumé et extraire des informations](leçon-4---résumé-et-extraire-des-informations)
 
 ## Leçon 1 - Introduction
 
