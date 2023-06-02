@@ -4,6 +4,9 @@ De DeepLearning.AI et OpenAI
 **Note**: page écrite par ChatGPT 4.
 
 ## Leçon 1 - Introduction
+
+<img src="../images/lesson1/DeepLearning_course_ChatGPT_video1.png" width="400">
+
 - **Résumé**: Ce cours offre un guide complet sur l'ingénierie des instructions ChatGPT pour les développeurs. Il couvre les meilleures pratiques pour le développement de logiciels utilisant les grands modèles linguistiques (LLMs), y compris l'utilisation d'appels API pour la construction d'applications. Il différencie les LLMs de base et les LLMs accordés aux instructions, mettant en évidence les avantages et les applications de ces dernières. Le cours illustre également l'importance des instructions claires et spécifiques lors de l'utilisation de ces modèles.
 - **Points clés**: 
   - Le cours est co-animé par Isa Fulford, membre du personnel d'OpenAI, qui a une expérience significative avec les Grands Modèles Linguistiques (LLMs) et l'enseignement des techniques de prompt, ainsi que par Andrew Ng, professeur de Deep Learning à l'université de Stanford et créateur de DeepLearning.AI.
