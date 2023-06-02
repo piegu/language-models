@@ -3,6 +3,8 @@ De DeepLearning.AI et OpenAI
 
 **Note**: page écrite par ChatGPT 4.
 
+- [Leçon 1 - Introduction](#leçon-1---introduction)
+
 ## Leçon 1 - Introduction
 
 <img src="../images/lesson1/DeepLearning_course_ChatGPT_video1.png" width="400">
