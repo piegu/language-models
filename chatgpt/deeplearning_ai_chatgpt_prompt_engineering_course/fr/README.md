@@ -126,15 +126,26 @@ Le cours met en garde contre une limite où le modèle peut générer des répon
   - Ils peuvent convertir les données entre différents formats (par exemple : JSON en HTML).
   - GPT-4 peut aider à relire et à corriger les erreurs de grammaire et d'orthographe dans le texte.
   - GPT-4 peut également aider à transformer le texte pour qu'il s'adapte à certains styles et formats, tels que le style APA et le format markdown.
-  - Enfin, le conférencier annonce le prochain sujet qui consiste à développer des invites plus courtes pour générer une réponse plus libre et plus longue à partir d'un modèle linguistique.
 
 ## Leçon 7 - Développez
-- [transcription 7](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video7.txt)
-- [l7-expanding.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l7-expanding.ipynb)
+
+<img src="../images/lesson7/DeepLearning_course_ChatGPT_video7.png" width="400">
+
+- **Ressources**: 
+  - [transcription 7](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video7.txt)
+  - [l7-expanding.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l7-expanding.ipynb)
 
 ## Leçon 8 - Chatbot
-- [transcription 8](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video8.txt)
-- [l8-chatbot.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l8-chatbot.ipynb)
+
+<img src="../images/lesson8/DeepLearning_course_ChatGPT_video8.png" width="400">
+
+- **Ressources**: 
+  - [transcription 8](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video8.txt)
+  - [l8-chatbot.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l8-chatbot.ipynb)
 
 ## Leçon 9 - Conclusion
-- [transcription 9](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video9.txt)
+
+<img src="../images/lesson9/DeepLearning_course_ChatGPT_video9.png" width="400">
+
+- **Ressources**: 
+  - [transcription 9](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video9.txt)
