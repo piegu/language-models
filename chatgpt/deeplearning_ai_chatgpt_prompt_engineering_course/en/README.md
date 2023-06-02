@@ -72,8 +72,18 @@ Tactics for Principle 2:
   - As applications become more mature, it may be beneficial to evaluate and refine prompts against larger sets of examples to ensure consistent performance across various use cases.
 
 ## Lesson 4 - Summarizing
-- [transcript 4](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video4.txt)
-- [l4-summarizing.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l4-summarizing.ipynb)
+- **Ressources**: 
+  - [transcript 4](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video4.txt)
+  - [l4-summarizing.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l4-summarizing.ipynb)
+
+- **Summary**: The speaker discusses the utility of large language models in summarizing text, particularly reviews on an e-commerce website. The speaker demonstrates how these models can generate summaries or extract specific information relevant to different departments (like shipping or pricing), thus facilitating a more efficient and targeted review process. A workflow is also introduced to efficiently summarize multiple reviews, allowing quick access to their content.
+
+- **Key points**:
+  - Large language models can be utilized to summarize large volumes of text, enabling efficient understanding of the content.
+  - Specific summarization can be generated based on the requirements of different departments, e.g., shipping or pricing, through tailored prompts.
+  - The speaker introduced the concept of extracting specific information rather than providing a general summary, which might be more suitable for certain departments.
+  - A practical implementation of a review summarization workflow was shown, enabling quick access to the essence of multiple reviews.
+  - Large language models not only help in summarizing but could also help in making inferences from text, such as determining positive or negative sentiment in product reviews, to be discussed in the next session.
 
 ## Lesson 5 - Inferring
 - [transcript 5](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video5.txt)
