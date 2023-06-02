@@ -152,4 +152,16 @@ Tactics for Principle 2:
   - Customization of the chatbot's behavior and persona can be achieved by modifying the system message.
 
 ## Lesson 9 - Conclusion
-- [transcript 9](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video9.txt)
+- **Ressources**:
+  - [transcript 9](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video9.txt)
+
+- **Summary**: Isa and ANdrew conclude this short course on prompting and highlights the key principles of writing clear instructions and allowing the model time to think. It emphasizes the importance of iterative prompt development and explores various capabilities of large language models. They encourages learners to explore their own project ideas, start with small projects, and gradually improve their skills. Responsible use of AI tools is emphasized, and the course creators express excitement about the field's potential. The transcript ends with gratitude and an invitation to share the projects created.
+
+- **Key points**:
+  - Two key principles for prompting: clear instructions and allowing time for model thinking.
+  - Importance of iterative prompt development for finding the right approach for specific applications.
+  - Various capabilities of large language models, such as summarizing, inferring, transforming, and expanding.
+  - Encouragement to explore personal project ideas, even starting with small or fun projects.
+  - The excitement and growth potential of building applications with large language models.
+  - Responsible use of AI tools is emphasized, focusing on positive impact.
+  - Invitation to share and spread the word about the course and the projects created.
