@@ -1,7 +1,7 @@
 # Cours : [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 De DeepLearning.AI et OpenAI
 
-**Note**: page écrite par ChatGPT4.
+**Note**: page écrite par ChatGPT 4.
 
 ## Leçon 1 - Introduction
 - **Résumé**: Ce cours offre un guide complet sur l'ingénierie des invites ChatGPT pour les développeurs. Il couvre les meilleures pratiques pour le développement de logiciels utilisant les grands modèles linguistiques (LLMs), y compris l'utilisation d'appels API pour la construction d'applications. Il différencie les LLMs de base et les LLMs accordés aux instructions, mettant en évidence les avantages et les applications de ces derniers. Le cours illustre également l'importance des instructions claires et spécifiques lors de l'utilisation de ces modèles.
