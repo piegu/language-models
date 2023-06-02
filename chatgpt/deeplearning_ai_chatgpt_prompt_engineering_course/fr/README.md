@@ -47,9 +47,9 @@ De DeepLearning.AI et OpenAI
 Le cours met en garde contre une limite où le modèle peut générer des réponses plausibles mais fabriquées, connues sous le nom de "hallucinations". Un exemple a été montré où le modèle a été invité à décrire un modèle de brosse à dents inexistant et a donné une description réaliste mais inventée.
     - **Réduction des hallucinations**: Pour minimiser les hallucinations, le modèle peut être invité à trouver des citations pertinentes dans un texte et utiliser ces citations pour répondre à des questions. Cette approche peut aider à retracer la réponse au document source, fournissant une réponse plus fiable.
 
-## Leçon 3 - Interactif
+## Leçon 3 - Instruction interactive
 
-<img src="../images/lesson2/DeepLearning_course_ChatGPT_principles12.png" width="400">
+<img src="../images/lesson3/DeepLearning_course_ChatGPT_video3.png" width="400">
 
 - **Ressources**:
   - [transcription 3](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video3.txt)
