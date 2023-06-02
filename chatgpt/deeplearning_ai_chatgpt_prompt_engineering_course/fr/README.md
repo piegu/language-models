@@ -41,15 +41,30 @@ De DeepLearning.AI et OpenAI
   - **Objectif**: Pour des tâches complexes, aider le modèle à "réfléchir" peut éviter des conclusions incorrectes précipitées. Cela implique d'instruire le modèle pour qu'il consacre plus d'efforts de calcul à la tâche.
   - **Tactiques**:
     1. **Spécification des étapes pour les tâches**: Détailler les étapes pour que le modèle puisse accomplir une tâche peut améliorer ses performances et garantir qu'il retourne le résultat souhaité. Le cours a démontré cela avec une tâche impliquant la résumé, la traduction, l'extraction de noms et la sortie JSON (après avoir listé de manière chronologique les tâches, indiquer au modèle le format de sa sortie).
-    2. **Instruire le modèle pour trouver ses propres solutions**: Le modèle d'IA peut être guidé pour raisonner les solutions de manière indépendante avant d'évaluer les solutions des autres. Le cours a démontré cela avec un problème de mathématiques, où le modèle a pu identifier une erreur dans la solution d'un étudiant seulement lorsqu'il a été invité à résoudre le problème lui-même en premier.
+    2. **Demander au modèle de trouver ses propres solutions**: Le modèle d'IA peut être guidé pour raisonner les solutions de manière indépendante avant d'évaluer les solutions des autres. Le cours a démontré cela avec un problème de mathématiques, où le modèle a pu identifier une erreur dans la solution d'un étudiant seulement lorsqu'il a été invité à résoudre le problème lui-même en premier.
 
 **Limites du modèle**: **"Hallucinations"**
 Le cours met en garde contre une limite où le modèle peut générer des réponses plausibles mais fabriquées, connues sous le nom de "hallucinations". Un exemple a été montré où le modèle a été invité à décrire un modèle de brosse à dents inexistant et a donné une description réaliste mais inventée.
     - **Réduction des hallucinations**: Pour minimiser les hallucinations, le modèle peut être invité à trouver des citations pertinentes dans un texte et utiliser ces citations pour répondre à des questions. Cette approche peut aider à retracer la réponse au document source, fournissant une réponse plus fiable.
 
 ## Leçon 3 - Interactif
-- [transcription 3](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video3.txt)
-- [l3-iterative-prompt-development.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l3-iterative-prompt-development.ipynb)
+
+<img src="../images/lesson2/DeepLearning_course_ChatGPT_principles12.png" width="400">
+
+- **Ressources**:
+  - [transcription 3](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video3.txt)
+  - [l3-iterative-prompt-development.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l3-iterative-prompt-development.ipynb)
+
+- **Résumé**: La formatrice souligne l'importance du développement itératif de l'instruction lors du travail avec de grands modèles de langage. Il n'est pas crucial qu'une instruction fonctionne parfaitement la première fois, mais plutôt l'amélioration de l'instruction en fonction des résultats est la clé du succès. La formatrice utilise l'exemple de la génération d'un résumé pour une fiche technique de chaise, affinant l'instruction pour répondre à différentes contraintes comme la longueur, le détail technique, et le format du contenu. L'importance de tester les instructions sur des ensembles de données plus importants à mesure que les applications mûrissent est également soulignée.
+
+- **Points clés**:
+  - Le développement d'instructions efficaces pour les grands modèles de langage est un processus itératif.
+  - L'instruction parfaite n'est généralement pas atteinte lors de la première tentative, mais plutôt elle s'améliore au fil du temps en fonction des exigences de l'application et des résultats précédents.
+  - Un exemple a été donné de raffinement d'une instruction pour générer un résumé d'une fiche technique de chaise, ajustant pour des facteurs tels que le décompte des mots, l'inclusion de détails techniques, et le format de sortie (y compris le HTML).
+  - Il a été noté que les grands modèles de langage peuvent parfois avoir du mal avec les instructions pour des décomptes de mots ou de caractères très précis, mais ils sont généralement fiables.
+  - À mesure que les applications deviennent plus matures, il peut être bénéfique d'évaluer et d'affiner les instructions par rapport à de plus grands ensembles d'exemples pour assurer une performance constante dans divers cas d'utilisation.
+  - Les principes directeurs pour le développement d'instructions incluent d'être clair et spécifique dans les instructions et de donner au modèle un temps de "réflexion" adéquat.
+  - Le processus de développement d'instruction est aussi important, sinon plus, que de connaître l'instruction parfaite. Il s'agit d'avoir un bon processus pour développer des instructions efficaces pour des applications spécifiques.
 
 ## Leçon 4 - Résumer
 - [transcription 4](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video4.txt)
