@@ -7,6 +7,8 @@ De DeepLearning.AI et OpenAI
 
 <img src="../images/lesson1/DeepLearning_course_ChatGPT_video1.png" width="400">
 
+- **Ressource**: [transcription 1](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video1.txt)
+
 - **Résumé**: Ce cours offre un guide complet sur l'ingénierie des instructions ChatGPT pour les développeurs. Il couvre les meilleures pratiques pour le développement de logiciels utilisant les grands modèles linguistiques (LLMs), y compris l'utilisation d'appels API pour la construction d'applications. Il différencie les LLMs de base et les LLMs accordés aux instructions, mettant en évidence les avantages et les applications de ces dernières. Le cours illustre également l'importance des instructions claires et spécifiques lors de l'utilisation de ces modèles.
 - **Points clés**: 
   - Le cours est co-animé par Isa Fulford, membre du personnel d'OpenAI, qui a une expérience significative avec les Grands Modèles Linguistiques (LLMs) et l'enseignement des techniques de prompt, ainsi que par Andrew Ng, professeur de Deep Learning à l'université de Stanford et créateur de DeepLearning.AI.
@@ -16,11 +18,14 @@ De DeepLearning.AI et OpenAI
   - Les LLMs accordés aux instructions sont préférés en raison de leur capacité à suivre des instructions, et leurs caractéristiques de sécurité qui les rendent moins susceptibles de produire des sorties toxiques.
   - Le cours souligne l'importance d'instructions claires et spécifiques pour de meilleurs résultats d'un LLM accordé aux instructions.
   - Un certain nombre de contributeurs d'OpenAI et de DeepLearning.AI ont joué un rôle significatif dans la création des matériaux du cours.
-- [transcription 1](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video1.txt)
 
 ## Leçon 2 - Directives
 
 <img src="../images/lesson2/DeepLearning_course_ChatGPT_principles12.png" width="400">
+
+- **Ressources**:
+  - [transcription 2](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video2.txt)
+  - [l2-guidelines.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l2-guidelines.ipynb)
 
 - **Résumé**: Dans ce cours, Isa discute des directives pour une invitation efficace avec les modèles de langage, avec un accent sur la clarté et la spécificité des instructions et le temps accordé au modèle pour traiter des tâches complexes. De plus, elle introduit des tactiques pratiques comme l'utilisation de délimiteurs, les demandes de sortie structurée, la vérification d'instructions, et l'invitation par quelques exemples. Les leçons sont illustrées par des exemples de prompts impliquant des tâches comme la résumé et la traduction de textes, ainsi que la résolution de problèmes mathématiques. La section se termine en annonçant la prochaine leçon, traitant du processus de développement itératif de prompts.
 
@@ -32,33 +37,17 @@ De DeepLearning.AI et OpenAI
     3. **Vérification de condition**: Instruire le modèle pour vérifier d'abord les hypothèses, aidant à éviter les erreurs et les résultats inattendus. Lui demander une sortie différente si la condition est vérifiée ou non.
     4. **Invitation à s'inspirer de quelques exemples**: Fournir des exemples de réussite d'exécutions de tâches pour guider la compréhension du modèle de la tâche requise.
 
-- **Principe 2**: **Laisser le modèle réfléchir**
-  - **Objectif**: Pour des tâches complexes, permettre au modèle de "réfléchir" peut éviter des conclusions incorrectes précipitées. Cela implique d'instruire le modèle pour qu'il consacre plus d'efforts de calcul à la tâche.
+- **Principe 2**: **Aider le modèle à réfléchir**
+  - **Objectif**: Pour des tâches complexes, aider le modèle à "réfléchir" peut éviter des conclusions incorrectes précipitées. Cela implique d'instruire le modèle pour qu'il consacre plus d'efforts de calcul à la tâche.
   - **Tactiques**:
-    - **Spécification des étapes pour les tâches**: Détailler les étapes pour que le modèle puisse accomplir une tâche peut améliorer ses performances et garantir qu'il retourne le résultat souhaité. Le cours a démontré cela avec une tâche impliquant la résumé, la traduction, l'extraction de noms et la sortie JSON.
-    - **Instruire le modèle pour trouver ses propres solutions**: Le modèle d'IA peut être guidé pour raisonner les solutions de manière indépendante avant d'évaluer les solutions des autres. Le cours a démontré cela avec un problème de mathématiques, où le modèle a pu identifier une erreur dans la solution d'un étudiant seulement lorsqu'il a été invité à résoudre le problème lui-même en premier.
-    - **Limites du modèle - "Hallucinations": Le cours met en garde contre une limite où le modèle peut générer des réponses plausibles mais fabriquées, connues sous le nom de "hallucinations". Un exemple a été montré où le modèle a été invité à décrire un modèle de brosse à dents inexistant et a donné une description réaliste mais inventée.
+    1. **Spécification des étapes pour les tâches**: Détailler les étapes pour que le modèle puisse accomplir une tâche peut améliorer ses performances et garantir qu'il retourne le résultat souhaité. Le cours a démontré cela avec une tâche impliquant la résumé, la traduction, l'extraction de noms et la sortie JSON (après avoir listé de manière chronologique les tâches, indiquer au modèle le format de sa sortie).
+    2. **Instruire le modèle pour trouver ses propres solutions**: Le modèle d'IA peut être guidé pour raisonner les solutions de manière indépendante avant d'évaluer les solutions des autres. Le cours a démontré cela avec un problème de mathématiques, où le modèle a pu identifier une erreur dans la solution d'un étudiant seulement lorsqu'il a été invité à résoudre le problème lui-même en premier.
+
+**Limites du modèle**: **"Hallucinations"**
+Le cours met en garde contre une limite où le modèle peut générer des réponses plausibles mais fabriquées, connues sous le nom de "hallucinations". Un exemple a été montré où le modèle a été invité à décrire un modèle de brosse à dents inexistant et a donné une description réaliste mais inventée.
     - **Réduction des hallucinations**: Pour minimiser les hallucinations, le modèle peut être invité à trouver des citations pertinentes dans un texte et utiliser ces citations pour répondre à des questions. Cette approche peut aider à retracer la réponse au document source, fournissant une réponse plus fiable.
 
-- **Processus de développement itératif de l'instruction**: Le cours se conclut en préparant les apprenants pour la prochaine partie - le processus de développement itératif de l'instruction, qui est conçu pour affiner l'invitation du modèle.
-
-
-
-- **Points clés**:
-  - **Définir des étapes explicites pour les tâches**: Rendre explicites les étapes nécessaires pour accomplir une tâche améliore la qualité des réponses du modèle d'IA. Cette tactique augmente la prévisibilité de la production du modèle et facilite son analyse avec le code.
-  - **Encourager la résolution autonome de problèmes**: Encourager le modèle à élaborer une solution de manière autonome avant d'évaluer d'autres solutions conduit à des réponses plus précises, comme illustré dans le contexte d'un problème de mathématiques.
-  - **Atténuer les hallucinations**: Pour réduire la tendance du modèle à "halluciner" ou à inventer des informations, il est recommandé de demander au modèle de trouver d'abord des citations pertinentes dans un texte source et de baser ses réponses sur ces citations. Cela permet de retracer la réponse au document source.
-  - **Développement itératif de l'instruction**: Ce cours suggère une approche itérative du développement d'invitations pour les modèles d'IA, qui est le sujet de la prochaine leçon du cours.
-  - 
-
-    - Configuration de la bibliothèque Python OpenAI et de la clé API: Les utilisateurs sont guidés sur la façon de configurer et d'utiliser la bibliothèque Python OpenAI et comment récupérer et utiliser la clé API OpenAI.
-    - Utilisation du modèle GPT 3.5 Turbo: Le cours détaille l'utilisation du modèle GPT 3.5 Turbo pour les complétions de chat et introduit également la fonction d'aide, getCompletion, pour un traitement facile des invitations.
-  - **Points clés (deuxième partie)**: 
-  - 
-- [transcription 2](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video2.txt)
-- [l2-guidelines.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l2-guidelines.ipynb)
-
-## Leçon 3 - Interatif
+## Leçon 3 - Interactif
 - [transcription 3](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video3.txt)
 - [l3-iterative-prompt-development.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l3-iterative-prompt-development.ipynb)
 
