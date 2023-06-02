@@ -11,6 +11,7 @@ De DeepLearning.AI et OpenAI
 - [Leçon 6 - Transformations](#leçon-6---transformations)
 - [Leçon 7 - Assistant](#leçon-7---assistant)
 - [Leçon 8 - ChatBot](#leçon-8---chatbot)
+- [Leçon 9 - Conclusion](#leçon-9---conclusion)
 
 ## Leçon 1 - Introduction
 
@@ -174,3 +175,14 @@ Le cours met en garde contre une limite où le modèle peut générer des répon
 
 - **Ressources**: 
   - [transcription 9](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video9.txt)
+
+- **Résumé**: Isa et Andrew concluent ce court cours sur les techniques de formulation de requêtes et qui met en évidence deux principes clés : rédiger des instructions claires et spécifiques, et laisser le modèle le temps de réfléchir. Ils soulignent l'importance du développement itératif des requêtes et d'explorer les différentes capacités des grands modèles de langage, tels que la synthèse, l'inférence, la transformation et l'expansion. Ils encouragent les apprenants à explorer leurs propres idées de projet, à commencer par de petits projets et à améliorer progressivement leurs compétences. L'utilisation responsable des outils d'IA est mise en avant, et les créateurs du cours expriment leur enthousiasme pour le potentiel du domaine. La transcription se termine par des remerciements et une invitation à partager les projets réalisés.
+
+- **Points clés**: 
+  - Deux principes clés pour la formulation de requêtes : des instructions claires et le temps accordé au modèle pour réfléchir.
+  - L'importance du développement itératif des requêtes pour trouver la bonne approche pour des applications spécifiques.
+  - Différentes capacités des grands modèles de langage, tels que la synthèse, l'inférence, la transformation et l'expansion.
+  - Encouragement à explorer ses propres idées de projet, même en commençant par de petits projets ou des projets ludiques.
+  - L'excitation et le potentiel de croissance liés à la création d'applications avec les grands modèles de langage.
+  - L'importance de l'utilisation responsable des outils d'IA, en mettant l'accent sur l'impact positif.
+  - Invitation à partager et à faire connaître le cours ainsi que les projets réalisés.
