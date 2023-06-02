@@ -59,9 +59,17 @@ Tactics for Principle 2:
 - [transcript 2](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video2.txt)
 - [l2-guidelines.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l2-guidelines.ipynb)
 
-## Lesson 3 - Interative
-- [transcript 3](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video3.txt)
-- [l3-iterative-prompt-development.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l3-iterative-prompt-development.ipynb)
+## Lesson 3 - Interactive
+- **Ressources**:
+  - [transcript 3](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video3.txt)
+  - [l3-iterative-prompt-development.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l3-iterative-prompt-development.ipynb)
+- **Summary**: The speaker emphasizes the importance of iterative prompt development while working with large language models. It's not crucial for a prompt to work perfectly the first time, but instead refining the prompt based on outcomes is key to success. The speaker uses the example of generating a summary for a chair fact sheet, refining the prompt to meet different constraints like length, technical detail, and content format. The importance of testing prompts on larger data sets as applications mature is also highlighted.
+- **Key points**: 
+  - Developing effective prompts for large language models is an iterative process.
+  - The perfect prompt isn't usually achieved on the first attempt, but rather it improves over time based on application's requirements and previous outcomes.
+  - An example was given of refining a prompt to generate a summary of a chair fact sheet, adjusting for factors such as word count, inclusion of technical details, and output format (including HTML).
+  - It was noted that large language models can sometimes struggle with instructions for very precise word counts or character counts, but they are generally reliable within reason.
+  - As applications become more mature, it may be beneficial to evaluate and refine prompts against larger sets of examples to ensure consistent performance across various use cases.
 
 ## Lesson 4 - Summarizing
 - [transcript 4](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video4.txt)
