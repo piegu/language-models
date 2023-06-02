@@ -6,8 +6,8 @@ De DeepLearning.AI et OpenAI
 - [Leçon 1 - Introduction](#leçon-1---introduction)
 - [Leçon 2 - Principes et tactiques](#leçon-2---principes-et-tactiques)
 - [Leçon 3 - Instruction interactive](#leçon-3---instruction-interactive)
-- [Leçon 4 - Résumé et extraire des informations](#leçon-4---résumé-et-extraire-des-informations)
-- [Leçon 5 - Inférence](#leçon-5---inférence)
+- [Leçon 4 - Résumé et extraction d'informations](#leçon-4---résumé-et-extraction-dinformations)
+- [Leçon 5 - Inférence](#leçon-5---inférence-classification-détection-de-thématiques-extraction-dinformations)
 - [Leçon 6 - Transformer](#leçon-6---transformer)
 
 ## Leçon 1 - Introduction
@@ -72,7 +72,7 @@ Le cours met en garde contre une limite où le modèle peut générer des répon
   - À mesure que les applications deviennent plus matures, il peut être bénéfique d'évaluer et d'affiner les instructions par rapport à de plus grands ensembles d'exemples pour assurer une performance constante dans divers cas d'utilisation.
   - Le processus de développement d'instruction est important, sinon plus, que de connaître l'instruction parfaite. Il s'agit d'avoir un bon processus pour développer des instructions efficaces pour des applications spécifiques.
 
-## Leçon 4 - Résumé et extraire des informations
+## Leçon 4 - Résumé et extraction d'informations
 
 <img src="../images/lesson4/DeepLearning_course_ChatGPT_video4.png" width="400">
 
