@@ -89,9 +89,25 @@ Le cours met en garde contre une limite où le modèle peut générer des répon
   - Une mise en œuvre pratique d'un code de résumé de plusieursavis a été montré, permettant un accès rapide à l'essence de plusieurs avis.
   - Les grands modèles de langage aident non seulement à résumer, mais pourraient également aider à faire des inférences à partir de textes, comme déterminer le sentiment positif ou négatif dans les avis sur les produits, qui sera discuté dans la prochaine session.
 
-## Leçon 5 - Inférence
-- [transcription 5](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video5.txt)
-- [l5-inferring.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l5-inferring.ipynb)
+## Leçon 5 - Inférence (classification, détection de thématiques, extraction d'informations)
+
+<img src="../images/lesson5/DeepLearning_course_ChatGPT_video5.png" width="400">
+
+- **Ressources**:
+  - [transcription 5](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video5.txt)
+  - [l5-inferring.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l5-inferring.ipynb)
+
+- **Résumé**: Andrew discute de la manière dont les grands modèles de langage peuvent être utilisés pour déduire diverses informations à partir d'un texte, comme le sentiment, les expressions d'émotions, ou pour extraire les détails sur les produits ou les marques, la détection de sujet, et comment ils peuvent gérer plusieurs tâches simultanément à l'aide d'une instruction codifiée. Il explique en outre les applications de ces modèles pour les critiques de clients, l'identification de caractéristiques spécifiques dans un texte, et l'apprentissage zéro-shot pour la détection de sujets dans les articles de presse.
+
+- **Points clés**:
+- Les grands modèles de langage peuvent effectuer diverses tâches inférentielles comme l'analyse des sentiments, l'extraction de noms, de labels, et la compréhension du contexte en utilisant de simples instructions textuelles.
+- Les modèles peuvent traiter et fournir une analyse sur une chaîne de texte de manière plus efficace et rapide par rapport au flux de travail traditionnel de l'apprentissage automatique qui nécessite des modèles séparés pour différentes tâches.
+- En utilisant des instructions spécifiques, les modèles peuvent non seulement classer le sentiment d'une critique, mais aussi identifier la liste des émotions exprimées et évaluer si un client est particulièrement contrarié. Ces informations peuvent être précieuses pour les organisations de support client.
+- L'extraction d'informations est une autre capacité importante des grands modèles de langage qui peut être utilisée pour extraire et résumer des informations clés comme le produit et le fabricant à partir d'une grande collection de critiques.
+- Les grands modèles de langage peuvent également gérer des instructions multitâches, en extrayant plusieurs champs d'une chaîne de texte en une seule instruction, ce qui permet d'économiser du temps et des ressources de traitement.
+- Ces modèles peuvent inférer des sujets à partir d'un grand morceau de texte, ce qui les rend utiles pour analyser et catégoriser de grands corps de texte comme les articles de presse.
+- L'apprentissage zéro-shot permet au modèle d'identifier quels sujets d'une liste prédéfinie sont abordés dans un texte donné sans aucune donnée d'entraînement spécifique.
+- Les grands modèles de langage peuvent rapidement construire plusieurs systèmes pour les inférences de texte qui auraient auparavant pris un temps considérable même pour des développeurs expérimentés en apprentissage automatique.
 
 ## Leçon 6 - Transformer
 - [transcription 6](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video6.txt)
