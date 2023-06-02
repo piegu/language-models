@@ -5,8 +5,10 @@ De DeepLearning.AI et OpenAI
 
 - [Leçon 1 - Introduction](#leçon-1---introduction)
 - [Leçon 2 - Principes et tactiques](#leçon-2---principes-et-tactiques)
-- [Leçon 3 - Instruction interactive](leçon-3---instruction-interactive)
-- [Leçon 4 - Résumé et extraire des informations](leçon-4---résumé-et-extraire-des-informations)
+- [Leçon 3 - Instruction interactive](#leçon-3---instruction-interactive)
+- [Leçon 4 - Résumé et extraire des informations](#leçon-4---résumé-et-extraire-des-informations)
+- [Leçon 5 - Inférence](#leçon-5---inférence)
+- [Leçon 6 - Transformer](#leçon-6---transformer)
 
 ## Leçon 1 - Introduction
 
