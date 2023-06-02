@@ -171,7 +171,7 @@ Le cours met en garde contre une limite où le modèle peut générer des répon
 
 ## Leçon 9 - Conclusion
 
-<img src="../images/lesson9/DeepLearning_course_ChatGPT_video9.png" width="400">
+<img src="../images/lesson9/DeepLearning_course_ChatGPT_conclusion.png" width="400">
 
 - **Ressources**: 
   - [transcription 9](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video9.txt)
