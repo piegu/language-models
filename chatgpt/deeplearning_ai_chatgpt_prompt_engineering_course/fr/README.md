@@ -150,7 +150,7 @@ Le cours met en garde contre une limite où le modèle peut générer des répon
 
 ## Leçon 8 - Chatbot
 
-<img src="../images/lesson8/DeepLearning_course_ChatGPT_video8.png" width="400">
+<img src="../images/lesson8/DeepLearning_course_ChatGPT_role.png" width="400">
 
 - **Ressources**: 
   - [transcription 8](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video8.txt)
