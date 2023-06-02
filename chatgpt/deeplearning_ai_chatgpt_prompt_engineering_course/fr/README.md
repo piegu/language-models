@@ -8,7 +8,7 @@ De DeepLearning.AI et OpenAI
 - [Leçon 3 - Instruction interactive](#leçon-3---instruction-interactive)
 - [Leçon 4 - Résumé et extraction d'informations](#leçon-4---résumé-et-extraction-dinformations)
 - [Leçon 5 - Inférence (classification, détection de thématiques, extraction d'informations)](#leçon-5---inférence-classification-détection-de-thématiques-extraction-dinformations)
-- [Leçon 6 - Transformer](#leçon-6---transformer)
+- [Leçon 6 - Transformations](#leçon-6---transformations)
 
 ## Leçon 1 - Introduction
 
@@ -109,9 +109,24 @@ Le cours met en garde contre une limite où le modèle peut générer des répon
   - L'apprentissage zéro-shot permet au modèle d'identifier quels sujets d'une liste prédéfinie sont abordés dans un texte donné sans aucune donnée d'entraînement spécifique.
   - Les grands modèles de langage peuvent rapidement construire plusieurs systèmes pour les inférences de texte qui auraient auparavant pris un temps considérable même pour des développeurs expérimentés en apprentissage automatique.
 
-## Leçon 6 - Transformer
-- [transcription 6](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video6.txt)
-- [l6-transforming.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l6-transforming.ipynb)
+## Leçon 6 - Transformations
+
+<img src="../images/lesson6/DeepLearning_course_ChatGPT_video6.png" width="400">
+
+- **Ressources**: 
+  - [transcription 6](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video6.txt)
+  - [l6-transforming.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l6-transforming.ipynb)
+
+- **Résumé**: Isa présente plusieurs capacités des grands modèles linguistiques, en particulier GPT-4, notamment la traduction de texte, la transformation de ton, les corrections d'orthographe et de grammaire, et les conversions de format. Elle montre comment utiliser GPT-4 dans des tâches de traduction à travers diverses langues et niveaux de formalité, introduit le concept de transformation de ton dans l'écriture, et montre les capacités de relecture. De plus, elle montre la conversion de données d'un format (JSON) à un autre (HTML).
+
+- **Points clés**:
+  - Les grands modèles linguistiques peuvent traduire du texte à travers plusieurs langues, y compris des versions informelles et formelles.
+  - Ils peuvent détecter la langue d'un texte donné, utile dans un environnement multilingue comme une entreprise de commerce électronique multinationale.
+  - Les modèles peuvent modifier le ton du texte écrit, comme transformer l'argot en langage commercial.
+  - Ils peuvent convertir les données entre différents formats (par exemple : JSON en HTML).
+  - GPT-4 peut aider à relire et à corriger les erreurs de grammaire et d'orthographe dans le texte.
+  - GPT-4 peut également aider à transformer le texte pour qu'il s'adapte à certains styles et formats, tels que le style APA et le format markdown.
+  - Enfin, le conférencier annonce le prochain sujet qui consiste à développer des invites plus courtes pour générer une réponse plus libre et plus longue à partir d'un modèle linguistique.
 
 ## Leçon 7 - Développez
 - [transcription 7](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video7.txt)
