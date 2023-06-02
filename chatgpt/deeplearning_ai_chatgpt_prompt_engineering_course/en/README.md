@@ -86,8 +86,21 @@ Tactics for Principle 2:
   - Large language models not only help in summarizing but could also help in making inferences from text, such as determining positive or negative sentiment in product reviews, to be discussed in the next session.
 
 ## Lesson 5 - Inferring
-- [transcript 5](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video5.txt)
-- [l5-inferring.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l5-inferring.ipynb)
+- **Ressources**:
+  - [transcript 5](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video5.txt)
+  - [l5-inferring.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l5-inferring.ipynb)
+
+- **Summary**: The transcript discusses how large language models can be used to infer various information from text such as sentiment, expressions of emotions, details about products or brands, topic detection, and how they can handle multiple tasks simultaneously with the help of prompts. It further elaborates on applications of such models for customer reviews, identifying specific features in a text, and zero-shot learning for topic detection in news articles.
+
+- **Key points**:
+  - Large language models can perform various inferential tasks like sentiment analysis, extracting names, labels, and understanding context by using simple text prompts.
+  - The models can process and provide analysis on a text string in a more efficient and rapid manner compared to the traditional machine learning workflow that requires separate models for different tasks.
+  - Using specific prompts, models can not only classify sentiment of a review but can also identify the list of emotions expressed and assess if a customer is particularly upset. This information can be valuable for customer support organizations.
+  - Information extraction is another important capability of large language models which can be utilized to extract and summarize key information like the product and the manufacturer from a large collection of reviews.
+  - Large language models can also handle multi-task prompts, extracting multiple fields out of a text string in a single prompt, saving processing time and resources.
+  - These models can infer topics from a large piece of text, making it useful for analyzing and categorizing large bodies of text like news articles.
+  - Zero-shot learning allows the model to identify which topics from a predefined list are covered in a given text without any specific training data.
+  - Large language models can rapidly build multiple systems for text inferences which would have previously taken a considerable amount of time even for skilled machine learning developers.
 
 ## Lesson 6 - Transforming
 - [transcript 6](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video6.txt)
