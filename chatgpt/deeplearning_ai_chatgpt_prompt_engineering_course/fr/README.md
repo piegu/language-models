@@ -7,7 +7,7 @@ De DeepLearning.AI et OpenAI
 - [Leçon 2 - Principes et tactiques](#leçon-2---principes-et-tactiques)
 - [Leçon 3 - Instruction interactive](#leçon-3---instruction-interactive)
 - [Leçon 4 - Résumé et extraction d'informations](#leçon-4---résumé-et-extraction-dinformations)
-- [Leçon 5 - Inférence](#leçon-5---inférence-classification-détection-de-thématiques-extraction-dinformations)
+- [Leçon 5 - Inférence (classification, détection de thématiques, extraction d'informations)](#leçon-5---inférence-classification-détection-de-thématiques-extraction-dinformations)
 - [Leçon 6 - Transformer](#leçon-6---transformer)
 
 ## Leçon 1 - Introduction
