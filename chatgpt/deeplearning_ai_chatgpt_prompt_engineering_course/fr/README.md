@@ -10,6 +10,7 @@ De DeepLearning.AI et OpenAI
 - [Leçon 5 - Inférence (classification, détection de thématiques, extraction d'informations)](#leçon-5---inférence-classification-détection-de-thématiques-extraction-dinformations)
 - [Leçon 6 - Transformations](#leçon-6---transformations)
 - [Leçon 7 - Assistant](#leçon-7---assistant)
+- [Leçon 8 - ChatBot](#leçon-8---chatbot)
 
 ## Leçon 1 - Introduction
 
@@ -154,6 +155,18 @@ Le cours met en garde contre une limite où le modèle peut générer des répon
 - **Ressources**: 
   - [transcription 8](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video8.txt)
   - [l8-chatbot.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l8-chatbot.ipynb)
+
+- **Résumé**: Isa aborde la manière d'utiliser un modèle de langage large pour construire un chatbot personnalisé. Elle explique le format OpenAI ChatCompletions, le rôle des messages système et utilisateur, ainsi que l'importance de fournir du contexte au modèle pour générer des réponses précises. Elle présente des exemples d'utilisation du chatbot pour différentes tâches, telles que la génération de blagues shakespeariennes et la collecte de commandes de pizza. Le transcript couvre également le processus de création d'une interface utilisateur et l'ajout de messages au contexte de la conversation. Enfin, elle montre comment générer un résumé JSON basé sur la conversation pour un traitement ultérieur.
+
+- **Points clés**:
+  - Les modèles de langage large peuvent être utilisés pour construire des chatbots personnalisés pour diverses tâches.
+  - Le format de chat implique l'utilisation d'une liste de messages, comprenant des messages système et utilisateur.
+  - Les messages système aident à définir le comportement et la personnalité de l'assistant sans que l'utilisateur en soit conscient.
+  - Fournir du contexte est crucial pour que le modèle génère des réponses précises.
+  - Une interface utilisateur peut être créée pour interagir avec le chatbot et collecter les requêtes de l'utilisateur.
+  - Les conversations peuvent être étendues en ajoutant des messages au contexte.
+  - Le modèle peut générer des résumés JSON basés sur la conversation pour un traitement ultérieur.
+  - La personnalisation du comportement et de la personnalité du chatbot peut être réalisée en modifiant le message système.
 
 ## Leçon 9 - Conclusion
 
