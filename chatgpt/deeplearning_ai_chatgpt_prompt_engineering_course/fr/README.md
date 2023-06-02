@@ -9,6 +9,7 @@ De DeepLearning.AI et OpenAI
 - [Leçon 4 - Résumé et extraction d'informations](#leçon-4---résumé-et-extraction-dinformations)
 - [Leçon 5 - Inférence (classification, détection de thématiques, extraction d'informations)](#leçon-5---inférence-classification-détection-de-thématiques-extraction-dinformations)
 - [Leçon 6 - Transformations](#leçon-6---transformations)
+- [Leçon 7 - Assistant](#leçon-7---assistant)
 
 ## Leçon 1 - Introduction
 
@@ -127,13 +128,24 @@ Le cours met en garde contre une limite où le modèle peut générer des répon
   - GPT-4 peut aider à relire et à corriger les erreurs de grammaire et d'orthographe dans le texte.
   - GPT-4 peut également aider à transformer le texte pour qu'il s'adapte à certains styles et formats, tels que le style APA et le format markdown.
 
-## Leçon 7 - Développez
+## Leçon 7 - Assistant
 
 <img src="../images/lesson7/DeepLearning_course_ChatGPT_video7.png" width="400">
 
 - **Ressources**: 
   - [transcription 7](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video7.txt)
   - [l7-expanding.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l7-expanding.ipynb)
+
+- **Résumé**: Isa discute des utilisations variées des grands modèles de langage, notamment pour la traduction entre différentes langues et formats, la correction orthographique et grammaticale, le changement de ton, et l'expansion du texte. Elle décrit également comment améliorer les instructions pour le modèle afin d'obtenir des résultats plus précis et comment créer un assistant de service à la clientèle AI pour répondre aux avis des clients.
+
+- **Points clés**: 
+  - Les grands modèles de langage peuvent traduire du texte entre différentes langues et formats, et peuvent aider à la correction orthographique et grammaticale.
+  - Avec une instruction appropriée, le modèle peut changer le ton d'un texte pour l'adapter à différents publics.
+  - Les modèles de langage peuvent être utilisés pour transformer des textes courts en textes plus longs, utiles pour générer du contenu plus détaillé à partir de prompts.
+  - Le modèle peut être utilisé comme un assistant de service à la clientèle AI pour générer des réponses personnalisées aux avis des clients.
+  - Le paramètre de température peut être utilisé pour contrôler le degré d'exploration ou de variabilité dans les réponses du modèle.
+  - Il est important d'itérer et d'ajuster les instructions pour obtenir des résultats plus précis.
+  - Il est crucial de faire preuve de transparence lorsque l'IA génère du texte destiné aux utilisateurs, en leur faisant savoir que le texte a été généré par un modèle de langage.
 
 ## Leçon 8 - Chatbot
 
