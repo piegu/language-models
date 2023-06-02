@@ -148,7 +148,7 @@ Le cours met en garde contre une limite où le modèle peut générer des répon
   - Il est important d'itérer et d'ajuster les instructions pour obtenir des résultats plus précis.
   - Il est crucial de faire preuve de transparence lorsque l'IA génère du texte destiné aux utilisateurs, en leur faisant savoir que le texte a été généré par un modèle de langage.
 
-## Leçon 8 - Chatbot
+## Leçon 8 - ChatBot
 
 <img src="../images/lesson8/DeepLearning_course_ChatGPT_role.png" width="400">
 
