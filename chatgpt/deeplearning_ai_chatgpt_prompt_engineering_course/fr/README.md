@@ -2,8 +2,10 @@
 
 - **Crédit**: [DeepLearning.AI](https://www.deeplearning.ai) et [OpenAI](https://openai.com/)
 - **Auteur de cette page**: [Pierre Guillou](https://www.linkedin.com/in/pierreguillou)
-- **Contexte**: ce cours créé à l'origine pour les développeurs enseigne les principes et tactiques à utiliser pour contrôler ChatGPT, c'est-à-dire l'amener grâce à une instruction en langage naturel à rédiger un texte qui répond à vos attentes. Cependant, puisqu'il s'agit essentiellement d'apprendre à parler à ChatGPT et qu'il est possible de le faire sans aucun code (c'est-à-dire dans une interface Web), il m'a semblé que tout le monde pouvait bénéficier de ce cours. Ainsi, j'ai décidé de résumer chacun de ses chapitres et de lister les points clés mis en avant par les formateurs Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI). En plus des anglophones, j'ai également décidé de faciliter son accès aux francophones et aux lusophones avec des versions traduites dans leurs langues respectives. 
-- **Réalisation**: alors, comment faire tout cela le plus rapidement possible ? Bien sûr, j'ai travaillé avec un assistant... du nom de ChatGPT 4. A l'aide de mon compte personnel sur OpenAI, j'ai demandé à ChatGPT de résumer les retranscriptions textuelles de chacune des vidéos du cours, d'en extraire les point-clés sous forme d'une liste, puis de traduire ses réponses textuelles (les instructions utilisées se trouvent en annexe). J'ai ensuite fait une relecture des textes et éventuellement fait quelques retouches quand je l'ai jugé nécessaire (rien d'essentiel). Enfin, j'ai intégré tous les textes dans github.
+- **Date**: 6 juin 2023
+- **Contexte**: Ce cours créé à l'origine pour les développeurs enseigne les principes et tactiques à utiliser pour contrôler ChatGPT, c'est-à-dire l'amener grâce à une instruction en langage naturel à rédiger un texte qui répond à vos attentes. Cependant, puisqu'il s'agit essentiellement d'apprendre à parler à ChatGPT et qu'il est possible de le faire sans aucun code (c'est-à-dire dans une interface Web), il m'a semblé que tout le monde pouvait bénéficier de ce cours. Ainsi, j'ai décidé de résumer chacun de ses chapitres et de lister les points clés mis en avant par les formateurs Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI). En plus des anglophones, j'ai également décidé de faciliter son accès aux francophones et aux lusophones avec des versions traduites dans leurs langues respectives. 
+- **Réalisation**: Alors, comment faire tout cela le plus rapidement possible ? Bien sûr, j'ai travaillé avec un assistant... du nom de ChatGPT 4. A l'aide de mon compte personnel sur OpenAI, j'ai demandé à ChatGPT de résumer les retranscriptions textuelles de chacune des vidéos du cours, d'en extraire les point-clés sous forme d'une liste, puis de traduire ses réponses textuelles (les instructions utilisées se trouvent en annexe). J'ai ensuite fait une relecture des textes et éventuellement fait quelques retouches quand je l'ai jugé nécessaire (rien d'essentiel). Enfin, j'ai intégré tous les textes dans github.
+- **Note**: Les transcriptions textuelles et les notebooks sont mis à disposition via des liens pour permettre à chacun de sourcer les informations de cette page et faciliter leur mise en œuvre. En revanche, il faut s'inscrire sur la page du cours pour visionner les vidéos.
 
 ## Sommaire
 
@@ -41,13 +43,13 @@
   - [transcription 2](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video2.txt)
   - [l2-guidelines.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l2-guidelines.ipynb)
 
-- **Résumé**: Dans ce cours, Isa discute des directives pour une invitation efficace avec les modèles de langage, avec un accent sur la clarté et la spécificité des instructions et le temps accordé au modèle pour traiter des tâches complexes. De plus, elle introduit des tactiques pratiques comme l'utilisation de délimiteurs, les demandes de sortie structurée, la vérification d'instructions, et l'invitation par quelques exemples. Les leçons sont illustrées par des exemples de prompts impliquant des tâches comme le résumé et la traduction de textes, ainsi que la résolution de problèmes mathématiques. La section se termine en annonçant la prochaine leçon, traitant du processus de développement itératif de prompts.
+- **Résumé**: Dans ce cours, Isa discute des directives pour une invitation efficace avec les modèles de langage, avec un accent sur la clarté et la spécificité des instructions et le temps accordé au modèle pour traiter des tâches complexes. De plus, elle introduit des tactiques pratiques comme l'utilisation de délimiteurs, les demandes de sortie structurée, la vérification d'instructions, et l'apprentissage para le modèle à partir de quelques exemples. Les leçons sont illustrées par des exemples d'instructions impliquant des tâches comme le résumé et la traduction de textes, ainsi que la résolution de problèmes mathématiques. La section se termine en annonçant la prochaine leçon, traitant du processus de développement itératif d'instructions.
 
 - **Principe 1**: **Rédiger des instructions claires et spécifiques**
   - **Objectif**: Fournir des directives explicites et claires pour guider le modèle vers la sortie souhaitée et réduire les réponses non pertinentes ou incorrectes. Attention: instructions claires ne veut pas dire courtes.
   - **Tactiques**:
     1. **Utilisation de délimiteurs**: Indiquer clairement les parties distinctes de l'entrée avec des signes de ponctuation ou des symboles spécifiques pour aider le modèle à mieux comprendre l'instruction. Vous pouvez utiliser les délimiteurs suivants par exemple: ```, """, < >, <tag> </tag>
-    2. **Demander une sortie structurée**: Cela peut faciliter l'analyse des sorties du modèle, en demandant des sorties structurées comme HTML ou JSON.
+    2. **Demander une sortie structurée**: Cela peut faciliter l'analyse des sorties du modèle, en demandant des sorties structurées comme HTML ou JSON, ou même une liste.
     3. **Vérification de condition**: Instruire le modèle pour vérifier d'abord les hypothèses, aidant à éviter les erreurs et les résultats inattendus. Lui demander une sortie différente si la condition est vérifiée ou non.
     4. **Invitation à s'inspirer de quelques exemples**: Fournir des exemples de réussite d'exécutions de tâches pour guider la compréhension du modèle de la tâche requise.
 
@@ -58,8 +60,8 @@
     2. **Demander au modèle de trouver ses propres solutions**: Le modèle d'IA peut être guidé pour raisonner les solutions de manière indépendante avant d'évaluer les solutions des autres. Le cours a démontré cela avec un problème de mathématiques, où le modèle a pu identifier une erreur dans la solution d'un étudiant seulement lorsqu'il a été invité à résoudre le problème lui-même en premier.
 
 **Limites du modèle**: **"Hallucinations"**
-Le cours met en garde contre une limite où le modèle peut générer des réponses plausibles mais fabriquées, connues sous le nom de "hallucinations". Un exemple a été montré où le modèle a été invité à décrire un modèle de brosse à dents inexistant et a donné une description réaliste mais inventée.
-    - **Réduction des hallucinations**: Pour minimiser les hallucinations, le modèle peut être invité à trouver des citations pertinentes dans un texte et utiliser ces citations pour répondre à des questions. Cette approche peut aider à retracer la réponse au document source, fournissant une réponse plus fiable.
+- Le cours met en garde contre une limite où le modèle peut générer des réponses plausibles mais fabriquées, connues sous le nom de "hallucinations". Un exemple a été montré où le modèle a été invité à décrire un modèle de brosse à dents inexistant et a donné une description réaliste mais inventée.
+- Pour minimiser les hallucinations, le modèle peut être invité à trouver des citations pertinentes dans un texte et utiliser ces citations pour répondre à des questions. Cette approche peut aider à retracer la réponse au document source, fournissant une réponse plus fiable.
 
 ## Leçon 3 - Instruction interactive
 
@@ -69,13 +71,13 @@ Le cours met en garde contre une limite où le modèle peut générer des répon
   - [transcription 3](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video3.txt)
   - [l3-iterative-prompt-development.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l3-iterative-prompt-development.ipynb)
 
-- **Résumé**: Andrew souligne l'importance du développement itératif de l'instruction lors de l'utilisation de grands modèles de langage. Il n'est pas crucial qu'une instruction fonctionne parfaitement la première fois. C'es l'amélioration de l'instruction en fonction des résultats qui est la clé du succès. Andrew utilise l'exemple de la génération d'un résumé pour une fiche technique de chaise, affinant l'instruction pour répondre à différentes contraintes comme la longueur, le détail technique, et le format du texte produit para ChatGPT. L'importance de tester les instructions sur des ensembles de données plus importants à mesure que les applications mûrissent est également soulignée.
+- **Résumé**: Andrew souligne l'importance du développement itératif de l'instruction lors de l'utilisation de grands modèles de langage. Il n'est pas crucial qu'une instruction fonctionne parfaitement la première fois. C'est l'amélioration de l'instruction en fonction des résultats qui est la clé du succès. Andrew utilise l'exemple de la génération d'un résumé pour une fiche technique de chaise, affinant l'instruction pour répondre à différentes contraintes comme la longueur, le détail technique, et le format du texte produit para ChatGPT. L'importance de tester les instructions sur des ensembles de données plus importants à mesure que les applications mûrissent est également soulignée.
 
 - **Points clés**:
   - Le développement d'instructions efficaces pour les grands modèles de langage est un processus itératif.
   - L'instruction parfaite n'est généralement pas atteinte lors de la première tentative, mais plutôt elle s'améliore au fil du temps en fonction des exigences de l'application et des résultats précédents.
   - Un exemple a été donné de raffinement d'une instruction pour générer un résumé d'une fiche technique de chaise, ajustant pour des facteurs tels que le décompte des mots, l'inclusion de détails techniques, et le format de sortie (ici, le HTML).
-  - Il a été noté que les grands modèles de langage peuvent parfois avoir du mal avec les instructions pour des décomptes de mots ou de caractères très précis, mais ce n'est pas le cas de ChatGPT qui est plutôt fiabel sur ce sujet.
+  - Il a été noté que les grands modèles de langage peuvent parfois avoir du mal avec les instructions pour des décomptes de mots ou de caractères très précis, mais ce n'est pas le cas de ChatGPT qui est plutôt fiable sur ce sujet.
   - À mesure que les applications deviennent plus matures, il peut être bénéfique d'évaluer et d'affiner les instructions par rapport à de plus grands ensembles d'exemples pour assurer une performance constante dans divers cas d'utilisation.
   - Le processus de développement d'instruction est important, sinon plus, que de connaître l'instruction parfaite. Il s'agit d'avoir un bon processus pour développer des instructions efficaces pour des applications spécifiques.
 
@@ -87,13 +89,13 @@ Le cours met en garde contre une limite où le modèle peut générer des répon
   - [transcription 4](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/transcripts/transcript_video4.txt)
   - [l4-summarizing.ipynb](https://github.com/piegu/language-models/edit/master/chatgpt/deeplearning_ai_chatgpt_prompt_engineering_course/notebooks/l4-summarizing.ipynb)
 
-- **Résumé**: Andrew discute de l'utilité des grands modèles de langage dans la résumé de textes, en particulier les avis sur un site de commerce électronique. Il démontre comment ces modèles peuvent générer des résumés ou extraire des informations spécifiques pertinentes pour différents départements (comme l'expédition ou la tarification), facilitant ainsi un processus de révision plus efficace et ciblé. Un code est également introduit pour résumer efficacement plusieurs avis, permettant un accès rapide à leur contenu.
+- **Résumé**: Andrew discute de l'utilité des grands modèles de langage dans le résumé de textes, en particulier les avis sur un site de commerce électronique. Il démontre comment ces modèles peuvent générer des résumés ou extraire des informations spécifiques pertinentes pour différents départements (comme l'expédition ou la tarification), facilitant ainsi un processus de révision plus efficace et ciblé. Un code est également introduit pour résumer efficacement plusieurs avis, permettant un accès rapide à leur contenu.
 
 - **Points clés**:
   - Les grands modèles de langage peuvent être utilisés pour résumer de grands volumes de texte, permettant une compréhension efficace du contenu.
   - Un résumé spécifique peut être généré en fonction des exigences de différents départements, par exemple l'expédition ou la tarification, grâce à des instructions adaptées.
   - Andrew a introduit le concept d'extraction d'informations spécifiques plutôt que de fournir un résumé général, ce qui pourrait être plus approprié pour certains départements.
-  - Une mise en œuvre pratique d'un code de résumé de plusieursavis a été montré, permettant un accès rapide à l'essence de plusieurs avis.
+  - Une mise en œuvre pratique d'un code de résumé de plusieurs avis a été montré, permettant un accès rapide à l'essence de plusieurs avis.
   - Les grands modèles de langage aident non seulement à résumer, mais pourraient également aider à faire des inférences à partir de textes, comme déterminer le sentiment positif ou négatif dans les avis sur les produits, qui sera discuté dans la prochaine session.
 
 ## Leçon 5 - Inférence (classification, détection de thématiques, extraction d'informations)
