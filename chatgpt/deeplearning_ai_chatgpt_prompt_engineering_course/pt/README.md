@@ -20,7 +20,7 @@
 - [Lição 7 - Assistente](#lição-7---assistente)
 - [Lição 8 - ChatBot](#lesson-8---chatbot)
 - [Lição 9 - Conclusão](#lição-9---conclusão)
-- [Apêndice](#apendice)
+- [Apêndice](#apêndice)
 
 ## Lição 1 - Introdução
 
