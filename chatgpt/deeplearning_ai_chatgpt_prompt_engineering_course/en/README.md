@@ -20,6 +20,7 @@
 - [Lesson 7 - Assistant](#lesson-7---assistant)
 - [Lesson 8 - ChatBot](#lesson-8---chatbot)
 - [Lesson 9 - Conclusion](#lesson-9---conclusion)
+- [Appendix](#appendix)
 
 ## Lesson 1 - Introduction
 
@@ -194,3 +195,35 @@
   - The excitement and growth potential of building applications with large language models.
   - The importance of responsible use of AI tools, with a focus on positive impact.
   - Invitation to share and publicize the course as well as the projects carried out.
+
+## Appendix
+
+### Prompt 1
+
+```
+You are a course teacher. Summarize the transcript delimited by triple quotes at most 80 words. Then, extract the most important points of the transcript as a list with a short explanation if necessary.
+
+Follow the following format:
+Summary: <summary of the transcript>
+Key points: <most important points of the transcript as a list>
+- ...
+- ...
+- ...
+
+Transcript:
+"""
+"""
+Summary: 
+Key points:
+```
+
+### Prompt 2
+```
+Translate the summary and key points into French and Portuguese.
+```
+
+### Prompt 3 (if necessary)
+```
+Keep writing until the translation is finished.
+```
+
