@@ -20,6 +20,7 @@
 - [Lição 7 - Assistente](#lição-7---assistente)
 - [Lição 8 - ChatBot](#lesson-8---chatbot)
 - [Lição 9 - Conclusão](#lição-9---conclusão)
+- [Apêndice](#apendice)
 
 ## Lição 1 - Introdução
 
@@ -194,3 +195,5 @@
   - A empolgação e o potencial de crescimento de criar aplicativos com grandes modelos de linguagem.
   - A importância do uso responsável das ferramentas de IA, com foco no impacto positivo.
   - Convite à partilha e divulgação do curso bem como dos projetos realizados.
+
+## Apêndice
