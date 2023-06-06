@@ -197,3 +197,35 @@
   - Convite à partilha e divulgação do curso bem como dos projetos realizados.
 
 ## Apêndice
+
+### Instrução 1
+
+```
+You are a course teacher. 
+Summarize the transcript delimited by triple quotes at most 80 words. 
+Then, extract the most important points of the transcript as a list with a short explanation if necessary.
+
+Follow the following format:
+Summary: <summary of the transcript>
+Key points: <most important points of the transcript as a list>
+- ...
+- ...
+- ...
+
+Transcript:
+"""
+<transcript>
+"""
+Summary: 
+Key points:
+```
+
+### Instrução 2
+```
+Translate the summary and key points into French and Portuguese.
+```
+
+### Instrução 3 (if necessary)
+```
+Keep writing until the translation is finished.
+```
