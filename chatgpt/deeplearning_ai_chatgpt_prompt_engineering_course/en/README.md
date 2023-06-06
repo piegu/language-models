@@ -1,5 +1,7 @@
 # Cours | [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
+**English** | [Français](../fr/) | Português](../pt/)
+
 - **Crédit**: [DeepLearning.AI](https://www.deeplearning.ai) et [OpenAI](https://openai.com/)
 - **Author of this page**: [Pierre Guillou](https://www.linkedin.com/in/pierreguillou)
 - **Date**: June 6, 2023
