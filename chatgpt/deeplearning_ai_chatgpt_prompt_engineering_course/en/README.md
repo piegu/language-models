@@ -214,6 +214,7 @@ Key points: <most important points of the transcript as a list>
 
 Transcript:
 """
+<transcript>
 """
 Summary: 
 Key points:
