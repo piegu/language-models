@@ -136,7 +136,7 @@
   - GPT-4 can help proofread and correct grammar and spelling errors in text.
   - GPT-4 can also help transform text to fit certain styles and formats, such as APA style and markdown format.
 
-## Lesson 7 - Wizard
+## Lesson 7 - Assistant
 
 <img src="../images/lesson7/DeepLearning_course_ChatGPT_video7.png" width="400">
 
