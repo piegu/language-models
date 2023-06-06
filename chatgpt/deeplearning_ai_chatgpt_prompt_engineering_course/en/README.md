@@ -201,7 +201,9 @@
 ### Prompt 1
 
 ```
-You are a course teacher. Summarize the transcript delimited by triple quotes at most 80 words. Then, extract the most important points of the transcript as a list with a short explanation if necessary.
+You are a course teacher. 
+Summarize the transcript delimited by triple quotes at most 80 words. 
+Then, extract the most important points of the transcript as a list with a short explanation if necessary.
 
 Follow the following format:
 Summary: <summary of the transcript>
