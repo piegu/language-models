@@ -20,6 +20,7 @@
 - [Leçon 7 - Assistant](#leçon-7---assistant)
 - [Leçon 8 - ChatBot](#leçon-8---chatbot)
 - [Leçon 9 - Conclusion](#leçon-9---conclusion)
+- [Annexe](#annexe)
 
 ## Leçon 1 - Introduction
 
@@ -194,3 +195,37 @@
   - L'excitation et le potentiel de croissance liés à la création d'applications avec les grands modèles de langage.
   - L'importance de l'utilisation responsable des outils d'IA, en mettant l'accent sur l'impact positif.
   - Invitation à partager et à faire connaître le cours ainsi que les projets réalisés.
+
+## Annexe
+
+### Instruction 1
+
+```
+You are a course teacher. 
+Summarize the transcript delimited by triple quotes at most 80 words. 
+Then, extract the most important points of the transcript as a list with a short explanation if necessary.
+
+Follow the following format:
+Summary: <summary of the transcript>
+Key points: <most important points of the transcript as a list>
+- ...
+- ...
+- ...
+
+Transcript:
+"""
+<transcript>
+"""
+Summary: 
+Key points:
+```
+
+### Instruction 2
+```
+Translate the summary and key points into French and Portuguese.
+```
+
+### Instruction 3 (quand nécessaire)
+```
+Keep writing until the translation is finished.
+```
