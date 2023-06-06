@@ -1,4 +1,4 @@
-# Cursos | [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+# Curso | [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
 [English](../en/README.md) | [Français](../fr/README.md) | **Português**
 
@@ -6,8 +6,8 @@
 - **Autor desta página**: [Pierre Guillou](https://www.linkedin.com/in/pierreguillou)
 - **Data**: 6 de junho de 2023
 - **Histórico**: Este curso originalmente criado para desenvolvedores ensina os princípios e as táticas a serem usadas para controlar o ChatGPT, ou seja, conduzi-lo através de uma instrução de linguagem natural para escrever um texto que atenda às suas expectativas. No entanto, como é basicamente aprender a falar com o ChatGPT e é possível fazê-lo sem qualquer código (ou seja, numa interface web), pareceu-me que todos poderiam beneficiar deste curso. Assim, decidi resumir cada um dos seus capítulos e listar os pontos-chave apresentados pelos formadores Isa Fulford (OpenAI) e Andrew Ng (DeepLearning.AI). Além dos falantes de inglês, decidi também facilitar seu acesso aos falantes de francês e português com versões traduzidas para seus respectivos idiomas.
-- **Realização**: Então, como fazer tudo isso o mais rápido possível? Claro, trabalhei com um assistente... chamado ChatGPT 4. Usando minha conta pessoal no OpenAI, pedi ao ChatGPT para resumir as transcrições de texto de cada um dos vídeos do curso, para extrair os pontos principais do formulário de uma lista e, em seguida, traduza suas respostas textuais (as instruções usadas podem ser encontradas no apêndice). Fiz então uma revisão dos textos e possivelmente fiz algumas alterações quando julguei necessário (nada essencial). Finalmente, integrei todos os textos no github.
-- **Nota**: As transcrições de texto e cadernos são disponibilizados por meio de links para permitir que todos possam obter as informações nesta página e facilitar sua implementação. No entanto, você deve se registrar na página do curso para assistir aos vídeos.
+- **Realização**: Então, como fazer tudo isso o mais rápido possível? Claro, trabalhei com um assistente... chamado [ChatGPT 4](https://openai.com/gpt-4). Usando minha conta pessoal no OpenAI, pedi ao ChatGPT para resumir as transcrições de texto de cada um dos vídeos do curso, para extrair os pontos principais do formulário de uma lista e, em seguida, traduza suas respostas textuais (as instruções usadas podem ser encontradas no apêndice). Fiz então uma revisão dos textos e possivelmente fiz algumas alterações quando julguei necessário (nada essencial). Finalmente, integrei todos os textos no github.
+- **Nota**: As transcrições de texto e notebooks são disponibilizados por meio de links para permitir que todos possam obter as informações nesta página e facilitar sua implementação. No entanto, você deve se registrar na página do curso para assistir aos vídeos.
 
 ## Resumo
 
