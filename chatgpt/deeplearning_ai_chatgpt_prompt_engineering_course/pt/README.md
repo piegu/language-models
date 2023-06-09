@@ -2,7 +2,7 @@
 
 [English](../en/README.md) | [Français](../fr/README.md) | **Português**
 
-<img src="../images/ChatGPT_curso_prompting.png">
+<img src="../images/ChatGPT_curso_prompting.png" alt="Imagem criada por ferramentas Text-2-Image" title="Imagem criada por ferramentas Text-2-Image">
 
 - **Crédito**: [DeepLearning.AI](https://www.deeplearning.ai) e [OpenAI](https://openai.com/)
 - **Autor desta página**: [Pierre Guillou](https://www.linkedin.com/in/pierreguillou)
