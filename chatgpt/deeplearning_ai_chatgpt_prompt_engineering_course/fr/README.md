@@ -2,9 +2,11 @@
 
 [English](../en/README.md) | **Français** | [Português](../pt/README.md)
 
+<img src="../images/ChatGPT_curso_prompting.png">
+
 - **Crédit**: [DeepLearning.AI](https://www.deeplearning.ai) et [OpenAI](https://openai.com/)
 - **Auteur de cette page**: [Pierre Guillou](https://www.linkedin.com/in/pierreguillou)
-- **Date**: 6 juin 2023
+- **Date**: 9 juin 2023
 - **Contexte**: Ce cours créé à l'origine pour les développeurs enseigne les principes et tactiques à utiliser pour contrôler ChatGPT, c'est-à-dire l'amener grâce à une instruction en langage naturel à rédiger un texte qui répond à vos attentes. Cependant, puisqu'il s'agit essentiellement d'apprendre à parler à ChatGPT et qu'il est possible de le faire sans aucun code (c'est-à-dire dans une interface Web), il m'a semblé que tout le monde pouvait bénéficier de ce cours. Ainsi, j'ai décidé de résumer chacun de ses chapitres et de lister les points clés mis en avant par les formateurs Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI). En plus des anglophones, j'ai également décidé de faciliter son accès aux francophones et aux lusophones avec des versions traduites dans leurs langues respectives. 
 - **Réalisation**: Alors, comment faire tout cela le plus rapidement possible ? Bien sûr, j'ai travaillé avec un assistant... du nom de [ChatGPT 4](https://openai.com/gpt-4). A l'aide de mon compte personnel sur OpenAI, j'ai demandé à ChatGPT de résumer les retranscriptions textuelles de chacune des vidéos du cours, d'en extraire les point-clés sous forme d'une liste, puis de traduire ses réponses textuelles (les instructions utilisées se trouvent en annexe). J'ai ensuite fait une relecture des textes et éventuellement fait quelques retouches quand je l'ai jugé nécessaire (rien d'essentiel). Enfin, j'ai intégré tous les textes dans github.
 - **Note**: Les transcriptions textuelles et les notebooks sont mis à disposition via des liens pour permettre à chacun de sourcer les informations de cette page et faciliter leur mise en œuvre. En revanche, il faut s'inscrire sur la page du cours pour visionner les vidéos.
