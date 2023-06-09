@@ -1,6 +1,9 @@
 # Language Models
 Repository of pre-trained Language Models and NLP models.
 
+## Curso | ChatGPT Prompt Engineering for Developers
+- Blog post: [IA Generativa | Como controlar o ChatGPT para escrever um texto que atenda às suas expectativas (curso de DeepLearning.AI e OpenAI)](https://medium.com/@pierre_guillou/ia-generativa-como-controlar-o-chatgpt-para-escrever-um-texto-que-atenda-%C3%A0s-suas-expectativas-e1b7abe59012)
+
 ## Document AI | Accuracy of layout finetuned models (LiLT and LayoutXLM base) on the dataset DoclayNet base (notebooks)
 - Line level
   -  [Document AI | ACCURACY at line level with a Document Understanding layout model (LiLT base) fine-tuned on DocLayNet dataset](https://github.com/piegu/language-models/blob/master/ACCURACY_of_LiLT_base_model_finetuned_on_DocLayNet_base_in_any_language_at_levelline_ml384.ipynb)
