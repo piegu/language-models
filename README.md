@@ -1,6 +1,10 @@
 # Language Models
 Repository of pre-trained Language Models and NLP models.
 
+## Speech-to-Text | Quickly get a transcription of a large audio file in any language with "Faster-Whisper"
+- Blog post: [Speech-to-Text | Quickly get a transcription of a large audio file in any language with "Faster-Whisper"](https://medium.com/@pierre_guillou/speech-to-text-quickly-get-a-transcription-of-a-large-audio-file-in-any-language-with-e4d4d2daf0cd)
+- Notebook: [Speech_to_Text_with_faster_whisper_on_large_audio_file_in_any_language.ipynb](https://github.com/piegu/language-models/blob/master/Speech_to_Text_with_faster_whisper_on_large_audio_file_in_any_language.ipynb)
+
 ## Curso | ChatGPT Prompt Engineering for Developers
 - Blog post: [IA Generativa | Como controlar o ChatGPT para escrever um texto que atenda às suas expectativas (curso de DeepLearning.AI e OpenAI)](https://medium.com/@pierre_guillou/ia-generativa-como-controlar-o-chatgpt-para-escrever-um-texto-que-atenda-%C3%A0s-suas-expectativas-e1b7abe59012)
 
