@@ -1,6 +1,11 @@
 # Language Models
 Repository of pre-trained Language Models and NLP models.
 
+## Video-to-Audio | A notebook and Web APP to get mp3 audio file from any YouTube video
+- Blog post: [Video-to-Audio | A notebook and Web APP to get mp3 audio file from any YouTube video](https://medium.com/@pierre_guillou/video-to-audio-a-notebook-and-web-app-to-get-mp3-audio-file-from-any-youtube-video-bb6a1c85390d)
+- Notebook: [youtube_video_to_audio.ipynb](https://github.com/piegu/language-models/blob/master/youtube_video_to_audio.ipynb)
+- Web APP: [Free YouTube URL Video-to-Audio](https://huggingface.co/spaces/pierreguillou/video-to-audio)
+
 ## Speech-to-Text | Quickly get a transcription of a large audio file in any language with "Faster-Whisper"
 - Blog post: [Speech-to-Text | Quickly get a transcription of a large audio file in any language with "Faster-Whisper"](https://medium.com/@pierre_guillou/speech-to-text-quickly-get-a-transcription-of-a-large-audio-file-in-any-language-with-e4d4d2daf0cd)
 - Notebook: [Speech_to_Text_with_faster_whisper_on_large_audio_file_in_any_language.ipynb](https://github.com/piegu/language-models/blob/master/Speech_to_Text_with_faster_whisper_on_large_audio_file_in_any_language.ipynb)
