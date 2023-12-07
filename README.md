@@ -1,6 +1,10 @@
 # Language Models
 Repository of pre-trained Language Models and NLP models.
 
+## Speech-to-Text | Get transcription WITH SPEAKERS from large audio file in any language (OpenAI Whisper + NeMo Speaker Diarization)
+- Blog post: [Speech-to-Text | Get transcription WITH SPEAKERS from large audio file in any language (OpenAI Whisper + NeMo Speaker Diarization)](https://medium.com/@pierre_guillou/speech-to-text-get-transcription-with-speakers-from-large-audio-file-in-any-language-openai-8da2312f1617)
+- Notebook: [speech_to_text_transcription_with_speakers_Whisper_Transcription_+_NeMo_Diarization.ipynb](https://github.com/piegu/language-models/blob/master/speech_to_text_transcription_with_speakers_Whisper_Transcription_%2B_NeMo_Diarization.ipynb)
+
 ## Video-to-Audio | A notebook and Web APP to get mp3 audio file from any YouTube video
 - Blog post: [Video-to-Audio | A notebook and Web APP to get mp3 audio file from any YouTube video](https://medium.com/@pierre_guillou/video-to-audio-a-notebook-and-web-app-to-get-mp3-audio-file-from-any-youtube-video-bb6a1c85390d)
 - Notebook: [youtube_video_to_audio.ipynb](https://github.com/piegu/language-models/blob/master/youtube_video_to_audio.ipynb)
