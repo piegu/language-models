@@ -1,0 +1,4183 @@
+[
+    {
+        "element_id": "9e988e9547fa5363890187d2021148bb",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        98.7,
+                        66.4
+                    ],
+                    [
+                        98.7,
+                        102.4
+                    ],
+                    [
+                        815.0,
+                        102.4
+                    ],
+                    [
+                        815.0,
+                        66.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.78403,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 1
+        },
+        "text": "FOR RELEASE AT 10:00 AM EDT, MONDAY, JUNE 8, 2020",
+        "type": "Header"
+    },
+    {
+        "element_id": "58a4b80439640de8e5b94cd804ff69b1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        121.5
+                    ],
+                    [
+                        100.0,
+                        214.6
+                    ],
+                    [
+                        1600.0,
+                        214.6
+                    ],
+                    [
+                        1600.0,
+                        121.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.72294,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 1,
+            "parent_id": "9e988e9547fa5363890187d2021148bb"
+        },
+        "text": "QUARTERLY FINANCIAL REPORT: U.S. MANUFACTURING, MINING, WHOLESALE TRADE, AND SELECTED SERVICE INDUSTRIES, FIRST QUARTER 2020",
+        "type": "Title"
+    },
+    {
+        "element_id": "25be9cca620ded49c6d25df4ef52a7c6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        99.7,
+                        230.9
+                    ],
+                    [
+                        99.7,
+                        270.1
+                    ],
+                    [
+                        461.2,
+                        270.1
+                    ],
+                    [
+                        461.2,
+                        230.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84145,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 1,
+            "parent_id": "58a4b80439640de8e5b94cd804ff69b1"
+        },
+        "text": "Release Number: CB20-87",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a23b96d31a16745bc38c24b7091a0b9a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        301.5
+                    ],
+                    [
+                        100.0,
+                        460.7
+                    ],
+                    [
+                        1552.2,
+                        460.7
+                    ],
+                    [
+                        1552.2,
+                        301.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94253,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 1,
+            "parent_id": "58a4b80439640de8e5b94cd804ff69b1"
+        },
+        "text": "Statement Regarding COVID-19 Impact: Due to recent events surrounding COVID-19, many businesses are operating on a limited capacity or have ceased operations completely. The Census Bureau has monitored response and data quality and determined estimates in this release meet publication standards. For more information on the compilation of this month's reports, see < QFR COVID-19 FAQs>.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "05a38208c7067fa8e68c9f47c49a13d5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        490.8
+                    ],
+                    [
+                        100.0,
+                        576.1
+                    ],
+                    [
+                        1518.9,
+                        576.1
+                    ],
+                    [
+                        1518.9,
+                        490.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90302,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 1,
+            "parent_id": "58a4b80439640de8e5b94cd804ff69b1"
+        },
+        "text": "June 8, 2020 \u2014 The U.S. Census Bureau announced the following seasonally adjusted quarterly after-tax profits for manufacturing industries statistics for First Quarter 2020:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "5a1a1d42393f738d4d9722cdd836f195",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        130.8,
+                        621.9
+                    ],
+                    [
+                        130.8,
+                        1154.7
+                    ],
+                    [
+                        1581.4,
+                        1154.7
+                    ],
+                    [
+                        1581.4,
+                        621.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.74142,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 1
+        },
+        "text": " U.S. MANUFACTURING CORPORATIONS    QUARTERLY AFTER-TAX PROFITS   200  U.S. Manufacturing Corporations Quarterly After-Tax Profits (Billions of dollars)  First Quarter 2020   $111.7 billion   160  Fourth Quarter 2019   (Revised)   $150.5 billion   120  80  First Quarter 2019   (Revised)   $154.9 billion   40  0  Next release: September 8, 2020   2016 First Quarter  2017 Second Quarter  2018  2019 Third Quarter  2020  Fourth Quarter  Data adjusted for seasonality but not price changes.  Source: U.S. Census Bureau, Quarterly Financial Report, June 8, 2020   Data adjusted for seasonality but not price changes. Source: U.S. Census Bureau, Quarterly Financial Report, June 8, 2020 ",
+        "type": "Image"
+    },
+    {
+        "element_id": "2daee4cf87e405f2515301ae3d32ad8d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        1209.3
+                    ],
+                    [
+                        100.0,
+                        1429.7
+                    ],
+                    [
+                        1527.5,
+                        1429.7
+                    ],
+                    [
+                        1527.5,
+                        1209.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9306,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 1
+        },
+        "text": "After-Tax Profits and Sales, First Quarter 2020 \u2013 Seasonally Adjusted Manufacturing Corporations U.S. manufacturing corporations' seasonally adjusted after-tax profits in the first quarter of 2020 totaled $111.7 billion, down $38.8 (\u00b10.3) billion from the after-tax profits of $150.5 billion recorded in the fourth quarter of 2019, and down $43.2 (\u00b11.2) billion from the after-tax profits of $154.9 billion recorded in the first quarter of 2019.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a61c391216ec95a9ab6fa49161aca4fb",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        1457.3
+                    ],
+                    [
+                        100.0,
+                        1586.7
+                    ],
+                    [
+                        1526.8,
+                        1586.7
+                    ],
+                    [
+                        1526.8,
+                        1457.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93443,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 1
+        },
+        "text": "Seasonally adjusted sales for the quarter totaled $1,637.4 billion, down $58.5 (\u00b17.6) billion from the $1,695.9 billion recorded in the fourth quarter of 2019, and down $66.8 (\u00b120.2) billion from the $1,704.2 billion recorded in the first quarter of 2019.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "192560a4024f09817fd28bbee01bd457",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        114.6,
+                        1786.4
+                    ],
+                    [
+                        114.6,
+                        1902.1
+                    ],
+                    [
+                        694.9,
+                        1902.1
+                    ],
+                    [
+                        694.9,
+                        1786.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.63261,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 1
+        },
+        "text": "Data Inquiries Economic Indicators Division, Quarterly Financial Branch 301-763-6600 csd.qfr@census.gov",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d0baaa69a6d04fa055a5a75a9e9914ca",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1326.0,
+                        1784.7
+                    ],
+                    [
+                        1326.0,
+                        1903.9
+                    ],
+                    [
+                        1591.9,
+                        1903.9
+                    ],
+                    [
+                        1591.9,
+                        1784.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.68316,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 1
+        },
+        "text": "Media Inquiries Public Information Office 301-763-3030 pio@census.gov",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0b1f9ae1a66d465fa1133479b16e29a2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        115.0,
+                        1931.5
+                    ],
+                    [
+                        115.0,
+                        2065.4
+                    ],
+                    [
+                        746.0,
+                        2065.4
+                    ],
+                    [
+                        746.0,
+                        1931.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 1
+        },
+        "text": "Cens States\u201d U.S. Department of Commerce U.S. CENSUS BUREAU Bureau census.gov",
+        "type": "Image"
+    },
+    {
+        "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+        "metadata": {
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf"
+        },
+        "text": "",
+        "type": "PageBreak"
+    },
+    {
+        "element_id": "4319655b0d21ce0cb29fca1893cd73e1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        210.0
+                    ],
+                    [
+                        100.0,
+                        429.4
+                    ],
+                    [
+                        1537.5,
+                        429.4
+                    ],
+                    [
+                        1537.5,
+                        210.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93884,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 2
+        },
+        "text": "Nondurable Goods Manufacturers Nondurable goods manufacturers' seasonally adjusted after-tax profits in the first quarter of 2020 totaled $39.9 billion, down $23.4 (\u00b10.2) billion from the after-tax profits of $63.3 billion recorded in the fourth quarter of 2019, and down $27.5 (\u00b10.3) billion from the after-tax profits of $67.4 billion recorded in the first quarter of 2019.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c53bb04cae723db168f0a4362bb81bae",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        455.9
+                    ],
+                    [
+                        100.0,
+                        586.4
+                    ],
+                    [
+                        1534.2,
+                        586.4
+                    ],
+                    [
+                        1534.2,
+                        455.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91822,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 2
+        },
+        "text": "Seasonally adjusted sales for the quarter totaled $783.2 billion, down $32.9 (\u00b14.4) billion from the $816.1 billion recorded in the fourth quarter of 2019, and down $26.6 (\u00b17.0) billion from the $809.8 billion recorded in the first quarter of 2019.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "336edd8bbf60cf790e0e05aa430e5483",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        616.4
+                    ],
+                    [
+                        100.0,
+                        837.1
+                    ],
+                    [
+                        1505.5,
+                        837.1
+                    ],
+                    [
+                        1505.5,
+                        616.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94709,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 2
+        },
+        "text": "Durable Goods Manufacturers Durable goods manufacturers' seasonally adjusted after-tax profits in the first quarter of 2020 totaled $71.8 billion, down $15.4 (\u00b10.4) billion from the after-tax profits of $87.2 billion recorded in the fourth quarter of 2019, and down $15.7 (\u00b11.2) billion from the after-tax profits of $87.5 billion recorded in the first quarter of 2019.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "300d4c32c8c2eb01370dc0648464a915",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        863.8
+                    ],
+                    [
+                        100.0,
+                        994.1
+                    ],
+                    [
+                        1534.2,
+                        994.1
+                    ],
+                    [
+                        1534.2,
+                        863.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92951,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 2
+        },
+        "text": "Seasonally adjusted sales for the quarter totaled $854.2 billion, down $25.6 (\u00b15.3) billion from the $879.8 billion recorded in the fourth quarter of 2019, and down $40.1 (\u00b118.6) billion from the $894.4 billion recorded in the first quarter of 2019.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "bd8fb7ad1d4403ec84f58f7dfdd6986e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        1023.7
+                    ],
+                    [
+                        100.0,
+                        1244.7
+                    ],
+                    [
+                        1531.2,
+                        1244.7
+                    ],
+                    [
+                        1531.2,
+                        1023.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94998,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 2
+        },
+        "text": "After-Tax Profits and Sales, First Quarter 2020 \u2013 Not Seasonally Adjusted Manufacturing Corporations U.S. manufacturing corporations' first quarter 2020 unadjusted after-tax profits totaled $105.4 billion, down $43.0 (\u00b11.2) billion from the after-tax profits of $148.4 billion recorded in the first quarter of 2019, and down $34.8 (\u00b10.3) billion from the after-tax profits of $140.2 billion recorded in the fourth quarter of 2019.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "367f1375ad9a947edd34b50f3878c0a4",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        1271.3
+                    ],
+                    [
+                        100.0,
+                        1401.7
+                    ],
+                    [
+                        1536.9,
+                        1401.7
+                    ],
+                    [
+                        1536.9,
+                        1271.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93063,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 2
+        },
+        "text": "Unadjusted sales for the first quarter of 2020 totaled $1,576.8 billion, down $65.1 (\u00b120.2) billion from the $1,641.9 billion recorded in the first quarter of 2019, and down $134.9 (\u00b17.6) billion from fourth quarter 2019 sales of $1,711.7 billion.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d8059bcb050ddfe900a430224c5e453b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        1433.0
+                    ],
+                    [
+                        100.0,
+                        1605.4
+                    ],
+                    [
+                        1507.5,
+                        1605.4
+                    ],
+                    [
+                        1507.5,
+                        1433.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 2
+        },
+        "text": "Nondurable Goods Manufacturers Nondurable goods manufacturers' first quarter 2020 unadjusted after-tax profits totaled $41.8 billion, down $27.4 (\u00b10.3) billion from the after-tax profits of $69.2 billion recorded in the first quarter of 2019, and down $10.3 (\u00b10.2) billion from fourth quarter 2019 after-tax profits of $52.1 billion.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "88f6ca60ac56a65e7142cab008b43164",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        114.7,
+                        1786.4
+                    ],
+                    [
+                        114.7,
+                        1902.1
+                    ],
+                    [
+                        694.9,
+                        1902.1
+                    ],
+                    [
+                        694.9,
+                        1786.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.65052,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 2
+        },
+        "text": "Data Inquiries Economic Indicators Division, Quarterly Financial Branch 301-763-6600 csd.qfr@census.gov",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "11f38d4954f7d2e7b0d25c2ef0e011dc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1326.0,
+                        1784.6
+                    ],
+                    [
+                        1326.0,
+                        1903.9
+                    ],
+                    [
+                        1591.9,
+                        1903.9
+                    ],
+                    [
+                        1591.9,
+                        1784.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.69061,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 2
+        },
+        "text": "Media Inquiries Public Information Office 301-763-3030 pio@census.gov",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0b1f9ae1a66d465fa1133479b16e29a2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        115.0,
+                        1931.5
+                    ],
+                    [
+                        115.0,
+                        2065.4
+                    ],
+                    [
+                        746.0,
+                        2065.4
+                    ],
+                    [
+                        746.0,
+                        1931.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 2
+        },
+        "text": "Cens States\u201d U.S. Department of Commerce U.S. CENSUS BUREAU Bureau census.gov",
+        "type": "Image"
+    },
+    {
+        "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+        "metadata": {
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf"
+        },
+        "text": "",
+        "type": "PageBreak"
+    },
+    {
+        "element_id": "1b3022813fb499fbeb0d7066a73dc873",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        206.4
+                    ],
+                    [
+                        100.0,
+                        335.7
+                    ],
+                    [
+                        1551.5,
+                        335.7
+                    ],
+                    [
+                        1551.5,
+                        206.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93172,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 3
+        },
+        "text": "Unadjusted sales for the first quarter of 2020 totaled $757.4 billion, down $25.8 (\u00b17.0) billion from the $783.2 billion recorded in the first quarter of 2019, and down $59.3 (\u00b14.4) billion from fourth quarter 2019 sales of $816.7 billion.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "aae7e2c634f835dc06b0ecd6b6866035",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        365.7
+                    ],
+                    [
+                        100.0,
+                        400.3
+                    ],
+                    [
+                        526.5,
+                        400.3
+                    ],
+                    [
+                        526.5,
+                        365.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 3
+        },
+        "text": "Durable Goods Manufacturers",
+        "type": "Title"
+    },
+    {
+        "element_id": "14b1f39fa7ac1f68e34abf598f11e986",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        428.3
+                    ],
+                    [
+                        100.0,
+                        556.1
+                    ],
+                    [
+                        1519.4,
+                        556.1
+                    ],
+                    [
+                        1519.4,
+                        428.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91845,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 3,
+            "parent_id": "aae7e2c634f835dc06b0ecd6b6866035"
+        },
+        "text": "Durable goods manufacturers' first quarter 2020 unadjusted after-tax profits totaled $63.6 billion, down $15.6 (\u00b11.2) billion from the after-tax profits of $79.2 billion recorded in the first quarter of 2019, and down $24.5 (\u00b10.4) billion from fourth quarter 2019 after-tax profits of $88.1 billion.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "50263f917af782bba73164a01758b83e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        584.9
+                    ],
+                    [
+                        100.0,
+                        713.1
+                    ],
+                    [
+                        1551.5,
+                        713.1
+                    ],
+                    [
+                        1551.5,
+                        584.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92318,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 3,
+            "parent_id": "aae7e2c634f835dc06b0ecd6b6866035"
+        },
+        "text": "Unadjusted sales for the first quarter of 2020 totaled $819.4 billion, down $39.3 (\u00b118.6) billion from the $858.6 billion recorded in the first quarter of 2019, and down $75.7 (\u00b15.3) billion from fourth quarter 2019 sales of $895.0 billion.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8bf087c43dd2f067b09b83aa78e2761b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        744.6
+                    ],
+                    [
+                        100.0,
+                        778.0
+                    ],
+                    [
+                        392.5,
+                        778.0
+                    ],
+                    [
+                        392.5,
+                        744.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 3
+        },
+        "text": "Mining Corporations",
+        "type": "Title"
+    },
+    {
+        "element_id": "352ace03c565d29c2dbf9d0b76de7615",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        803.0
+                    ],
+                    [
+                        100.0,
+                        980.4
+                    ],
+                    [
+                        1550.5,
+                        980.4
+                    ],
+                    [
+                        1550.5,
+                        803.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94869,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 3,
+            "parent_id": "8bf087c43dd2f067b09b83aa78e2761b"
+        },
+        "text": "First quarter 2020 unadjusted after-tax losses for mining corporations with assets of $50 million and over totaled $76.7 billion, down $79.4 (\u00b10.1) billion from the after-tax profits of $2.7 billion recorded in the first quarter of 2019, and down $55.1 (\u00b10.1) billion from the after-tax losses of $-21.6 billion recorded in the fourth quarter of 2019.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "360ffba1968fe05abdf0ce700317ff4e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        1007.7
+                    ],
+                    [
+                        100.0,
+                        1137.4
+                    ],
+                    [
+                        1544.2,
+                        1137.4
+                    ],
+                    [
+                        1544.2,
+                        1007.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92989,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 3,
+            "parent_id": "8bf087c43dd2f067b09b83aa78e2761b"
+        },
+        "text": "Unadjusted sales for the first quarter of 2020 totaled $65.3 billion, down $9.0 (\u00b10.4) billion from the $74.3 billion recorded in the first quarter of 2019, and down $11.7 (\u00b10.1) billion from fourth quarter 2019 sales of $77.0 billion.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0f22b1c32c5d8ab629116ba08a8e15e0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        1169.0
+                    ],
+                    [
+                        100.0,
+                        1202.3
+                    ],
+                    [
+                        528.2,
+                        1202.3
+                    ],
+                    [
+                        528.2,
+                        1169.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 3
+        },
+        "text": "Wholesale Trade Corporations",
+        "type": "Title"
+    },
+    {
+        "element_id": "84d438545620762fb56fb0ed055ca92f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        1225.4
+                    ],
+                    [
+                        100.0,
+                        1404.7
+                    ],
+                    [
+                        1549.2,
+                        1404.7
+                    ],
+                    [
+                        1549.2,
+                        1225.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94998,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 3,
+            "parent_id": "0f22b1c32c5d8ab629116ba08a8e15e0"
+        },
+        "text": "First quarter 2020 unadjusted after-tax profits for wholesale trade corporations with assets of $50 million and over totaled $4.7 billion, down $4.9 (\u00b10.4) billion from the after-tax profits of $9.6 billion recorded in the first quarter of 2019, and down $8.0 (\u00b10.2) billion from the after-tax profits of $12.7 billion recorded in the fourth quarter of 2019.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b09da033dce46ca6734da602a0c77ba8",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        1429.8
+                    ],
+                    [
+                        100.0,
+                        1562.1
+                    ],
+                    [
+                        1547.2,
+                        1562.1
+                    ],
+                    [
+                        1547.2,
+                        1429.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92866,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 3,
+            "parent_id": "0f22b1c32c5d8ab629116ba08a8e15e0"
+        },
+        "text": "Unadjusted sales for the first quarter of 2020 totaled $677.9 billion, not statistically different from the $665.8 billion recorded in the first quarter of 2019, but down $44.0 (\u00b13.3) billion from fourth quarter 2019 sales of $721.8 billion.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0f053d5c8d4a2038dfae7a73f1ea8e52",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        1593.3
+                    ],
+                    [
+                        100.0,
+                        1626.6
+                    ],
+                    [
+                        461.9,
+                        1626.6
+                    ],
+                    [
+                        461.9,
+                        1593.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 3
+        },
+        "text": "Information Corporations",
+        "type": "Title"
+    },
+    {
+        "element_id": "73efe99d81df07e8b0625fc5096a463b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        1650.3
+                    ],
+                    [
+                        100.0,
+                        1735.7
+                    ],
+                    [
+                        1557.5,
+                        1735.7
+                    ],
+                    [
+                        1557.5,
+                        1650.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91849,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 3,
+            "parent_id": "0f053d5c8d4a2038dfae7a73f1ea8e52"
+        },
+        "text": "First quarter 2020 unadjusted after-tax profits for information corporations with assets of $50 million and over totaled $35.1 billion, down $3.8 (\u00b10.5) billion from the after-tax profits of $38.9 billion recorded in the",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d91174c32224ef2081629adb080d0be5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        115.0,
+                        1786.4
+                    ],
+                    [
+                        115.0,
+                        1902.1
+                    ],
+                    [
+                        692.6,
+                        1902.1
+                    ],
+                    [
+                        692.6,
+                        1786.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 3
+        },
+        "text": "Data Inquiries Economic Indicators Division, Quarterly Financial Branch 301-763-6600 csd.qfr@census.gov",
+        "type": "Title"
+    },
+    {
+        "element_id": "11f38d4954f7d2e7b0d25c2ef0e011dc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1330.1,
+                        1786.4
+                    ],
+                    [
+                        1330.1,
+                        1903.9
+                    ],
+                    [
+                        1591.9,
+                        1903.9
+                    ],
+                    [
+                        1591.9,
+                        1786.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.59744,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 3,
+            "parent_id": "d91174c32224ef2081629adb080d0be5"
+        },
+        "text": "Media Inquiries Public Information Office 301-763-3030 pio@census.gov",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0b1f9ae1a66d465fa1133479b16e29a2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        115.0,
+                        1931.5
+                    ],
+                    [
+                        115.0,
+                        2065.4
+                    ],
+                    [
+                        746.0,
+                        2065.4
+                    ],
+                    [
+                        746.0,
+                        1931.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 3
+        },
+        "text": "Cens States\u201d U.S. Department of Commerce U.S. CENSUS BUREAU Bureau census.gov",
+        "type": "Image"
+    },
+    {
+        "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+        "metadata": {
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf"
+        },
+        "text": "",
+        "type": "PageBreak"
+    },
+    {
+        "element_id": "6c80449c1731ad85ae202e984a17f5df",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        207.7
+                    ],
+                    [
+                        100.0,
+                        288.7
+                    ],
+                    [
+                        1537.2,
+                        288.7
+                    ],
+                    [
+                        1537.2,
+                        207.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91043,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 4
+        },
+        "text": "first quarter of 2019, and down $28.3 (\u00b11.1) billion from the fourth quarter 2019 after-tax profits of $63.4 billion.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e416958753198e3b2b126bfbeed18df5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        318.3
+                    ],
+                    [
+                        100.0,
+                        446.1
+                    ],
+                    [
+                        1536.5,
+                        446.1
+                    ],
+                    [
+                        1536.5,
+                        318.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93053,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 4
+        },
+        "text": "Unadjusted sales for the first quarter of 2020 totaled $334.6 billion, up $9.5 (\u00b12.8) billion from the $325.2 billion recorded in the first quarter 2019, but down $22.0 (\u00b13.2) billion from fourth quarter 2019 sales of $356.6 billion.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d1b2b9b6ee8644e33d55663e53ca4f76",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        507.3
+                    ],
+                    [
+                        100.0,
+                        726.7
+                    ],
+                    [
+                        1536.5,
+                        726.7
+                    ],
+                    [
+                        1536.5,
+                        507.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93333,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 4
+        },
+        "text": "Professional and Technical Services Corporations (except Legal Services) First quarter 2020 unadjusted after-tax losses for professional and technical services corporations (except legal services) with assets of $50 million and over totaled $-8.2 billion, down $9.0 (\u00b10.4) billion from the after-tax profits of $0.8 billion recorded in the first quarter of 2019, and down $14.1 (\u00b10.2) billion from fourth quarter 2019 after-tax profits of $5.9 billion.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a7015543e852b3dfd6b47f9bbbfc6e13",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        752.8
+                    ],
+                    [
+                        100.0,
+                        883.7
+                    ],
+                    [
+                        1553.4,
+                        883.7
+                    ],
+                    [
+                        1553.4,
+                        752.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92858,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 4
+        },
+        "text": "Unadjusted sales for the first quarter of 2020 totaled $157.0 billion, up $13.3 (\u00b14.8) billion from the $143.7 billion recorded in the first quarter 2019, but down $10.4 (\u00b12.0) billion from fourth quarter 2019 sales of $167.4 billion.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "903ea0eaa19a086d7667f63b22d76a48",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        908.4
+                    ],
+                    [
+                        100.0,
+                        1087.4
+                    ],
+                    [
+                        1518.4,
+                        1087.4
+                    ],
+                    [
+                        1518.4,
+                        908.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94385,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 4
+        },
+        "text": "The Second Quarter 2020 Quarterly Financial Report for Manufacturing, Mining, Trade, and Selected Service Industries is scheduled for release on Setpember 8, 2020. View the full schedule in the Economic Briefing Room: <www.census.gov/economic-indicators/>. The full text and tables of this release can be found at <www.census.gov/econ/qfr/>.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f98175ebf8f6ad6011ed1e653da51285",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        99.6,
+                        1119.0
+                    ],
+                    [
+                        99.6,
+                        1619.1
+                    ],
+                    [
+                        1538.5,
+                        1619.1
+                    ],
+                    [
+                        1538.5,
+                        1119.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94722,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 4
+        },
+        "text": "EXPLANATORY NOTES Access to QFR Data This press release can be viewed today in portable document format (.pdf) at our QFR internet website <www.census.gov/econ/qfr/>. Data in the release are drawn from a more comprehensive data set published in the Quarterly Financial Report for Manufacturing, Mining, Trade, and Selected Service Industries \u2013 First Quarter 2020 (QFR/20-Q1). This quarterly publication is available for downloading at our QFR internet website. The quarterly publication includes summary statements of income and retained earnings, balance sheets, and related financial and operating ratios for manufacturing, mining, trade, and selected service industries. Data presented are classified by industry and asset size. Time series/trend chart data are available at our QFR internet website <www.census.gov/econ/qfr/>, select the Time Series/Trend Charts link under Latest QFR Press Releases.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d91174c32224ef2081629adb080d0be5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        115.0,
+                        1786.4
+                    ],
+                    [
+                        115.0,
+                        1902.1
+                    ],
+                    [
+                        692.6,
+                        1902.1
+                    ],
+                    [
+                        692.6,
+                        1786.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 4
+        },
+        "text": "Data Inquiries Economic Indicators Division, Quarterly Financial Branch 301-763-6600 csd.qfr@census.gov",
+        "type": "Title"
+    },
+    {
+        "element_id": "11f38d4954f7d2e7b0d25c2ef0e011dc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1326.4,
+                        1784.9
+                    ],
+                    [
+                        1326.4,
+                        1903.9
+                    ],
+                    [
+                        1591.9,
+                        1903.9
+                    ],
+                    [
+                        1591.9,
+                        1784.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.68014,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 4,
+            "parent_id": "d91174c32224ef2081629adb080d0be5"
+        },
+        "text": "Media Inquiries Public Information Office 301-763-3030 pio@census.gov",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0b1f9ae1a66d465fa1133479b16e29a2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        115.0,
+                        1931.5
+                    ],
+                    [
+                        115.0,
+                        2065.4
+                    ],
+                    [
+                        746.0,
+                        2065.4
+                    ],
+                    [
+                        746.0,
+                        1931.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 4
+        },
+        "text": "Cens States\u201d U.S. Department of Commerce U.S. CENSUS BUREAU Bureau census.gov",
+        "type": "Image"
+    },
+    {
+        "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+        "metadata": {
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf"
+        },
+        "text": "",
+        "type": "PageBreak"
+    },
+    {
+        "element_id": "1e5272e64277636579e988b72327d6a4",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        98.5,
+                        210.0
+                    ],
+                    [
+                        98.5,
+                        476.1
+                    ],
+                    [
+                        1556.2,
+                        476.1
+                    ],
+                    [
+                        1556.2,
+                        210.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9477,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 5
+        },
+        "text": "Reliability of the Estimates Estimates of change presented in this press release are calculated using unrounded data. The calculated difference is then rounded to the nearest unit of measure. Due to this rounding, differences may not add to the totals. The same applies to the calculated confidence intervals. A difference of $0.0 billion indicates the difference is less than $0.05 billion. A confidence interval of \u00b10.0 billion indicates a confidence interval with width of less then \u00b10.05 billion on each side of the estimated value.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8817a68ed09c925fad1eb63ef1c4758b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        505.6
+                    ],
+                    [
+                        100.0,
+                        633.1
+                    ],
+                    [
+                        1530.9,
+                        633.1
+                    ],
+                    [
+                        1530.9,
+                        505.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92443,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 5
+        },
+        "text": "Data in this press release are based on quarterly financial reports from approximately 8,000 U.S. corporations. The data are estimated from a sample survey and are subject to sampling and nonsampling errors.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "bca26891dd000885abe124e0256ec7d2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        663.1
+                    ],
+                    [
+                        100.0,
+                        977.4
+                    ],
+                    [
+                        1545.5,
+                        977.4
+                    ],
+                    [
+                        1545.5,
+                        663.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93737,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 5
+        },
+        "text": "Sampling error occurs because only a subset of the entire population is measured. Estimates of sampling error can be computed based on the sample and used to construct confidence intervals around the estimates. Statements of change appearing in this report include 90 percent confidence intervals. Thus, a statement in the report such as \u201cup $2.5 (\u00b1 0.2) billion\u201d estimates the interval (+$2.3 billion to +$2.7 billion) within which the actual value is likely to fall in 90 percent of samples of the same size and design, drawn from the same population. If the range of estimated change contains zero (0), then it is uncertain whether there is an increase or decrease; that is, the change is not statistically different from zero (0).",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c508bfea916ee8aa9146bbcfd7777f5a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        1007.4
+                    ],
+                    [
+                        100.0,
+                        1368.4
+                    ],
+                    [
+                        1552.5,
+                        1368.4
+                    ],
+                    [
+                        1552.5,
+                        1007.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94148,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 5
+        },
+        "text": "Nonsampling error encompasses all other factors that contribute to the total error of a survey, including response errors, nonresponse, and coverage errors. Although no direct measures of nonsampling error are available, precautionary steps were taken in all phases of the collection, processing, and tabulation of the data in an effort to minimize their influence. The quarterly publication, Quarterly Financial Report for Manufacturing, Mining, Trade, and Selected Service Industries \u2013 First Quarter 2020 (QFR/20-Q1), includes more detailed explanations of nonsampling and sampling error, and additional measures of sampling variability. Explanations of confidence intervals and sampling variability can be found on our website at <www.census.gov/econ/qfr/documents/QFR_Methodology.pdf>.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "25affabfc8ac9d6960b7b546bdfb8390",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        1399.6
+                    ],
+                    [
+                        100.0,
+                        1712.4
+                    ],
+                    [
+                        1544.2,
+                        1712.4
+                    ],
+                    [
+                        1544.2,
+                        1399.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94551,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 5
+        },
+        "text": "Data Quality Indicators The QFR produces two indicators of data quality: the Unit Response Rate and the Total Quantity Response Rate. The URR is defined as the percentage of sampled units (unweighted) that responded to the current quarter\u2019s survey. In determining the URR, a unit is classified as a respondent if it provided adequate information for key QFR data items. The TQRR is defined as the proportion of the weighted estimated total of a key QFR data item that is either reported by a survey unit or acquired from some other information source (such as a publically available quarterly or annual report) and that is determined to be",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d91174c32224ef2081629adb080d0be5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        115.0,
+                        1786.4
+                    ],
+                    [
+                        115.0,
+                        1902.1
+                    ],
+                    [
+                        692.6,
+                        1902.1
+                    ],
+                    [
+                        692.6,
+                        1786.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 5
+        },
+        "text": "Data Inquiries Economic Indicators Division, Quarterly Financial Branch 301-763-6600 csd.qfr@census.gov",
+        "type": "Title"
+    },
+    {
+        "element_id": "11f38d4954f7d2e7b0d25c2ef0e011dc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1327.2,
+                        1786.4
+                    ],
+                    [
+                        1327.2,
+                        1903.9
+                    ],
+                    [
+                        1591.9,
+                        1903.9
+                    ],
+                    [
+                        1591.9,
+                        1786.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.62281,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 5,
+            "parent_id": "d91174c32224ef2081629adb080d0be5"
+        },
+        "text": "Media Inquiries Public Information Office 301-763-3030 pio@census.gov",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0b1f9ae1a66d465fa1133479b16e29a2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        115.0,
+                        1931.5
+                    ],
+                    [
+                        115.0,
+                        2065.4
+                    ],
+                    [
+                        746.0,
+                        2065.4
+                    ],
+                    [
+                        746.0,
+                        1931.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 5
+        },
+        "text": "Cens States\u201d U.S. Department of Commerce U.S. CENSUS BUREAU Bureau census.gov",
+        "type": "Image"
+    },
+    {
+        "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+        "metadata": {
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf"
+        },
+        "text": "",
+        "type": "PageBreak"
+    },
+    {
+        "element_id": "bb64ee974489a1511ade1581bf06e3f9",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        205.5
+                    ],
+                    [
+                        100.0,
+                        335.7
+                    ],
+                    [
+                        1518.2,
+                        335.7
+                    ],
+                    [
+                        1518.2,
+                        205.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91236,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 6
+        },
+        "text": "equivalent in quality to reported data. The absolute value is applied to the real-valued data item Income before Income taxes, (|NIBT|), prior to calculating the weighted estimated total. The TQRR is calculated for the QFR data items Net sales, Depreciation, |NIBT|, and Total assets.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b39d012e95e74a3c184ffa179f7f94c1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        269.5,
+                        394.5
+                    ],
+                    [
+                        269.5,
+                        514.1
+                    ],
+                    [
+                        1436.5,
+                        514.1
+                    ],
+                    [
+                        1436.5,
+                        394.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.42484,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 6
+        },
+        "text": "Total Quantity Response Rates and Unit Response Rates 1,2 For Corporations in NAICS Manufacturing, Mining, Wholesale Trade, Information, and Professional and Technical Services (except Legal Services), By Sector",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1ede4069ec2b514f559be6449c4e2865",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        93.5,
+                        515.2
+                    ],
+                    [
+                        93.5,
+                        884.8
+                    ],
+                    [
+                        1568.6,
+                        884.8
+                    ],
+                    [
+                        1568.6,
+                        515.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.89492,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 6,
+            "text_as_html": "<table><thead><th rowspan=\"2\">Industry</th><th colspan=\"4\">Total Quantity Response Rate Net ae Total Sales Depreciation | |NIBT| assets</th><th rowspan=\"2\">Unit | Respons Rate (percent</th></thead><thead><th></th><th></th><th>(percent)</th><th></th><th></th><th></th></thead><tr><td>All mining</td><td>80.0</td><td>84.6</td><td>87.1]</td><td>82.5</td><td>56.</td></tr><tr><td>All wholesale trade .</td><td>71.6</td><td>60.1</td><td>71.8</td><td>| 67.7</td><td>47.</td></tr><tr><td>All information</td><td>89.7</td><td>92.2</td><td>86.2 |</td><td>92.4</td><td>51.</td></tr><tr><td>All professional and technical services (except legal services)....</td><td>66.2</td><td>69.1</td><td>71.1)</td><td>71.2</td><td>49.</td></tr></table>"
+        },
+        "text": "Industry Total Quantity Response Rate Net Sales Depreciation |NIBT| Total assets (percent) All manufacturing \u2026\u2026\u2026..\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.......................... All mining \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026................................... All wholesale trade \u2026\u2026\u2026\u2026\u2026............................................................. All information \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 All professional and technical services (except legal services)\u2026\u2026\u2026. 77.4 80.0 71.6 89.7 66.2 78.7 84.6 60.1 92.2 69.1 86.1 87.1 71.8 86.2 71.1 83.2 82.5 67.7 92.4 71.2",
+        "type": "Table"
+    },
+    {
+        "element_id": "26d04d62e0dfab9285cbaf8a42945066",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1470.0,
+                        526.5
+                    ],
+                    [
+                        1470.0,
+                        627.2
+                    ],
+                    [
+                        1590.3,
+                        627.2
+                    ],
+                    [
+                        1590.3,
+                        526.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 6
+        },
+        "text": "Unit Response Rate",
+        "type": "Title"
+    },
+    {
+        "element_id": "2ccbe1125b9e6c6b7d46ec36edad4fae",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1472.0,
+                        642.8
+                    ],
+                    [
+                        1472.0,
+                        672.2
+                    ],
+                    [
+                        1588.3,
+                        672.2
+                    ],
+                    [
+                        1588.3,
+                        642.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 6
+        },
+        "text": "(percent)",
+        "type": "Title"
+    },
+    {
+        "element_id": "bf9265a08460a6cda529deb4c54a3c42",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1529.3,
+                        697.2
+                    ],
+                    [
+                        1529.3,
+                        876.9
+                    ],
+                    [
+                        1590.6,
+                        876.9
+                    ],
+                    [
+                        1590.6,
+                        697.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 6,
+            "parent_id": "2ccbe1125b9e6c6b7d46ec36edad4fae"
+        },
+        "text": "47.8 56.7 47.8 51.5 49.3",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "baf6d7e13a54537aaedd54a5f2441467",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        911.9
+                    ],
+                    [
+                        100.0,
+                        1100.7
+                    ],
+                    [
+                        1518.4,
+                        1100.7
+                    ],
+                    [
+                        1518.4,
+                        911.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 6,
+            "parent_id": "2ccbe1125b9e6c6b7d46ec36edad4fae"
+        },
+        "text": "Footnotes: \u00b9For more information, see the Introduction, Survey Methodology section, in the Quarterly Financial Report for Manufacturing, Mining, Trade, and Selected Service Industries, or at the QFR internet website <www.census.gov/econ/qfr/collection.html>. \u00b2Imputation Rate = 100% - TQRR. Source: U.S. Census Bureau, Quarterly Financial Report, June 8, 2020. Explanations of confidence intervals and sampling variability can be found on our website at <www.census.gov/econ/qfr/documents/QFR_Methodology.pdf>.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "5276a43b70997b4105cab96a4c80fd7a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        354.7,
+                        1147.4
+                    ],
+                    [
+                        354.7,
+                        1221.4
+                    ],
+                    [
+                        1352.9,
+                        1221.4
+                    ],
+                    [
+                        1352.9,
+                        1147.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 6,
+            "parent_id": "2ccbe1125b9e6c6b7d46ec36edad4fae"
+        },
+        "text": "Manufacturing, Mining, Wholesale Trade, and Selected Service Industries Schedule of Release Dates for Calendar Year 2020",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "b40e6ede06aaee09fcf70abd18452d49",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        76.1,
+                        1221.0
+                    ],
+                    [
+                        76.1,
+                        1378.0
+                    ],
+                    [
+                        1537.6,
+                        1378.0
+                    ],
+                    [
+                        1537.6,
+                        1221.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.85366,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 6,
+            "parent_id": "2ccbe1125b9e6c6b7d46ec36edad4fae",
+            "text_as_html": "<table><thead><th>First Quarter 2020</th><th>June 8, 2020</th></thead><tr><td>Second Quarter 2020</td><td>September 8, 2020</td></tr><tr><td>Third Quarter 2020</td><td>December 8, 2020</td></tr></table>"
+        },
+        "text": "Fourth Quarter 2019 First Quarter 2020 Second Quarter 2020 Third Quarter 2020 March 23, 2020 June 8, 2020 September 8, 2020 December 8, 2020",
+        "type": "Table"
+    },
+    {
+        "element_id": "77c7846a04be2c92d94cba13c1c34cfd",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        1449.6
+                    ],
+                    [
+                        100.0,
+                        1483.0
+                    ],
+                    [
+                        271.2,
+                        1483.0
+                    ],
+                    [
+                        271.2,
+                        1449.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 6
+        },
+        "text": "RESOURCES",
+        "type": "Title"
+    },
+    {
+        "element_id": "bc662cd4f39f1ac184578ca683fef011",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        1513.0
+                    ],
+                    [
+                        100.0,
+                        1732.1
+                    ],
+                    [
+                        1536.5,
+                        1732.1
+                    ],
+                    [
+                        1536.5,
+                        1513.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 6,
+            "parent_id": "77c7846a04be2c92d94cba13c1c34cfd"
+        },
+        "text": "API The Census Bureau\u2019s application programming interface lets developers create custom apps to reach new users and makes key demographic, socio-economic and housing statistics more accessible than ever before. <www.census.gov/developers/>",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d91174c32224ef2081629adb080d0be5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        115.0,
+                        1786.4
+                    ],
+                    [
+                        115.0,
+                        1902.1
+                    ],
+                    [
+                        692.6,
+                        1902.1
+                    ],
+                    [
+                        692.6,
+                        1786.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 6
+        },
+        "text": "Data Inquiries Economic Indicators Division, Quarterly Financial Branch 301-763-6600 csd.qfr@census.gov",
+        "type": "Title"
+    },
+    {
+        "element_id": "11f38d4954f7d2e7b0d25c2ef0e011dc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1326.5,
+                        1785.9
+                    ],
+                    [
+                        1326.5,
+                        1903.9
+                    ],
+                    [
+                        1591.9,
+                        1903.9
+                    ],
+                    [
+                        1591.9,
+                        1785.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.66248,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 6,
+            "parent_id": "d91174c32224ef2081629adb080d0be5"
+        },
+        "text": "Media Inquiries Public Information Office 301-763-3030 pio@census.gov",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "84880d05fbd71e8e84fca119d17a233a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        115.0,
+                        1931.5
+                    ],
+                    [
+                        115.0,
+                        2065.4
+                    ],
+                    [
+                        746.0,
+                        2065.4
+                    ],
+                    [
+                        746.0,
+                        1931.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 6
+        },
+        "text": "ensus U.S. CENSUS BUREAU census.gov ee Bureau a Cens States\u201d | U.S. Department of Commerce",
+        "type": "Image"
+    },
+    {
+        "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+        "metadata": {
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf"
+        },
+        "text": "",
+        "type": "PageBreak"
+    },
+    {
+        "element_id": "f121191d3778d8efe722f48e7bf501d6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        98.3,
+                        253.4
+                    ],
+                    [
+                        98.3,
+                        290.0
+                    ],
+                    [
+                        347.9,
+                        290.0
+                    ],
+                    [
+                        347.9,
+                        253.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.47529,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 7
+        },
+        "text": "FRED Mobile App",
+        "type": "Title"
+    },
+    {
+        "element_id": "07161e5b382ca94560772482d4993237",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        353.2,
+                        302.1
+                    ],
+                    [
+                        353.2,
+                        470.6
+                    ],
+                    [
+                        1551.9,
+                        470.6
+                    ],
+                    [
+                        1551.9,
+                        302.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.76133,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 7,
+            "parent_id": "f121191d3778d8efe722f48e7bf501d6"
+        },
+        "text": "Receive the latest updates on the nation\u2019s key economic indicators by downloading the FRED App <https://fred.stlouisfed.org/fred-mobile/> for both Apple and Android devices. FRED, the signature database of the Federal Reserve Bank of St.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4f793afc9d583f7387c0fb25ba7e1aef",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        97.9,
+                        329.3
+                    ],
+                    [
+                        97.9,
+                        427.2
+                    ],
+                    [
+                        388.9,
+                        427.2
+                    ],
+                    [
+                        388.9,
+                        329.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 7
+        },
+        "text": "FRED ey) cow wiclbatas [2S vouls reo",
+        "type": "Image"
+    },
+    {
+        "element_id": "faabeaf5966b08adecccbd785cfc325a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        92.6,
+                        410.1
+                    ],
+                    [
+                        92.6,
+                        470.9
+                    ],
+                    [
+                        393.7,
+                        470.9
+                    ],
+                    [
+                        393.7,
+                        410.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.47989,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 7
+        },
+        "text": "cow wiclbatas [2S reo Louis, now incorporates",
+        "type": "FigureCaption"
+    },
+    {
+        "element_id": "c99e9a996828aad7cfc35ef682302827",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        100.0,
+                        442.7
+                    ],
+                    [
+                        100.0,
+                        476.1
+                    ],
+                    [
+                        1044.2,
+                        476.1
+                    ],
+                    [
+                        1044.2,
+                        442.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 7
+        },
+        "text": "Louis, now incorporates the Census Bureau\u2019s 13 economic indicators.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "56dc6d47737d155afddefda1af20c40c",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        800.0,
+                        536.4
+                    ],
+                    [
+                        800.0,
+                        569.7
+                    ],
+                    [
+                        857.2,
+                        569.7
+                    ],
+                    [
+                        857.2,
+                        536.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 7
+        },
+        "text": "###",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "d91174c32224ef2081629adb080d0be5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        115.0,
+                        1786.4
+                    ],
+                    [
+                        115.0,
+                        1902.1
+                    ],
+                    [
+                        692.6,
+                        1902.1
+                    ],
+                    [
+                        692.6,
+                        1786.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 7
+        },
+        "text": "Data Inquiries Economic Indicators Division, Quarterly Financial Branch 301-763-6600 csd.qfr@census.gov",
+        "type": "Title"
+    },
+    {
+        "element_id": "11f38d4954f7d2e7b0d25c2ef0e011dc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1326.1,
+                        1784.9
+                    ],
+                    [
+                        1326.1,
+                        1903.9
+                    ],
+                    [
+                        1591.9,
+                        1903.9
+                    ],
+                    [
+                        1591.9,
+                        1784.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.70059,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 7,
+            "parent_id": "d91174c32224ef2081629adb080d0be5"
+        },
+        "text": "Media Inquiries Public Information Office 301-763-3030 pio@census.gov",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "019dc6ca03bcf6a8cd733385d4e549d6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        115.0,
+                        1931.5
+                    ],
+                    [
+                        115.0,
+                        2065.4
+                    ],
+                    [
+                        746.0,
+                        2065.4
+                    ],
+                    [
+                        746.0,
+                        1931.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 7
+        },
+        "text": "U.S. Department of Commerce U.S. CENSUS BUREAU census.gov C United States~ ee Bureau",
+        "type": "Image"
+    },
+    {
+        "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+        "metadata": {
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf"
+        },
+        "text": "",
+        "type": "PageBreak"
+    },
+    {
+        "element_id": "00298c4ed7c520275c9d9096d2839904",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        73.2,
+                        68.1
+                    ],
+                    [
+                        73.2,
+                        134.3
+                    ],
+                    [
+                        583.1,
+                        134.3
+                    ],
+                    [
+                        583.1,
+                        68.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.5871,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 8
+        },
+        "text": "Table 1. U.S. Manufacturing Corporations \u2013 Selected Financial Data",
+        "type": "Title"
+    },
+    {
+        "element_id": "7b88f670250d42c4e7aa5e3542444356",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        74.6,
+                        140.1
+                    ],
+                    [
+                        74.6,
+                        444.6
+                    ],
+                    [
+                        1351.5,
+                        444.6
+                    ],
+                    [
+                        1351.5,
+                        140.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93727,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 8,
+            "parent_id": "00298c4ed7c520275c9d9096d2839904",
+            "text_as_html": "<table><thead><th></th><th colspan=\"3\">Seasonally adjusted*</th><th colspan=\"3\">Not Seasonally adjusted\u201d</th></thead><thead><th></th><th>1Q)</th><th>4Q</th><th>1Q)</th><th>1Q)</th><th>4Q</th><th rowspan=\"2\">1Q 2019 (r)</th></thead><thead><th></th><th>2020</th><th>2019 (r)</th><th>2019 (r)</th><th>2020</th><th>2019 (r)</th><th></th></thead><tr><td colspan=\"7\">Rate of return (after taxes):</td></tr><tr><td>Cents per dollar of sales ..</td><td>6.82</td><td>8.88</td><td>9.09</td><td>6.68</td><td>8.19</td><td>9.04</td></tr><tr><td>Percent on equity (annual rate) ....</td><td></td><td></td><td></td><td>8.92</td><td>11.79</td><td>12.83</td></tr><tr><td colspan=\"7\">(million dollars)</td></tr><tr><td>Sales...</td><td>1,637,427</td><td>1,695,914</td><td>1,704,182</td><td>1,576,794</td><td>1,711,707</td><td>1,641,870</td></tr><tr><td>Income after income taxes</td><td>111,702</td><td>150,535,</td><td>154,937</td><td>105,362</td><td>140,197</td><td>148,381</td></tr><tr><td>Dividends paid (cash) ...</td><td></td><td></td><td></td><td>81,133</td><td>91,255</td><td>68,567</td></tr></table>"
+        },
+        "text": "Seasonally adjusted1 1Q 2020 4Q 2019 (r) 1Q 2019 (r) Not Seasonally adjusted2 1Q 2020 4Q 2019 (r) 1Q 2019 (r) Rate of return (after taxes): . Cents per dollar of sales \u2026\u2026\u2026...\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\u2026\u2026.. . Percent on equity (annual rate) \u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026 6.82 N/A 8.88 N/A 9.09 N/A 6.68 8.92 8.19 11.79 9.04 12.83 (million dollars) Sales \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026 . Income after income taxes \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026 . Dividends paid (cash) ..\u2026\u2026\u2026..\u2026\u2026\u2026\u2026\u2026\u2026\u2026...\u2026.\u2026\u2026 1,637,427 111,702 N/A 1,695,914 150,535 N/A 1,704,182 154,937 N/A 1,576,794 105,362 81,133 1,711,707 140,197 91,255 1,641,870 148,381 68,567",
+        "type": "Table"
+    },
+    {
+        "element_id": "7912873905e0075fc5b2be2a58a0390d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        68.8,
+                        456.8
+                    ],
+                    [
+                        68.8,
+                        475.5
+                    ],
+                    [
+                        164.8,
+                        475.5
+                    ],
+                    [
+                        164.8,
+                        456.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.34355,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 8,
+            "parent_id": "00298c4ed7c520275c9d9096d2839904"
+        },
+        "text": "Footnotes:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ffa5c630a5398a7d610d19e272ecf511",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        94.9,
+                        482.8
+                    ],
+                    [
+                        94.9,
+                        655.1
+                    ],
+                    [
+                        1326.1,
+                        655.1
+                    ],
+                    [
+                        1326.1,
+                        482.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 8,
+            "parent_id": "00298c4ed7c520275c9d9096d2839904"
+        },
+        "text": "(r) Revised. 1Data adjusted for seasonality but not price changes. For information on adjustment for seasonal variation, see the Introduction, Survey Methodology section, in the Quarterly Financial Report for Manufacturing, Mining, Trade, and Selected Service Industries, or at the QFR internet website <www.census.gov/econ/qfr/collection.html>. 2Data are not adjusted for seasonality or price changes. Explanations of confidence intervals and sampling variability can be found on our website at <www.census.gov/econ/qfr/documents/QFR_Methodology.pdf>. Source: U.S. Census Bureau, Quarterly Financial Report, June 8, 2020.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c14635b499885a6eda0d5fb26d26e5a7",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        73.2,
+                        689.3
+                    ],
+                    [
+                        73.2,
+                        755.6
+                    ],
+                    [
+                        779.9,
+                        755.6
+                    ],
+                    [
+                        779.9,
+                        689.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 8,
+            "parent_id": "00298c4ed7c520275c9d9096d2839904"
+        },
+        "text": "Table 2. U.S. Manufacturing Corporations \u2013 Seasonally Adjusted Sales and Net Income After-tax1",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "7b30d66e9422fc74ff869a28bb4e43d6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        101.7,
+                        751.6
+                    ],
+                    [
+                        101.7,
+                        1882.0
+                    ],
+                    [
+                        1634.3,
+                        1882.0
+                    ],
+                    [
+                        1634.3,
+                        751.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90848,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 8,
+            "parent_id": "00298c4ed7c520275c9d9096d2839904",
+            "text_as_html": "<table><thead><th rowspan=\"3\">Industry group and year</th><th colspan=\"4\">Sales (r)</th><th colspan=\"4\">Net Income After-tax (r)</th></thead><thead><th></th><th>Qi</th><th colspan=\"2\">Q2 Q3</th><th>Q4</th><th>Qi</th><th colspan=\"2\">Q2 Q3</th><th rowspan=\"2\">Q4</th></thead><thead><th></th><th></th><th>(million</th><th>dollars)</th><th></th><th></th><th colspan=\"2\">(million dollars)</th><th></th></thead><tr><td colspan=\"9\">Il manufacturing:</td></tr><tr><td>2009 ..</td><td>1,232,707</td><td>1,224,234</td><td>1,297,757</td><td>1,355,095</td><td>35,388</td><td>52,629</td><td>92,966</td><td>105,612</td></tr><tr><td>2010.</td><td>1,389,535</td><td>1,428,033</td><td>1,454,130</td><td>1,482,456</td><td>110,465</td><td>108,306</td><td>123,373</td><td>135,519</td></tr><tr><td>2011.</td><td>1,578,822</td><td>1,620,313</td><td>1,638,562</td><td>1,645,110</td><td>146,931</td><td>153,965</td><td>146,867</td><td>146,341</td></tr><tr><td>2012.</td><td>1,698,866</td><td>1,654,236</td><td>1,643,171</td><td>1,671,449</td><td>148,571</td><td>147,656</td><td>133,638</td><td>133,938</td></tr><tr><td>2013.</td><td>1,678,130</td><td>1,670,138</td><td>1,688,476</td><td>1,704,446</td><td>154,297</td><td>144,679</td><td>144,827</td><td>156,993</td></tr><tr><td>2014.</td><td>1,703,424</td><td>1,736,215</td><td>1,750,661</td><td>1,708,282</td><td>142,400</td><td>154,956</td><td>159,529</td><td>150,983</td></tr><tr><td>2015</td><td>1,606,198</td><td>1,639,286</td><td>1,613,427</td><td>1,571,309</td><td>126,315</td><td>125,024</td><td>135,466</td><td>118,602</td></tr><tr><td>.. 2016.</td><td>1,536,072</td><td>1,563,297</td><td>1,563,492</td><td>1,584,178</td><td>124,205</td><td>131,724</td><td>148,398</td><td>136,414</td></tr><tr><td>2017.</td><td>1,625,546</td><td>1,617,507</td><td>1,625,794</td><td>1,682,623</td><td>150,909</td><td>141,250</td><td>146,544</td><td>110,463</td></tr><tr><td>2018.</td><td>1,718,980</td><td>1,741,437</td><td>1,761,584</td><td>1,746,547</td><td>157,218</td><td>180,715</td><td>152,599</td><td>145,457</td></tr><tr><td>2019.</td><td>1,704,182</td><td>1,721,175</td><td>1,720,622</td><td>1,695,914</td><td>154,937</td><td>136,679</td><td>145,593</td><td>150,535</td></tr><tr><td>2020......</td><td>1,637,427</td><td></td><td></td><td></td><td>111,702</td><td></td><td></td><td></td></tr><tr><td colspan=\"9\" rowspan=\"2\">\\I| nondurable manufacturing:</td></tr><tr><td colspan=\"9\"></td></tr><tr><td>2009 .....</td><td>629,938</td><td>644,945</td><td>686,894</td><td>721,001</td><td>44,183</td><td>52,979</td><td>62,226</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>72,592</td></tr><tr><td>2010.</td><td>744,385</td><td>753,491</td><td>760,922</td><td>789,429</td><td>62,661</td><td>46,949</td><td>64,256</td><td>71,787</td></tr><tr><td>2011.</td><td>861,231</td><td>901,972</td><td>898,752</td><td>894,883</td><td>77,923</td><td>83,443</td><td>77,399</td><td>71,761</td></tr><tr><td>2012.</td><td>918,271</td><td>877,314</td><td>875,000</td><td>896,684</td><td>75,977</td><td>78,061</td><td>73,009</td><td>77,146</td></tr><tr><td>2013.</td><td>900,091</td><td>877,905</td><td>893,116</td><td>894,280</td><td>81,513</td><td>75,904</td><td>71,126</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>79,226</td></tr><tr><td>2014.</td><td>892,094</td><td>910,400</td><td>902,228</td><td>854,429</td><td>71,334</td><td>77,714</td><td>77,947</td><td>73,509</td></tr><tr><td>2015 ..</td><td>764,647</td><td>795,030</td><td>768,012</td><td>736,017</td><td>65,940</td><td>55,524</td><td>68,832</td><td>51,185</td></tr><tr><td>2016.</td><td>703,809</td><td>731,335</td><td>736,340</td><td>755,903</td><td>59,497</td><td>63,444</td><td>74,378</td><td>71,054</td></tr><tr><td>2017.</td><td>779,315</td><td>773,705</td><td>779,666</td><td>816,174</td><td>70,336</td><td>65,424</td><td>66,600</td><td>73,934</td></tr><tr><td>2018.</td><td>825,910</td><td>837,581</td><td>853,413</td><td>841,514</td><td>74,829</td><td>75,795</td><td>70,768</td><td>58,475</td></tr><tr><td>2019.</td><td>809,826</td><td>834,238</td><td>819,480</td><td>816,114</td><td>67,404</td><td>63,524</td><td>62,293</td><td>63,291</td></tr><tr><td>2020 ..</td><td>783,215</td><td></td><td></td><td></td><td>39,898</td><td></td><td></td><td></td></tr><tr><td colspan=\"9\">\\Il durable manufacturing:</td></tr><tr><td>2009 ..</td><td>602,769</td><td>579,289</td><td>610,863</td><td>634,094</td><td>(8,795)</td><td>(350)</td><td>30,740</td><td>33,020</td></tr><tr><td>2010.</td><td>645,150</td><td>674,542</td><td>693,208</td><td>693,027</td><td>47,804</td><td>61,357</td><td>59,117</td><td>63,732</td></tr><tr><td>2011.</td><td>717,591</td><td>718,341</td><td>739,810</td><td>750,227</td><td>69,008</td><td>70,522</td><td>69,468</td><td>74,580</td></tr><tr><td>2012.</td><td>780,595</td><td>776,922</td><td>768,171</td><td>774,765</td><td>72,594</td><td>69,595</td><td>60,629</td><td>56,792</td></tr><tr><td>2013.</td><td>778,039</td><td>792,233</td><td>795,360</td><td>810,166</td><td>72,784</td><td>68,775</td><td>73,701</td><td>77,767</td></tr><tr><td>2014.</td><td>811,330</td><td>825,815</td><td>848,433</td><td>853,853</td><td>71,066</td><td>77,242</td><td>81,582</td><td>77,474</td></tr><tr><td>2015 ..</td><td>841,551</td><td>844,256</td><td>845,415</td><td>835,292</td><td>60,375</td><td>69,500</td><td>66,634</td><td>67,417</td></tr><tr><td>2016.</td><td>832,263</td><td>831,962</td><td>827,152</td><td>828,275</td><td>64,708</td><td>68,280</td><td>74,020</td><td>65,360</td></tr><tr><td>2017.</td><td>846,231</td><td>843,802</td><td>846,128</td><td>866,449</td><td>80,573</td><td>75,826</td><td>79,944</td><td>36,529</td></tr><tr><td>2018.</td><td>893,070</td><td>903,856</td><td>908,171</td><td>905,033</td><td>82,389</td><td>104,920</td><td>81,831</td><td>86,982</td></tr><tr><td>2019.</td><td>894,356</td><td>886,937</td><td>901,142</td><td>879,800</td><td>87,533</td><td>73,155</td><td>83,300</td><td>87,244</td></tr></table>"
+        },
+        "text": "Industry group and year Q1 Sales (r) Q2 Q3 Q4 Q1 Net Income After-tax (r) Q2 Q3 Q4 (million dollars) (million dollars) 1,232,707 1,389,535 1,578,822 1,698,866 1,678,130 1,703,424 1,606,198 1,536,072 1,625,546 1,718,980 1,704,182 1,637,427 1,224,234 1,428,033 1,620,313 1,654,236 1,670,138 1,736,215 1,639,286 1,563,297 1,617,507 1,741,437 1,721,175 1,297,757 1,454,130 1,638,562 1,643,171 1,688,476 1,750,661 1,613,427 1,563,492 1,625,794 1,761,584 1,720,622 1,355,095 1,482,456 1,645,110 1,671,449 1,704,446 1,708,282 1,571,309 1,584,178 1,682,623 1,746,547 1,695,914 35,388 110,465 146,931 148,571 154,297 142,400 126,315 124,205 150,909 157,218 154,937 111,702 52,629 108,306 153,965 147,656 144,679 154,956 125,024 131,724 141,250 180,715 136,679 92,966 123,373 146,867 133,638 144,827 159,529 135,466 148,398 146,544 152,599 145,593 105,612 135,519 146,341 133,938 156,993 150,983 118,602 136,414 110,463 145,457 150,535 629,938 744,385 861,231 918,271 900,091 892,094 764,647 703,809 779,315 825,910 809,826 783,215 644,945 753,491 901,972 877,314 877,905 910,400 795,030 731,335 773,705 837,581 834,238 686,894 760,922 898,752 875,000 893,116 902,228 768,012 736,340 779,666 853,413 819,480 721,001 789,429 894,883 896,684 894,280 854,429 736,017 755,903 816,174 841,514 816,114 44,183 62,661 77,923 75,977 81,513 71,334 65,940 59,497 70,336 74,829 67,404 39,898 52,979 46,949 83,443 78,061 75,904 77,714 55,524 63,444 65,424 75,795 63,524 62,226 64,256 77,399 73,009 71,126 77,947 68,832 74,378 66,600 70,768 62,293 72,592 71,787 71,761 77,146 79,226 73,509 51,185 71,054 73,934 58,475 63,291 579,289 674,542 718,341 776,922 792,233 825,815 844,256 831,962 843,802 903,856 886,937 610,863 693,208 739,810 768,171 795,360 848,433 845,415 827,152 846,128 908,171 901,142 634,094 693,027 750,227 774,765 810,166 853,853 835,292 828,275 866,449 905,033 879,800 (350) 61,357 70,522 69,595 68,775 77,242 69,500 68,280 75,826 104,920 73,155 30,740 59,117 69,468 60,629 73,701 81,582 66,634 74,020 79,944 81,831 83,300 33,020 63,732 74,580 56,792 77,767 77,474 67,417 65,360 36,529 86,982 87,244",
+        "type": "Table"
+    },
+    {
+        "element_id": "7912873905e0075fc5b2be2a58a0390d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        69.8,
+                        1913.6
+                    ],
+                    [
+                        69.8,
+                        1934.5
+                    ],
+                    [
+                        161.5,
+                        1934.5
+                    ],
+                    [
+                        161.5,
+                        1913.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.44566,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 8
+        },
+        "text": "Footnotes:",
+        "type": "Title"
+    },
+    {
+        "element_id": "0ebb617d1990826f161b2b83348d033f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        84.8,
+                        1939.0
+                    ],
+                    [
+                        84.8,
+                        1956.9
+                    ],
+                    [
+                        174.4,
+                        1956.9
+                    ],
+                    [
+                        174.4,
+                        1939.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.37311,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 8
+        },
+        "text": "(r) Revised.",
+        "type": "Title"
+    },
+    {
+        "element_id": "115ac094abd2b14afeec24e1717cb7d2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        94.9,
+                        1941.8
+                    ],
+                    [
+                        94.9,
+                        2084.8
+                    ],
+                    [
+                        1580.8,
+                        2084.8
+                    ],
+                    [
+                        1580.8,
+                        1941.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 8,
+            "parent_id": "0ebb617d1990826f161b2b83348d033f"
+        },
+        "text": "(r) Revised. 1For information on adjustment for seasonal variation, see the Introduction, Survey Methodology section, in the Quarterly Financial Report for Manufacturing, Mining, Trade, and Selected Service Industries, or at the QFR internet website <www.census.gov/econ/qfr/collection.html>. Data adjusted for seasonality but not price changes. Explanations of confidence intervals and sampling variability can be found on our website at <www.census.gov/econ/qfr/documents/QFR_Methodology.pdf>. Source: U.S. Census Bureau, Quarterly Financial Report, June 8, 2020.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c5576b128fcd887ca0eba5e2f1599878",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        783.6,
+                        2104.6
+                    ],
+                    [
+                        783.6,
+                        2149.4
+                    ],
+                    [
+                        1650.0,
+                        2149.4
+                    ],
+                    [
+                        1650.0,
+                        2104.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.74888,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 8,
+            "parent_id": "0ebb617d1990826f161b2b83348d033f"
+        },
+        "text": "Quarterly Financial Report: U. S. Manufacturing, Mining, Wholesale Trade, and Selected Service Industries, 1st Quarter 2020 U. S. Census Bureau",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e3b0c44298fc1c149afbf4c8996fb924",
+        "metadata": {
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf"
+        },
+        "text": "",
+        "type": "PageBreak"
+    },
+    {
+        "element_id": "d95cbe089f1ec9e93d0dd1031d412ce4",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        61.6,
+                        64.3
+                    ],
+                    [
+                        61.6,
+                        124.3
+                    ],
+                    [
+                        1086.5,
+                        124.3
+                    ],
+                    [
+                        1086.5,
+                        64.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.62723,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 9
+        },
+        "text": "Table 3. U.S. Manufacturing, Mining, Wholesale Trade, and Selected Service Industries \u2013 Not Seasonally Adjusted Sales and Profits",
+        "type": "Title"
+    },
+    {
+        "element_id": "9c2372aab4f7cb78901902f69bc6696e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        101.8,
+                        98.0
+                    ],
+                    [
+                        101.8,
+                        1648.8
+                    ],
+                    [
+                        1627.2,
+                        1648.8
+                    ],
+                    [
+                        1627.2,
+                        98.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.86408,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 9,
+            "parent_id": "d95cbe089f1ec9e93d0dd1031d412ce4",
+            "text_as_html": "<table><thead><th></th><th colspan=\"3\">Sales</th><th colspan=\"3\">Operating profits?</th><th colspan=\"3\">After-tax profits</th></thead><thead><th></th><th rowspan=\"3\">1Q) 2020</th><th rowspan=\"3\">4Q 2019 (r)</th><th rowspan=\"3\">1Q) 2019 (r)</th><th>1Q)</th><th rowspan=\"3\">4Q 2019 (r) (million dollars)</th><th rowspan=\"3\">1Q) 2019 (r)</th><th rowspan=\"3\">1Q) 2020</th><th rowspan=\"3\">4Q 2019 (r)</th><th rowspan=\"3\">2019</th></thead><thead><th></th><th></th><th></th><th></th><th>2020</th><th></th><th></th><th></th><th></th><th></th></thead><thead><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></thead><tr><td>manufacturing? ..</td><td>1,576,794</td><td>1,711,707</td><td>1,641,870</td><td>106,570</td><td>124,783</td><td>114,863</td><td>105,362</td><td>140,197</td><td>148,381</td></tr><tr><td>All nondurable manufacturing</td><td>757,414</td><td>816,674</td><td>783,237</td><td>56,440</td><td>64,031</td><td>57,444</td><td>41,774</td><td>52,091</td><td>69,15\u00a2</td></tr><tr><td>Food ...</td><td>153,376</td><td>161,482</td><td>165,042</td><td>9,926</td><td>11,910</td><td>10,018</td><td>8,038</td><td>9,697</td><td>7,515</td></tr><tr><td>Beverage and tobacco products ....</td><td>51,374</td><td>51,235</td><td>47,121</td><td>9,467</td><td>9,869</td><td>9,229</td><td>10,485.</td><td>6,957</td><td>9,704</td></tr><tr><td>Textile mills and textile product mills</td><td>8,391</td><td>9,020</td><td>9,042</td><td>484</td><td>356</td><td>274</td><td>271</td><td>416</td><td>232</td></tr><tr><td>Apparel and leather products...</td><td>20,977</td><td>24,112</td><td>21,480</td><td>1,328</td><td>2,607</td><td>1,716</td><td>(108)</td><td>3,331</td><td>2,247</td></tr><tr><td>Paper ..</td><td>32,826</td><td>32,387</td><td>31,134</td><td>2,569</td><td>2,974</td><td>1,937</td><td>1,975</td><td>2,199</td><td>1,861</td></tr><tr><td>Printing and related support activities</td><td>12,219</td><td>12,490</td><td>12,166</td><td>279</td><td>520</td><td>474</td><td>(302)</td><td>(30)</td><td>(17</td></tr><tr><td>Petroleum and coal products .</td><td>200,210</td><td>244,913</td><td>225,181</td><td>(647)</td><td>5,607</td><td>2,702</td><td>(15,826)</td><td>2,911</td><td>8,275</td></tr><tr><td>Chemicals.</td><td>229,948</td><td>231,822</td><td>222,549</td><td>30,415</td><td>26,893</td><td>27,092</td><td>37,954</td><td>24,207</td><td>36,357</td></tr><tr><td>Basic chemicals, resins, and</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>synthetics? ...</td><td>53,358</td><td>53,045</td><td>57,989</td><td>4,404</td><td>3,267</td><td>3,931</td><td>3,259</td><td>119</td><td>3,47:</td></tr><tr><td>Pharmaceuticals and medicines\u00ae ...</td><td>119,231</td><td>122,627</td><td>111,540</td><td>19,689</td><td>17,386</td><td>17,648</td><td>27,924</td><td>17,134</td><td>27,23\u00a2</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>All other chemicals\u2019...</td><td>57,359</td><td>56,150</td><td>53,020</td><td>6,321</td><td>6,240</td><td>5,513</td><td>6,771</td><td>6,954</td><td>5,654</td></tr><tr><td>Plastics and rubber products</td><td>48,093</td><td>49,214</td><td>49,522</td><td>2,619</td><td>3,296</td><td>4,001</td><td>(713)</td><td>2,404</td><td>2,981</td></tr><tr><td colspan=\"10\">All durable manufacturing... 819,380 895,033 858,633 50,131 60,752 57,419 63,589 88,106 79,225</td></tr><tr><td>Wood products ...</td><td>20,801</td><td>24,639</td><td>18,646</td><td>1,368</td><td>1,424</td><td>1,541</td><td>962</td><td>703</td><td>738</td></tr><tr><td>Nonmetallic mineral products</td><td>27,267</td><td>30,059</td><td>26,191</td><td>853</td><td>1,724</td><td>333</td><td>(282)</td><td>1,060</td><td>538</td></tr><tr><td>Primary metals</td><td></td><td></td><td></td><td></td><td>1,134</td><td></td><td>154</td><td></td><td>2,695</td></tr><tr><td></td><td>52,768</td><td>50,986</td><td>55,896</td><td>1,699</td><td></td><td>3,454</td><td></td><td>(96)</td><td></td></tr><tr><td>Iron, steel, and ferroalloys?</td><td>28,653</td><td>27,199</td><td>30,891</td><td>976</td><td>258</td><td>1,728</td><td>(427)</td><td>(575)</td><td>1,31\u00a2</td></tr><tr><td>Nonferrous metals? ...</td><td>17,868</td><td>17,556</td><td>18,083</td><td>106</td><td>414</td><td>973</td><td>100</td><td>83</td><td>771</td></tr><tr><td>Foundries? ....</td><td>6,247</td><td>6,231</td><td>6,922</td><td>617</td><td>462</td><td>753</td><td>481</td><td>397</td><td>605</td></tr><tr><td>Fabricated metal products</td><td>65,911</td><td>64,692</td><td>61,288</td><td>6,494</td><td>4,582</td><td>6,105</td><td>4,238</td><td>3,743</td><td>5,743</td></tr><tr><td>Machinery ......</td><td>89,558</td><td>98,901</td><td>101,299</td><td>6,140</td><td>8,004</td><td>7,472</td><td>2,544</td><td>8,563</td><td>8,632</td></tr><tr><td>Computer and electronic products ...</td><td>168,338</td><td>191,019</td><td>170,257</td><td>15,989</td><td>20,458</td><td>12,449</td><td>37,925</td><td>50,469</td><td>28,982</td></tr><tr><td>Computer and peripheral equipment\u00ae</td><td>54,606</td><td>69,783</td><td>54,516</td><td>4,187</td><td>8,869</td><td>4,126</td><td>14,876</td><td>24,664</td><td>11,964</td></tr><tr><td>Communications equipment? ....</td><td>30,706</td><td>31,945</td><td>29,195</td><td>4,063</td><td>4,246</td><td>1,988</td><td>4,692</td><td>4911</td><td>2,425</td></tr><tr><td colspan=\"10\">All other electronic products\u2019 ... 83,026 89,291 86,546 7,738 7,343 6,335 18,357 20,894 14,593 Electrical equipment, appliances, and</td></tr><tr><td>components ..</td><td>45,483</td><td>48,887</td><td>47,093</td><td>2,798</td><td>3,584</td><td>3,858</td><td>7,073</td><td>3,164</td><td>7,275</td></tr><tr><td>Transportation equipment</td><td>272,938</td><td>306,140</td><td>311,112</td><td>9,920</td><td>13,979</td><td>16,899</td><td>4,230</td><td>8,183</td><td>17,764</td></tr><tr><td>Motor vehicles and parts?</td><td>179,662</td><td>204,485</td><td>211,998</td><td>3,052</td><td>4,939</td><td>5,544</td><td>(1,301)</td><td>2,148</td><td>7,576</td></tr><tr><td>Aerospace products and parts?</td><td>73,292</td><td>78,081</td><td>78,398</td><td>5,241</td><td>7,143</td><td>9,697</td><td>4,240</td><td>4,379</td><td>8,908</td></tr><tr><td>Furniture and related products ....</td><td>17,515</td><td>18,903</td><td>16,334</td><td>1,173</td><td>1,484</td><td>980</td><td>1,256</td><td>1,430</td><td>632</td></tr><tr><td>Miscellaneous manufacturing .....</td><td>58,800</td><td>60,807</td><td>50,517</td><td>3,698</td><td>4,378</td><td>4,329</td><td>5,489</td><td>10,886</td><td>6,223</td></tr><tr><td>mining? 4</td><td>65,342</td><td>77,000</td><td>74,308</td><td>(62)</td><td>6,962</td><td>9,204</td><td>(76,701)</td><td>(21,628)</td><td>2,733</td></tr><tr><td>wholesale trade\u2019 ....</td><td>677,852</td><td>721,842</td><td>665,770</td><td>13,259</td><td>18,409</td><td>15,797</td><td>4,693</td><td>12,730</td><td>9,561</td></tr><tr><td>Vholesale trade, durable goods</td><td>312,699</td><td>333,394</td><td>313,968</td><td>6,884</td><td>10,241</td><td>8,852</td><td>3,304</td><td>8,375</td><td>7,713</td></tr><tr><td>Vholesale trade, nondurable goods ....</td><td>365,154</td><td>388,448</td><td>351,802</td><td>6,375</td><td>8,167</td><td>6,945</td><td>1,389</td><td>4,355</td><td>1,84\u00a2</td></tr><tr><td>information\u2019.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>38,894</td></tr><tr><td>ublishing industries, internet</td><td>334,627</td><td>356,623</td><td>325,171</td><td>46,443</td><td>45,022</td><td>48,293</td><td>35,135</td><td>63,432</td><td></td></tr><tr><td>except Notion and sound industries.</td><td>69,067 7,522</td><td>73,550 7,893</td><td>66,568 5,924</td><td>8,925 689</td><td>10,280 409</td><td>7,292 106</td><td>15,322 (488)</td><td>24,216 156</td><td>14,188 (283</td></tr><tr><td>picture recording roadcasting, except internet.</td><td>38,191</td><td>41,382</td><td>36,336</td><td>5,373</td><td>4,382</td><td>6,719</td><td>(980)</td><td>3,091</td><td>8,492</td></tr><tr><td rowspan=\"2\">elecommunications.. II other information.</td><td>155,416</td><td>165,438</td><td>158,965</td><td>26,572</td><td>23,232</td><td>27,471</td><td>12,094</td><td>15,147</td><td>5,07\u20ac</td></tr><tr><td></td><td>64,431</td><td>68,361</td><td>57,379</td><td>4,884</td><td>6,718</td><td>6,706</td><td>9,186</td><td>20,822</td><td>11,42\u00a2</td></tr><tr><td>professional and technical services\u201d *..</td><td>156,951</td><td>167,359 67,157</td><td>143,689 57,510</td><td>(4,453) 298</td><td>415</td><td>189</td><td>(8,203) (2,137)</td><td>5,859</td><td>84\u20ac</td></tr></table>"
+        },
+        "text": "1Q 2020 Sales 4Q 2019 (r) 1Q 2019 (r) Operating profits1 1Q 2020 4Q 2019 (r) (million dollars) 1Q 2019 (r) 1Q 2020 After-tax profits 4Q 2019 (r) 1,576,794 1,711,707 1,641,870 106,570 124,783 114,863 105,362 140,197 148,381 . All nondurable manufacturing\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 .. Food \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026.. .. Beverage and tobacco products \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 .. Textile mills and textile product mills \u2026\u2026\u2026\u2026\u2026\u2026 .. Apparel and leather products \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 .. Paper \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026 .. Printing and related support activities \u2026\u2026\u2026\u2026\u2026 .. Petroleum and coal products \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 .. Chemicals \u2026\u2026\u2026\u2026\u2026..\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 757,414 153,376 51,374 8,391 20,977 32,826 12,219 200,210 229,948 816,674 161,482 51,235 9,020 24,112 32,387 12,490 244,913 231,822 783,237 165,042 47,121 9,042 21,480 31,134 12,166 225,181 222,549 56,440 9,926 9,467 484 1,328 2,569 279 (647) 30,415 64,031 11,910 9,869 356 2,607 2,974 520 5,607 26,893 57,444 10,018 9,229 274 1,716 1,937 474 2,702 27,092 41,774 8,038 10,485 271 (108) 1,975 (302) (15,826) 37,954 52,091 9,697 6,957 416 3,331 2,199 (30) 2,911 24,207 \u2026 Basic chemicals, resins, and \u2026 synthetics3 \u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026 Pharmaceuticals and medicines3 \u2026\u2026\u2026\u2026\u2026\u2026 \u2026 All other chemicals3 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 .. Plastics and rubber products ..\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 53,358 119,231 57,359 48,093 53,045 122,627 56,150 49,214 57,989 111,540 53,020 49,522 4,404 19,689 6,321 2,619 3,267 17,386 6,240 3,296 3,931 17,648 5,513 4,001 3,259 27,924 6,771 (713) 119 17,134 6,954 2,404 3,473 27,230 5,654 2,981 . All durable manufacturing\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 .. Wood products \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 .. Nonmetallic mineral products \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 .. Primary metals \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026 Iron, steel, and ferroalloys3 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026 Nonferrous metals3 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026 Foundries3 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 .. Fabricated metal products \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 .. Machinery \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 .. Computer and electronic products \u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026 Computer and peripheral equipment3 \u2026\u2026\u2026\u2026 \u2026 Communications equipment3 \u2026\u2026..\u2026\u2026\u2026\u2026\u2026\u2026 \u2026 All other electronic products3 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 819,380 20,801 27,267 52,768 28,653 17,868 6,247 65,911 89,558 168,338 54,606 30,706 83,026 895,033 24,639 30,059 50,986 27,199 17,556 6,231 64,692 98,901 191,019 69,783 31,945 89,291 858,633 18,646 26,191 55,896 30,891 18,083 6,922 61,288 101,299 170,257 54,516 29,195 86,546 50,131 1,368 853 1,699 976 106 617 6,494 6,140 15,989 4,187 4,063 7,738 60,752 1,424 1,724 1,134 258 414 462 4,582 8,004 20,458 8,869 4,246 7,343 57,419 1,541 333 3,454 1,728 973 753 6,105 7,472 12,449 4,126 1,988 6,335 63,589 962 (282) 154 (427) 100 481 4,238 2,544 37,925 14,876 4,692 18,357 88,106 703 1,060 (96) (575) 83 397 3,743 8,563 50,469 24,664 4,911 20,894 79,225 738 538 2,695 1,319 771 605 5,743 8,632 28,982 11,964 2,425 14,593 .. Electrical equipment, appliances, and .. components \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 .. Transportation equipment \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026 Motor vehicles and parts3 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026 Aerospace products and parts3 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 .. Furniture and related products \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 .. Miscellaneous manufacturing ....\u2026\u2026.......\u2026\u2026\u2026\u2026\u2026 45,483 272,938 179,662 73,292 17,515 58,800 48,887 306,140 204,485 78,081 18,903 60,807 47,093 311,112 211,998 78,398 16,334 50,517 2,798 9,920 3,052 5,241 1,173 3,698 3,584 13,979 4,939 7,143 1,484 4,378 3,858 16,899 5,544 9,697 980 4,329 7,073 4,230 (1,301) 4,240 1,256 5,489 3,164 8,183 2,148 4,379 1,430 10,886 7,279 17,764 7,576 8,908 632 6,223 65,342 77,000 74,308 (62) 6,962 9,204 (76,701) (21,628) 2,733 677,852 312,699 365,154 721,842 333,394 388,448 665,770 313,968 351,802 13,259 6,884 6,375 18,409 10,241 8,167 15,797 8,852 6,945 4,693 3,304 1,389 12,730 8,375 4,355 9,561 7,713 1,849 334,627 69,067 7,522 38,191 155,416 64,431 356,623 73,550 7,893 41,382 165,438 68,361 325,171 66,568 5,924 36,336 158,965 57,379 46,443 8,925 689 5,373 26,572 4,884 45,022 10,280 409 4,382 23,232 6,718 48,293 7,292 106 6,719 27,471 6,706 35,135 15,322 (488) (980) 12,094 9,186 63,432 24,216 156 3,091 15,147 20,822",
+        "type": "Table"
+    },
+    {
+        "element_id": "0ce49efca44f97575b571c1ec884f479",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        83.6,
+                        246.9
+                    ],
+                    [
+                        83.6,
+                        272.7
+                    ],
+                    [
+                        509.8,
+                        272.7
+                    ],
+                    [
+                        509.8,
+                        246.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 9,
+            "parent_id": "d95cbe089f1ec9e93d0dd1031d412ce4"
+        },
+        "text": "All manufacturing2 \u2026\u2026..\u2026\u2026\u2026..\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "bc929a82a47e9d8c0bf0ea8dc48a08cc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        83.6,
+                        1264.9
+                    ],
+                    [
+                        83.6,
+                        1290.7
+                    ],
+                    [
+                        513.4,
+                        1290.7
+                    ],
+                    [
+                        513.4,
+                        1264.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 9,
+            "parent_id": "d95cbe089f1ec9e93d0dd1031d412ce4"
+        },
+        "text": "All mining2 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "d32a212a3c15fd66fb971649f7a6394b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        83.6,
+                        1315.2
+                    ],
+                    [
+                        83.6,
+                        1393.7
+                    ],
+                    [
+                        518.4,
+                        1393.7
+                    ],
+                    [
+                        518.4,
+                        1315.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 9,
+            "parent_id": "d95cbe089f1ec9e93d0dd1031d412ce4"
+        },
+        "text": "All wholesale trade2 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 . Wholesale trade, durable goods \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 . Wholesale trade, nondurable goods \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0e36fefee8f76ce7ff4a5fba844d48b6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        83.6,
+                        1418.2
+                    ],
+                    [
+                        83.6,
+                        1575.7
+                    ],
+                    [
+                        523.1,
+                        1575.7
+                    ],
+                    [
+                        523.1,
+                        1418.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 9,
+            "parent_id": "d95cbe089f1ec9e93d0dd1031d412ce4"
+        },
+        "text": "All information2\u2026\u2026\u2026\u2026.\u2026.\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 . Publishing industries, except internet\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 . Motion picture and sound recording industries\u2026\u2026. . Broadcasting, except internet\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 . Telecommunications\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 . All other information\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e8eae97d5ae76bf887e0dcbf21ea806d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        83.6,
+                        1600.2
+                    ],
+                    [
+                        83.6,
+                        1731.3
+                    ],
+                    [
+                        523.5,
+                        1731.3
+                    ],
+                    [
+                        523.5,
+                        1600.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 9,
+            "parent_id": "d95cbe089f1ec9e93d0dd1031d412ce4"
+        },
+        "text": "All professional and technical services2, 4..\u2026\u2026\u2026\u2026\u2026\u2026\u2026 . Computer systems design and related services\u2026\u2026.. . Management and technical consulting services\u2026\u2026\u2026 . Scientific research and development services\u2026\u2026\u2026. . All other professional and technical services\u2026\u2026\u2026\u2026",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "18cdd65948e43cee63049e4fbf964bf3",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        560.2,
+                        1606.0
+                    ],
+                    [
+                        560.2,
+                        1731.7
+                    ],
+                    [
+                        627.2,
+                        1731.7
+                    ],
+                    [
+                        627.2,
+                        1606.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 9,
+            "parent_id": "d95cbe089f1ec9e93d0dd1031d412ce4"
+        },
+        "text": "156,951 64,633 26,111 15,999 50,208",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "f866985e7307f8a92966f2d1cf9e7901",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        685.6,
+                        1606.0
+                    ],
+                    [
+                        685.6,
+                        1731.7
+                    ],
+                    [
+                        752.5,
+                        1731.7
+                    ],
+                    [
+                        752.5,
+                        1606.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 9,
+            "parent_id": "d95cbe089f1ec9e93d0dd1031d412ce4"
+        },
+        "text": "167,359 67,157 26,536 18,056 55,611",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "9d619a4738c1373f6335c6fb15d50289",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        810.9,
+                        1606.0
+                    ],
+                    [
+                        810.9,
+                        1731.7
+                    ],
+                    [
+                        877.9,
+                        1731.7
+                    ],
+                    [
+                        877.9,
+                        1606.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 9,
+            "parent_id": "d95cbe089f1ec9e93d0dd1031d412ce4"
+        },
+        "text": "143,689 57,510 21,530 15,952 48,696",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "3e6bdc644d9d13c28030c1144eedfb07",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        950.6,
+                        1606.0
+                    ],
+                    [
+                        950.6,
+                        1731.7
+                    ],
+                    [
+                        1009.4,
+                        1731.7
+                    ],
+                    [
+                        1009.4,
+                        1606.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 9,
+            "parent_id": "d95cbe089f1ec9e93d0dd1031d412ce4"
+        },
+        "text": "(4,453) 298 412 (5,372) 210",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "632c2988e0fcedf9669056e244461213",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        1075.9,
+                        1606.0
+                    ],
+                    [
+                        1075.9,
+                        1731.7
+                    ],
+                    [
+                        1134.7,
+                        1731.7
+                    ],
+                    [
+                        1134.7,
+                        1606.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 9,
+            "parent_id": "d95cbe089f1ec9e93d0dd1031d412ce4"
+        },
+        "text": "415 1,594 912 (4,981) 2,890",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "b900dc2e6f291ed35d1239c9617ae37c",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        1201.2,
+                        1606.0
+                    ],
+                    [
+                        1201.2,
+                        1731.7
+                    ],
+                    [
+                        1260.1,
+                        1731.7
+                    ],
+                    [
+                        1260.1,
+                        1606.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 9,
+            "parent_id": "d95cbe089f1ec9e93d0dd1031d412ce4"
+        },
+        "text": "189 1,319 168 (4,485) 3,187",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "963c96d3494fbb101a007a6ae9510761",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        1326.6,
+                        1606.0
+                    ],
+                    [
+                        1326.6,
+                        1731.7
+                    ],
+                    [
+                        1385.4,
+                        1731.7
+                    ],
+                    [
+                        1385.4,
+                        1606.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 9,
+            "parent_id": "d95cbe089f1ec9e93d0dd1031d412ce4"
+        },
+        "text": "(8,203) (2,137) 610 (4,904) (1,772)",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "85e4a5255022da854584f052e778a527",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        1451.9,
+                        1606.0
+                    ],
+                    [
+                        1451.9,
+                        1731.7
+                    ],
+                    [
+                        1510.7,
+                        1731.7
+                    ],
+                    [
+                        1510.7,
+                        1606.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 9,
+            "parent_id": "d95cbe089f1ec9e93d0dd1031d412ce4"
+        },
+        "text": "5,859 4,618 1,083 (4,342) 4,500",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "7912873905e0075fc5b2be2a58a0390d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        52.9,
+                        1769.8
+                    ],
+                    [
+                        52.9,
+                        1791.5
+                    ],
+                    [
+                        148.6,
+                        1791.5
+                    ],
+                    [
+                        148.6,
+                        1769.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.42967,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 9
+        },
+        "text": "Footnotes:",
+        "type": "Title"
+    },
+    {
+        "element_id": "6ba885bbdb2ef74273f853fd83e6ea09",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        82.6,
+                        1802.3
+                    ],
+                    [
+                        82.6,
+                        2063.3
+                    ],
+                    [
+                        1623.0,
+                        2063.3
+                    ],
+                    [
+                        1623.0,
+                        1802.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 9,
+            "parent_id": "7912873905e0075fc5b2be2a58a0390d"
+        },
+        "text": "(r) Revised. 1Operating profits are profits before nonoperating income, expense items, and income taxes. 2Manufacturing data are the quarterly results of companies within that division with total assets of $5 million and over at the time of sample selection; whereas, data for mining, wholesale trade, information, and professional and technical services corporations (except legal services), represent the quarterly results of companies with total assets of $50 million and over at the time of sample selection. 3Included in major industry above. 4Except legal services. Data are not adjusted for seasonality or price changes. Explanations of confidence intervals and sampling variability can be found on our website at <www.census.gov/econ/qfr/documents/QFR_Methodology.pdf>. Source: U.S. Census Bureau, Quarterly Financial Report, June 8, 2020.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c5576b128fcd887ca0eba5e2f1599878",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        783.9,
+                        2104.6
+                    ],
+                    [
+                        783.9,
+                        2149.4
+                    ],
+                    [
+                        1650.0,
+                        2149.4
+                    ],
+                    [
+                        1650.0,
+                        2104.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.81804,
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 9,
+            "parent_id": "7912873905e0075fc5b2be2a58a0390d"
+        },
+        "text": "Quarterly Financial Report: U. S. Manufacturing, Mining, Wholesale Trade, and Selected Service Industries, 1st Quarter 2020 U. S. Census Bureau",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4efed49b5f78e1876ea9401ce3379797",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2201,
+                "layout_width": 1701,
+                "points": [
+                    [
+                        1577.2,
+                        1606.0
+                    ],
+                    [
+                        1577.2,
+                        1731.7
+                    ],
+                    [
+                        1636.1,
+                        1731.7
+                    ],
+                    [
+                        1636.1,
+                        1606.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/content",
+            "filename": "Quarterly.Financial.Report.Template.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2023-12-15T16:41:49",
+            "page_number": 9,
+            "parent_id": "7912873905e0075fc5b2be2a58a0390d"
+        },
+        "text": "846 2,179 274 (3,596) 1,990",
+        "type": "UncategorizedText"
+    }
+]
