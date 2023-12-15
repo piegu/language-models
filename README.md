@@ -1,6 +1,10 @@
 # Language Models
 Repository of pre-trained Language Models and NLP models.
 
+## unstructured library | Get the JSON and HTML versions of any PDF (legal, financial, medical…), even PDF with tables!
+- Blog post: [unstructured library | Get the JSON and HTML versions of any PDF (legal, financial, medical…), even PDF with tables!](https://medium.com/@pierre_guillou/unstructured-library-get-the-json-and-html-versions-of-any-pdf-legal-financial-medical-fb7738769caa)
+- Notebook: [Unstructured_PDF_to_JSON_and_HTML.ipynb](https://github.com/piegu/language-models/blob/master/Unstructured_PDF_to_JSON_and_HTML.ipynb)
+
 ## Speech-to-Text | Get transcription WITH SPEAKERS from large audio file in any language (OpenAI Whisper + NeMo Speaker Diarization)
 - Blog post: [Speech-to-Text | Get transcription WITH SPEAKERS from large audio file in any language (OpenAI Whisper + NeMo Speaker Diarization)](https://medium.com/@pierre_guillou/speech-to-text-get-transcription-with-speakers-from-large-audio-file-in-any-language-openai-8da2312f1617)
 - Notebook: [speech_to_text_transcription_with_speakers_Whisper_Transcription_+_NeMo_Diarization.ipynb](https://github.com/piegu/language-models/blob/master/speech_to_text_transcription_with_speakers_Whisper_Transcription_%2B_NeMo_Diarization.ipynb)
