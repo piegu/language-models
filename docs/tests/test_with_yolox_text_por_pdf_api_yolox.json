@@ -1,0 +1,125 @@
+[
+    {
+        "element_id": "485be2d4f131afed66ce494254e31e0e",
+        "metadata": {
+            "filename": "test_with_yolox_text_por.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1
+        },
+        "text": "Teste com yolox (texto em portugu\u00eas)",
+        "type": "Title"
+    },
+    {
+        "element_id": "f4f45e740f2c262e25144878df762ec9",
+        "metadata": {
+            "filename": "test_with_yolox_text_por.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "485be2d4f131afed66ce494254e31e0e",
+            "text_as_html": "<table><thead><th>i</th><th>wo</th><th>[ |</th><th></th><th>lgmewe</th></thead><tr><td>2 |</td><td></td><td>leswss |</td><td></td><td>|</td></tr><tr><td></td><td></td><td>R</td><td>R</td><td>Y</td></tr><tr><td>TOTAL</td><td>288.284.696,00</td><td>|88.876,98</td><td>-</td><td>]1.065.974,00</td></tr></table>"
+        },
+        "text": "Produtos Q1 Q2 p1 p2 p3 p4 1.899,00 288282.797,00 88.876,98 TOTAL 288.284.696,00 88.876,98 Q3 Q4 877.987,00 187.987,00 1.065.974,00",
+        "type": "Table"
+    },
+    {
+        "element_id": "bd27b98e3d0a7c92a398dfa8b9cdb668",
+        "metadata": {
+            "filename": "test_with_yolox_text_por.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "485be2d4f131afed66ce494254e31e0e"
+        },
+        "text": "*Este n\u00e3o \u00e9 um texto em ingl\u00eas, mas em portugu\u00eas.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b265551a4ef8d8f8edadbd531b09cb71",
+        "metadata": {
+            "filename": "test_with_yolox_text_por.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1
+        },
+        "text": "T\u00edtulo 1",
+        "type": "Title"
+    },
+    {
+        "element_id": "0261b7f6d6912497637d2c96b78fb5e6",
+        "metadata": {
+            "filename": "test_with_yolox_text_por.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "b265551a4ef8d8f8edadbd531b09cb71"
+        },
+        "text": "par\u00e1grafo 1",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4042a2e93d4d3a3a40a04e97f6251878",
+        "metadata": {
+            "filename": "test_with_yolox_text_por.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1
+        },
+        "text": "T\u00edtulo 2",
+        "type": "Title"
+    },
+    {
+        "element_id": "8bca55b8014914b62d03a2d3527f1da7",
+        "metadata": {
+            "filename": "test_with_yolox_text_por.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "4042a2e93d4d3a3a40a04e97f6251878"
+        },
+        "text": "par\u00e1grafo 2",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "aac1d65e243ea9e1d6f96b550a062b6a",
+        "metadata": {
+            "filename": "test_with_yolox_text_por.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1
+        },
+        "text": "T\u00edtulo 3",
+        "type": "Title"
+    },
+    {
+        "element_id": "39e3a246052dc1acff035b59c2ef2090",
+        "metadata": {
+            "filename": "test_with_yolox_text_por.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "aac1d65e243ea9e1d6f96b550a062b6a"
+        },
+        "text": "par\u00e1grafo 3",
+        "type": "NarrativeText"
+    }
+]
