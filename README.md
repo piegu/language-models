@@ -1,6 +1,9 @@
 # Language Models
 Repository of pre-trained Language Models and NLP models.
 
+## HF-LLM.rs 🦀
+[HF-LLM.rs 🦀](https://github.com/piegu/language-models-hf-llm.rs?tab=readme-ov-file#hf-llmrs-) is a CLI tool for accessing Large Language Models (LLMs) like Llama 3.1, Mistral, Gemma 2, Cohere and much more hosted on Hugging Face. It allows you to interact with various models, provide input, and receive responses in a terminal environment. (credit: [Vaibhav Srivastav](https://github.com/Vaibhavs10))
+
 ## unstructured library | Get the JSON and HTML versions of any PDF (legal, financial, medical…), even PDF with tables!
 - Blog post: [unstructured library | Get the JSON and HTML versions of any PDF (legal, financial, medical…), even PDF with tables!](https://medium.com/@pierre_guillou/unstructured-library-get-the-json-and-html-versions-of-any-pdf-legal-financial-medical-fb7738769caa)
 - Notebook: [Unstructured_PDF_to_JSON_and_HTML.ipynb](https://github.com/piegu/language-models/blob/master/Unstructured_PDF_to_JSON_and_HTML.ipynb)
